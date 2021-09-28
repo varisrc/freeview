@@ -21,7 +21,7 @@ http://50.7.161.82:8278/streams/d/Xinhe/playlist.m3u8|https://github.com/iptv-or
 #EXTINF:-1 tvg-id="TVS" group-title="Malaysia" tvg-logo="https://tvstv.my/wp-content/uploads/2020/09/cropped-TVS-Logo-Square2.jpg",TVS
 https://agsplayback01.astro.com.my:443/CH1/master_AGS_TVS_04.m3u8
 
-#EXTINF:-1 tvg-ID="" tvg-logo="https://baseimages.tonton.com.my/1580295767086_drama_sangat_new.jpg" group-title="Malaysia",Drama Sangat
+#EXTINF:-1 tvg-ID="105" tvg-logo="https://baseimages.tonton.com.my/1580295767086_drama_sangat_new.jpg" group-title="Malaysia",Drama Sangat
 https://mediahomes.github.io/assets/my/ch_ds.m3u8|Referer=https://www.dailymotion.com
 
 #EXTINF:-1 tvg-ID="Hello" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/110.png" group-title="Malaysia",Hello
@@ -30,8 +30,8 @@ https://agsplayback01.astro.com.my/CH1/master_HELLOGOSHOP6_04.m3u8
 #EXTINF:-1 tvg-ID="OKEY" tvg-logo="https://okey.rtm.gov.my/img/logo/okey.png" group-title="Malaysia",OKEY
 https://v-t-e-r.github.io/Umbrella/Playlist/Ch/Okey.m3u8|Referer=https://github.com/weareblahs
 
-#EXTINF:-1 tvg-ID="AstroAEC" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/80_144.png" group-title="Malaysia",Astro AEC(X)
-http://
+#EXTINF:-1 tvg-ID="AstroAEC" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/80_144.png" group-title="Malaysia",Astro AEC
+http://50.7.161.82:8278/streams/d/aec_pye/playlist.m3u8|https://yamcode.com/embed/nasi-campur-iptv-200-channels
 
 #EXTINF:-1 tvg-ID="AstroCeria" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/55_144.png" group-title="Malaysia",Astro Ceria
 http://50.7.161.82:8278/streams/d/Ceria/playlist.m3u8|Referer=https://github.com/xhanafix
@@ -64,9 +64,9 @@ https://mediahomes.github.io/assets/yt/bnc.m3u8|Referer=https://www.youtube.com
 https://v-t-e-r.github.io/Umbrella/Playlist/Ch/Beritartm.m3u8|Referer=https://github.com/weareblahs
 
 #EXTINF:-1 tvg-ID="TVSUKAN" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/02/RTM_HD_Sports.png" group-title="Malaysia",RTM Sports
-https://v-t-e-r.github.io/Umbrella/Playlist/Ch/Sukanrtm.m3u8|Referer=https://github.com/weareblahs
+https://v-t-e-r.github.io/Umbrella/Playlist/Ch/Sukanrtm.m3u8|Referer=https://rtmklik.rtm.gov.my
 
-#EXTINF:-1 tvg-ID="CNA (HD)" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/515.png" group-title="Malaysia",亚洲新闻台(CNA)
+#EXTINF:-1 tvg-ID="515" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/515.png" group-title="Malaysia",亚洲新闻台(CNA)
 https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8
 
 #EXTINF:-1 tvg-ID="Channel 5" tvg-logo="https://poster.starhubgo.com/Linear_channels2/102_1920x1080_HTV.png" group-title="Malaysia",Channel 5
@@ -1176,7 +1176,7 @@ https://liveanevia.mncnow.id/live/eds/TLC/sa_dash_vmx/TLC.mpd
 #EXTINF:-1 group-title="MYTV Broadcasting: Radio" ch-number="701" tvg-id="701" tvg-chno="701" tvg-logo="https://myklikstatic.secureswiftcontent.com/image/radioRADIONASIONALLOGO170X96.png",Nasional FM
 https://nasionalfmmobile.secureswiftcontent.com/memorystreams/HLS/rtm-ch017/rtm-ch017.m3u8
 
-#EXTINF:-1 group-title="MYTV Broadcasting: Radio" ch-number="702" tvg-id="702" tvg-chno="702" tvg-logo="https://myklikstatic.secureswiftcontent.com/image/RADIOlogoradiotraxxfm.png",Traxx FM
+#EXTINF:-1 group-title="MYTV Broadcasting: Radio" ch-number="702" tvg-id="702" tvg-chno="702" tvg-logo="https://www.lyngsat.com/logo/radio/tt/traxx_fm.png",Traxx FM
 https://traxxfmmobile.secureswiftcontent.com/memorystreams/HLS/rtm-ch019/rtm-ch019.m3u8
 
 #EXTINF:-1 group-title="MYTV Broadcasting: Radio" ch-number="703" tvg-id="703" tvg-chno="703" tvg-logo="https://myklikstatic.secureswiftcontent.com/image/radioRADIMINNALLOGO170X96.png",Minnal FM
