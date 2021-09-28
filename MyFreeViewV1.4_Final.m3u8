@@ -39,7 +39,7 @@ http://50.7.161.82:8278/streams/d/iqiyi_pye/playlist.m3u8|https://yamcode.com/em
 #EXTINF:-1 tvg-id="333" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/9_144.png" tvg-url="" group-title="Malaysia",Astro 欢喜台 (Hua Hee Dai)
 http://198.16.106.62:8278/streams/d/Huahee/playlist.m3u8|https://yamcode.com/embed/nasi-campur-iptv-200-channels
 
-#EXTINF:-1 tvg-id="310" tvg-logo="https://www.lyngsat.com/logo/tv/tt/tvb_hk_jade_my.png" tvg-url="" group-title="Malaysia",Astro 华丽台 (TVB Jade Malaysia)
+#EXTINF:-1 tvg-id="310" tvg-logo="https://www.livenewsmag.com/wp-content/uploads/2017/02/TVB-Jade-Hong-Kong-300x200.jpg" tvg-url="" group-title="Malaysia",Astro 华丽台 (TVB Jade Malaysia)
 http://198.16.106.62:8278/streams/d/Wlt/playlist.m3u8|https://yamcode.com/embed/nasi-campur-iptv-200-channels
 
 #EXTINF:-1 tvg-id="308" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f8/Astro_Quan_Jia.png" tvg-url="" group-title="Malaysia",Astro Quan Jia HD
