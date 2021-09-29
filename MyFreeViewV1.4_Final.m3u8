@@ -253,7 +253,7 @@ https://liveanevia.mncnow.id/live/eds/CelestialMovie/sa_dash_vmx/CelestialMovie.
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=YWY0OTBlZjEtODAyNC0zZTA0LWFhYzMtY2ZmMGE4NjVjZjU1
 https://liveanevia.mncnow.id/live/eds/CelestialClassic/sa_dash_vmx/CelestialClassic.mpd
 
-#EXTINF:-1 tvg-id="228" tvg-logo="https://www.fng.tw/scm/images/StarChinesMovies_logo.png" group-title="电影",衛視電影
+#EXTINF:-1 tvg-id="228" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/f/f0/Star_chinese_movies_2012.png" group-title="电影",衛視電影
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=YWY0OTBlZjEtODAyNC0zZTA0LWFhYzMtY2ZmMGE4NjVjZjU1
 https://liveanevia.mncnow.id/live/eds/SCM/sa_dash_vmx/SCM.mpd
