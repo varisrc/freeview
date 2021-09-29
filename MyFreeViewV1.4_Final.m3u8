@@ -13,8 +13,10 @@ https://rtmlive05tv.secureswiftcontent.com/rtmchannel/05-manifest.mpd|https://gi
 #EXTINF:-1 tvg-id="TV3" group-title="Malaysia" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/103.png",TV3
 https://mediahomes.github.io/assets/my/ch_tv3.m3u8|Referer=https://www.dailymotion.com
 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/93.0.4577.63 Safari/537.36
+#EXTVLCOPT:http-referrer=https://rtmklik.rtm.gov.my/
 #EXTINF:-1 tvg-ID="DidikTVKPM" tvg-logo="https://didik.tv/images/logotv2.png" group-title="Malaysia",DidikTV KPM
-https://v-t-e-r.github.io/Umbrella/Playlist/Ch/107.m3u8|Referer=https://github.com/weareblahs
+https://raw.githubusercontent.com/samleong123/tonton_dailymotion_php/main/m3u8/DidikTVKPM.m3u8|https://github.com/samleong123
 
 #EXTINF:-1 tvg-ID="8TV" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/148.png" group-title="Malaysia",8TV
 https://mediahomes.github.io/assets/my/ch_8tv.m3u8|Referer=https://www.dailymotion.com
@@ -31,8 +33,10 @@ https://mediahomes.github.io/assets/my/ch_ds.m3u8|Referer=https://www.dailymotio
 #EXTINF:-1 tvg-ID="Hello" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/110.png" group-title="Malaysia",Hello
 https://agsplayback01.astro.com.my/CH1/master_HELLOGOSHOP6_04.m3u8
 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/93.0.4577.63 Safari/537.36
+#EXTVLCOPT:http-referrer=https://rtmklik.rtm.gov.my/
 #EXTINF:-1 tvg-ID="OKEY" tvg-logo="https://okey.rtm.gov.my/img/logo/okey.png" group-title="Malaysia",OKEY
-https://rtmlive02tv.secureswiftcontent.com/rtmchannel/02-manifest.mpd|Referer=https://github.com/weareblahs
+https://rtmlive02tv.secureswiftcontent.com/rtmchannel/02-manifest.mpd|https://github.com/samleong123
 
 #EXTINF:-1 tvg-ID="AstroAEC" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/80_144.png" group-title="Malaysia",Astro AEC
 http://50.7.161.82:8278/streams/d/aec_pye/playlist.m3u8|https://yamcode.com/embed/nasi-campur-iptv-200-channels
@@ -49,10 +53,10 @@ http://198.16.106.62:8278/streams/d/Wlt/playlist.m3u8|https://yamcode.com/embed/
 #EXTINF:-1 tvg-id="308" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f8/Astro_Quan_Jia.png" tvg-url="" group-title="Malaysia",Astro Quan Jia HD
 http://50.7.161.82:8278/streams/d/Quanjia/playlist.m3u8|https://yamcode.com/embed/nasi-campur-iptv-200-channels
 
-#EXTINF:-1 tvg-id="311" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/c/cb/Astro_AOD.jpeg/200px-Astro_AOD.jpeg" tvg-url="" group-title="Malaysia",Astro AOD EnSub
+#EXTINF:-1 tvg-id="311" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/c/cb/Astro_AOD.jpeg/200px-Astro_AOD.jpeg" tvg-url="" group-title="Malaysia",Astro AOD 311 EnSub
 http://198.16.106.62:8278/streams/d/AodHD/playlist.m3u8|https://yamcode.com/embed/nasi-campur-iptv-200-channels
 
-#EXTINF:-1 tvg-id="311" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/c/cb/Astro_AOD.jpeg/200px-Astro_AOD.jpeg" tvg-url="" group-title="Malaysia",Astro AOD MalSub
+#EXTINF:-1 tvg-id="311" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/c/cb/Astro_AOD.jpeg/200px-Astro_AOD.jpeg" tvg-url="" group-title="Malaysia",Astro AOD 311 MalSub
 http://50.7.161.82:8278/streams/d/aod_pye/playlist.m3u8|https://yamcode.com/embed/nasi-campur-iptv-200-channels
 
 #EXTINF:-1 tvg-ID="AstroCeria" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/55_144.png" group-title="Malaysia",Astro Ceria
@@ -82,11 +86,15 @@ https://awanitv.akamaized.net/hls/live/2017836/LiveTV1/index.m3u8
 #EXTINF:-1 tvg-id="631" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/502_300.png" group-title="Malaysia",Bernama
 https://mediahomes.github.io/assets/yt/bnc.m3u8|Referer=https://www.youtube.com
 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/93.0.4577.63 Safari/537.36
+#EXTVLCOPT:http-referrer=https://rtmklik.rtm.gov.my/
 #EXTINF:-1 tvg-ID="BERITARTM" tvg-logo="https://berita.rtm.gov.my/images/logobes.jpg" group-title="Malaysia",Berita RTM
-https://v-t-e-r.github.io/Umbrella/Playlist/Ch/Beritartm.m3u8|Referer=https://github.com/weareblahs
+https://rtmlive02tv.secureswiftcontent.com/rtmchannel/03-manifest.mpd|https://github.com/samleong123
 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/93.0.4577.63 Safari/537.36
+#EXTVLCOPT:http-referrer=https://rtmklik.rtm.gov.my/
 #EXTINF:-1 tvg-ID="TVSUKAN" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/02/RTM_HD_Sports.png" group-title="Malaysia",RTM Sports
-http://50.7.161.82:8278/streams/d/rtm_pye/playlist.m3u8|https://yamcode.com/embed/nasi-campur-iptv-200-channels
+https://rtmlive06tv.secureswiftcontent.com/rtmchannel/06-manifest.mpd|https://github.com/samleong123
 
 #EXTINF:-1 tvg-ID="515" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/515.png" group-title="Malaysia",亚洲新闻台(CNA)
 https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8
