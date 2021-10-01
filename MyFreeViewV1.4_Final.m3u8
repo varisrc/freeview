@@ -21,9 +21,6 @@ https://raw.githubusercontent.com/samleong123/tonton_dailymotion_php/main/m3u8/D
 #EXTINF:-1 tvg-ID="8TV" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/148.png" group-title="Malaysia",8TV
 https://mediahomes.github.io/assets/my/ch_8tv.m3u8|Referer=https://www.dailymotion.com
 
-#EXTINF:-1 tvg-id="TVBXingHe" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/thumb/1/17/TVB_Xing_He_logo_2017.png/220px-TVB_Xing_He_logo_2017.png" group-title="Malaysia",TVB Xing He 星河 (720p) [Not 24/7]
-http://50.7.161.82:8278/streams/d/Xinhe/playlist.m3u8|https://github.com/iptv-org
-
 #EXTINF:-1 tvg-id="TVS" group-title="Malaysia" tvg-logo="https://tvstv.my/wp-content/uploads/2020/09/cropped-TVS-Logo-Square2.jpg",TVS
 https://agsplayback01.astro.com.my:443/CH1/master_AGS_TVS_04.m3u8
 
@@ -37,6 +34,9 @@ https://agsplayback01.astro.com.my/CH1/master_HELLOGOSHOP6_04.m3u8
 #EXTVLCOPT:http-referrer=https://rtmklik.rtm.gov.my/
 #EXTINF:-1 tvg-ID="OKEY" tvg-logo="https://okey.rtm.gov.my/img/logo/okey.png" group-title="Malaysia",OKEY
 https://rtmlive02tv.secureswiftcontent.com/rtmchannel/02-manifest.mpd|https://github.com/samleong123
+
+#EXTINF:-1 tvg-id="TVBXingHe" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/thumb/1/17/TVB_Xing_He_logo_2017.png/220px-TVB_Xing_He_logo_2017.png" group-title="Malaysia",TVB Xing He 星河 (720p) [Not 24/7]
+http://50.7.161.82:8278/streams/d/Xinhe/playlist.m3u8|https://github.com/iptv-org
 
 #EXTINF:-1 tvg-ID="AstroAEC" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/80_144.png" group-title="Malaysia",Astro AEC
 http://50.7.161.82:8278/streams/d/aec_pye/playlist.m3u8|https://yamcode.com/embed/nasi-campur-iptv-200-channels
@@ -59,6 +59,12 @@ http://198.16.106.62:8278/streams/d/AodHD/playlist.m3u8|https://yamcode.com/embe
 #EXTINF:-1 tvg-id="311" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/c/cb/Astro_AOD.jpeg/200px-Astro_AOD.jpeg" tvg-url="" group-title="Malaysia",Astro AOD 311 MalSub
 http://50.7.161.82:8278/streams/d/aod_pye/playlist.m3u8|https://yamcode.com/embed/nasi-campur-iptv-200-channels
 
+#EXTINF:-1 tvg-id="AstroShuangXing" tvg-country="MY" tvg-language="" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/183_144.png" group-title="Malaysia",Astro Shuang Xing (720p) [Not 24/7]
+http://50.7.161.82:8278/streams/d/Shuangxing/playlist.m3u8|Referer=https://github.com/iptv-org
+
+#EXTINF:-1 tvg-id="AstroXiaoTaiYang" tvg-country="MY" tvg-language="" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/387_144.png" group-title="Malaysia",Astro Xiao Tai Yang [Not 24/7]
+http://50.7.161.82:8278/streams/d/Xiaotaiyang/playlist.m3u8|Referer=https://github.com/iptv-org
+
 #EXTINF:-1 tvg-ID="AstroCeria" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/55_144.png" group-title="Malaysia",Astro Ceria
 http://50.7.161.82:8278/streams/d/Ceria/playlist.m3u8|Referer=https://github.com/xhanafix
 
@@ -73,12 +79,6 @@ http://50.7.161.82:8278/streams/d/Citra/playlist.m3u8|https://github.com/iptv-or
 
 #EXTINF:-1 tvg-id="AstroPrima" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/105_300.png" group-title="Malaysia",Astro Prima HD
 http://50.7.161.82:8278/streams/d/Prima/playlist.m3u8
-
-#EXTINF:-1 tvg-id="AstroShuangXing" tvg-country="MY" tvg-language="" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/183_144.png" group-title="Malaysia",Astro Shuang Xing (720p) [Not 24/7]
-http://50.7.161.82:8278/streams/d/Shuangxing/playlist.m3u8|Referer=https://github.com/iptv-org
-
-#EXTINF:-1 tvg-id="AstroXiaoTaiYang" tvg-country="MY" tvg-language="" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/387_144.png" group-title="Malaysia",Astro Xiao Tai Yang [Not 24/7]
-http://50.7.161.82:8278/streams/d/Xiaotaiyang/playlist.m3u8|Referer=https://github.com/iptv-org
 
 #EXTINF:-1 tvg-ID="AstroAwani" tvg-logo="https://img.astroawani.com/template/awani.jpg" group-title="Malaysia",Astro Awani
 https://awanitv.akamaized.net/hls/live/2017836/LiveTV1/index.m3u8
