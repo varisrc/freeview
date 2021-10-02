@@ -812,4 +812,10 @@ https://mediaprima.rastream.com/mediaprima-flyfm
 
 #EXTINF:-1 group-title="MYTV Broadcasting: Radio" ch-number="724" tvg-chno="724" tvg-logo="https://i.ibb.co/z6nG2s0/image.png",One FM
 https://mediaprima.rastream.com/mediaprima-onefm
+
+#EXTINF:-1 tvg-id=" " group-title="test" tvg-logo="https://i.ytimg.com/vi/mtb4LOx1I3M/hqdefault.jpg", Nyonya Cooking
+https://www.youtube.com/c/nyonyacooking/playlists.m3u8|Referer=https://www.youtube.com
+
+#EXTINF:-1 tvg-id=" " group-title="test" tvg-logo="https://i.ytimg.com/vi/mtb4LOx1I3M/hqdefault.jpg", GMM GRAMMY OFFICIAL
+https://www.youtube.com/c/GmmgrammyofficialBlogspot2014/playlists.m3u8
 新马泰[国]
