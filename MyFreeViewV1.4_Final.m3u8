@@ -135,9 +135,9 @@ http://live.thairath.co.th/trtv2/playlist_720p/index.m3u8|https://yamcode.com/em
 #EXTINF:-1 tvg-id="WPT.TH" tvg-logo="http://www.workpointtv.com/wp-content/themes/wptv/assets/logo-wptv.png" group-title="Thai",Workpoint
 http://host4.dynns.com/stream/a9a68ab5471d4d39ba25695a66957067.m3u8|https://yamcode.com/embed/nasi-campur-iptv-200-channels
 
-#EXTINF:-1 tvg-ID="" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/sabaidee_tv.jpg"Thai",Sabay
-http://36.37.252.114:888/Apple/OneTV-006/playlist.m3u8
-
+#EXTINF:-1 tvg-id="ThaiPBSOpt4.th" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/5/5a/Thai_PBS_logo.png/220px-Thai_PBS_logo.png" group-title="Thailand",Thai PBS (Opt-4) (480p)
+https://thaipbs-live.cdn.byteark.com/live/playlist.m3u8
+ 
 #EXTINF:-1 tvg-id="TRA.ID" tvg-logo="https://lofrev.net/wp-content/photos/2017/05/transtv_logo.png" group-title="Malaysia",Trans TV
 https://video.detik.com/transtv/smil:transtv.smil/playlist.m3u8
 
@@ -182,7 +182,6 @@ https://liveanevia.mncnow.id/live/eds/CinemaWorld/sa_dash_vmx/CinemaWorld.mpd
 http://htv-drm-live-cdn.fptplay.net/CDN-FPT02/FOXMOVIES-HD-1080p/playlist.m3u8?checkedby:iptvcat.com
 
 #EXTINF:-1 tvg-id="401" tvg-logo="https://www.foxmoviesasia.com/images/fm.png" group-title="电影",FOX Movies HD(X)
-
 
 #EXTINF:-1 tvg-id="FOX Action Movies (HD)" tvg-logo="https://static.epg.best/id/FOXActionMovies.id.png" group-title="电影",FOX Action Movies HD(X)
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
