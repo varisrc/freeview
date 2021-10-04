@@ -16,7 +16,7 @@ https://raw.githubusercontent.com/samleong123/tonton_dailymotion_php/main/m3u8/T
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/93.0.4577.63 Safari/537.36
 #EXTVLCOPT:http-referrer=https://rtmklik.rtm.gov.my/
 #EXTINF:-1 tvg-ID="DidikTVKPM" tvg-logo="https://didik.tv/images/logotv2.png" group-title="Malaysia",DidikTV KPM
-https://raw.githubusercontent.com/samleong123/tonton_dailymotion_php/main/m3u8/DidikTVKPM.m3u8|https://github.com/samleong123
+https://raw.githubusercontent.com/samleong123/tonton_dailymotion_php/main/m3u8/DidikTVKPM.m3u8|Referer=https://github.com/samleong123
 
 #EXTINF:-1 tvg-ID="8TV" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/148.png" group-title="Malaysia",8TV
 https://raw.githubusercontent.com/samleong123/tonton_dailymotion_php/main/m3u8/8TV.m3u8|Referer=https://www.dailymotion.com
@@ -25,7 +25,7 @@ https://raw.githubusercontent.com/samleong123/tonton_dailymotion_php/main/m3u8/8
 https://agsplayback01.astro.com.my:443/CH1/master_AGS_TVS_04.m3u8
 
 #EXTINF:-1 tvg-ID="105" tvg-logo="https://baseimages.tonton.com.my/1580295767086_drama_sangat_new.jpg" group-title="Malaysia",Drama Sangat
-https://agsplayback01.astro.com.my:443/CH1/master_AGS_TVS_04.m3u8
+https://raw.githubusercontent.com/samleong123/tonton_dailymotion_php/main/m3u8/Drama_Sangat.m3u8|Referer=https://github.com/samleong123
 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/93.0.4577.63 Safari/537.36
 #EXTVLCOPT:http-referrer=https://rtmklik.rtm.gov.my/
@@ -176,7 +176,7 @@ https://liveanevia.mncnow.id/live/eds/CinemaWorld/sa_dash_vmx/CinemaWorld.mpd
 #EXTINF:-1 tvg-id="HBO" tvg-logo="https://static.epg.best/us/HBO.us.png" group-title="电影",HBO
 http://50.7.161.82:8278/streams/d/Hbo/playlist.m3u8|Referer=https://github.com/iptv-org
 
-#EXTINF:-1 tvg-country="" tvg-logo="https://c3.klipartz.com/pngpicture/822/70/sticker-png-tv-channel-icons-pack-hbo-plus-black-thumbnail.png" group-title="",HBO Plus
+#EXTINF:-1 tvg-country="" tvg-logo="https://c3.klipartz.com/pngpicture/822/70/sticker-png-tv-channel-icons-pack-hbo-plus-black-thumbnail.png" group-title="电影",HBO Plus
 http://45.225.204.7:8000/play/a00i|https://yamcode.com/embed/nasi-campur-iptv-200-channels
 
 #EXTINF:-1 tvg-id="HBOFamily.id" tvg-logo="https://static.epg.best/us/HBOFamily.us.png" group-title="电影",HBO Family
@@ -449,7 +449,7 @@ https://c.mjh.nz/101002210222/
 #EXTINF:-1 tvg-ID="CBC.CA" tvg-logo="https://static.epg.best/ca/CBC.ca.png" group-title="家庭娱乐",CBC
 https://cbclivedai5-i.akamaihd.net/hls/live/567235/event2/CBOT/master5.m3u8|X-Forwarded-For=24.37.42.20
 
-#EXTINF:-1 tvg-id="MTV.US" tvg-logo="https://static.epg.best/il/MTV.il.png" group-title="家庭娱乐",MTV
+#EXTINF:-1 tvg-id="718" tvg-logo="https://static.epg.best/il/MTV.il.png" group-title="家庭娱乐",MTV
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5ca672f515a62078d2ec0ad2/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=178&deviceId=5ca672f515a62078d2ec0ad2&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=&deviceLon=&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false
 #EXTINF:-1 tvg-id="Peo.US" tvg-logo="https://poster.starhubgo.com/Linear_channels2/440_1920x1080_HTV.png" group-title="家庭娱乐",People TV
 https://a.jsrdn.com/broadcast/b5d2k0x/c.m3u8
@@ -807,12 +807,6 @@ https://mediaprima.rastream.com/mediaprima-flyfm
 
 #EXTINF:-1 group-title="MYTV Broadcasting: Radio" ch-number="724" tvg-chno="724" tvg-logo="https://i.ibb.co/z6nG2s0/image.png",One FM
 https://mediaprima.rastream.com/mediaprima-onefm
-
-#EXTINF:-1 tvg-id=" " group-title="test" tvg-logo="https://i.ytimg.com/vi/mtb4LOx1I3M/hqdefault.jpg", Nyonya Cooking
-https://www.youtube.com/c/nyonyacooking/playlists.m3u8|Referer=https://www.youtube.com
-
-#EXTINF:-1 tvg-id=" " group-title="test" tvg-logo="https://i.ytimg.com/vi/mtb4LOx1I3M/hqdefault.jpg", GMM GRAMMY OFFICIAL
-https://www.youtube.com/c/GmmgrammyofficialBlogspot2014/playlists.m3u8
 
 #EXTINF:-1 group-title="MYTV Broadcasting: TV" ch-number="101" tvg-id="101" tvg-chno="101" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Neg/101.png",TV1
 https://v-t-e-r.github.io/Umbrella/Playlist/Ch/101.m3u8|Referer=https://rtmklik.rtm.gov.my
