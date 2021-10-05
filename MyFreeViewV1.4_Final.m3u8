@@ -113,7 +113,7 @@ https://tglmp03.akamaized.net/out/v1/1057d89ee3d94148b430b5866e3a540a/manifest.m
 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/93.0.4577.63 Safari/537.36
 #EXTVLCOPT:http-referrer=https://ch3plus.com/live
-#EXTINF:-1 tvg-id="ช่อง 3 HD" tvg-logo="https://static.epg.best/th/Channel3.th.png" group-title="Thai",ช่อง 3 HD(X)
+#EXTINF:-1 tvg-id="ช่อง 3 HD" tvg-logo="https://static.epg.best/th/Channel3.th.png" group-title="Thai",ช่อง 3 HD
 https://ch3-33-web.cdn.byteark.com/live/playlist.m3u8?x_ark_access_id=D78MkxZFEr5Zr9PE&x_ark_auth_type=ark-v2&x_ark_expires=1633425411&x_ark_max_resolution=720p&x_ark_path_prefix=%2Flive%2F&x_ark_signature=FKRuOUKOWKAy-7XDIbS04Q|Referer=https://ch3plus.com/live
 
 #EXTINF:-1 ttvg-id="ช่อง 7HD" tvg-logo="https://upload.wikimedia.org/wikipedia/en/f/f3/BBTV_Channel_7.png" group-title="Thai",ช่อง 7HD 
@@ -123,7 +123,7 @@ https://bcovlive-a.akamaihd.net/2d37038b355f4ea6a6b0d46993dc285c/ap-southeast-1/
 http://36.37.252.114:888/Apple/OneTV-038/playlist.m3u8
 
 #EXTINF:-1 tvg-id="ช่อง 8" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/a/a9/GMM_25_Logo.png/180px-GMM_25_Logo.png" tvg-country="TH" tvg-url="" group-title="Thai",GMM25
-https://s0.cdn.vet/live/ch0/i/ch0i.m3u8?sid=cjeMDMxYmE2YTlmY2Y0MjE5N2FkMQODY5ZGE1OWRhMjA2Mzc5
+
 
 #EXTINF:-1 tvg-id="ช่อง 8" tvg-logo="https://i.imgur.com/hzdMjA1.jpg" tvg-country="TH" tvg-url="" group-title="Thai",Channel 8 Thailand
 http://usa.login.in.th:1935/ch8/ch8/playlist.m3u8
