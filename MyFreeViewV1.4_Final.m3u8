@@ -119,11 +119,9 @@ https://ch3-33-web.cdn.byteark.com/live/playlist.m3u8?x_ark_access_id=D78MkxZFEr
 #EXTINF:-1 ttvg-id="ช่อง 7HD" tvg-logo="https://upload.wikimedia.org/wikipedia/en/f/f3/BBTV_Channel_7.png" group-title="Thai",ช่อง 7HD 
 https://bcovlive-a.akamaihd.net/2d37038b355f4ea6a6b0d46993dc285c/ap-southeast-1/5282994675001/profile_0/chunklist.m3u8|https://yamcode.com/embed/nasi-campur-iptv-200-channels
 
-#EXTINF:-1 tvg-ID="Fan TV" tvg-logo="https://cmsimgservices.dmpcdn.com/v1/resize?url=https%3A%2F%2Fcms.dmpcdn.com%2Flivetv%2F2019%2F01%2F19%2Fef0c5b42-e46f-490c-83d5-8e660f66fb07.png&w=320&h=2483d5-240"Thai"0"Thai",Fan TV
-http://36.37.252.114:888/Apple/OneTV-038/playlist.m3u8
+#EXTINF:-1 tvg-ID="Fan TV" tvg-logo="https://cmsimgservices.dmpcdn.com/v1/resize?url=https%3A%2F%2Fcms.dmpcdn.com%2Flivetv%2F2019%2F01%2F19%2Fef0c5b42-e46f-490c-83d5-8e660f66fb07.png&w=320&h=2483d5-240"Thai",Fan TV
 
 #EXTINF:-1 tvg-id="ช่อง 8" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/a/a9/GMM_25_Logo.png/180px-GMM_25_Logo.png" tvg-country="TH" tvg-url="" group-title="Thai",GMM25
-
 
 #EXTINF:-1 tvg-id="ช่อง 8" tvg-logo="https://i.imgur.com/hzdMjA1.jpg" tvg-country="TH" tvg-url="" group-title="Thai",Channel 8 Thailand
 http://usa.login.in.th:1935/ch8/ch8/playlist.m3u8
@@ -164,7 +162,7 @@ https://f8e7y4c6.ssl.hwcdn.net/andflixhd/index.m3u8|Referer=https://github.com/i
 #EXTINF:-1 tvg-id="Pri.IN" tvg-logo="https://static.epg.best/in/AndPrive.in.png" group-title="电影",&Prive HD
 https://f8e7y4c6.ssl.hwcdn.net/andprivehd/index.m3u8|Referer=https://github.com/iptv-org
 
-#EXTINF:-1 tvg-id="AndPictures.in" tvg-logo="https://static.epg.best/in/AndPictures.in.png" group-title="",&Pictures (576p)
+#EXTINF:-1 tvg-id="AndPictures.in" tvg-logo="https://static.epg.best/in/AndPictures.in.png" group-title="电影",&Pictures (576p)
 https://f8e7y4c6.ssl.hwcdn.net/andpicssd/playlist.m3u8|Referer=https://github.com/iptv-org
 
 #EXTINF:-1 tvg-id="Cinemax" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/337_144.png" group-title="电影",Cinemax HD
@@ -386,7 +384,7 @@ https://skynews2-plutolive-vo.akamaized.net/cdhlsskynewsamericas/1013/latest.m3u
 https://static.france24.com/live/F24_EN_HI_HLS/live_web.m3u8
 
 #EXTINF:-1 tvg-id="Ani.Asia" tvg-logo="https://static.epg.best/kr/Animax.kr.png" group-title="少儿",Animax
-https://liveanevia.mncnow.id/live/eds/Animax/sa_dash_vmx/Animax.mpd
+https://m3u-editor.com/serve/1f5c2f00-c50a-11eb-a9cf-49fb7da8769f/324745739
 
 #EXTINF:-1 tvg-id="BF1.Asia" tvg-logo="https://static.epg.best/us/BabyFirstTV.us.png" group-title="少儿",Baby First
 https://livecdn.fptplay.net/qnetlive/babyfirst_hls.smil/chunklist_b2500000.m3u8
