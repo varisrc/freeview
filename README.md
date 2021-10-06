@@ -10,7 +10,7 @@ Aku (varisrc) urge all copyright owners, to recognize that links contained withi
 
 Please direct all copyright infringement issues to the companies that host these files.
 
-For #personal use #ONLY, if anyone wishes to gain profit from it, I don’t think its appropriate. Give credit where credit is due
+For #personal use # ONLY, if anyone wishes to gain profit from it, I don’t think its appropriate. Give credit where credit is due
 
 Terima kasih daun keladi kepada orang orang ini
 
