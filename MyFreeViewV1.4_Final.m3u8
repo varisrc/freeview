@@ -174,7 +174,7 @@ https://liveanevia.mncnow.id/live/eds/CinemaWorld/sa_dash_vmx/CinemaWorld.mpd
 #EXTINF:-1 tvg-id="HBO" tvg-logo="https://static.epg.best/us/HBO.us.png" group-title="电影",HBO
 http://50.7.161.82:8278/streams/d/Hbo/playlist.m3u8|Referer=https://github.com/iptv-org
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://c3.klipartz.com/pngpicture/822/70/sticker-png-tv-channel-icons-pack-hbo-plus-black-thumbnail.png" group-title="电影",HBO Plus
+#EXTINF:-1 tvg-id="" tvg-logo="https://assets.streamtest.in/logo/8691/304_hbo-plus.jpg?v=1585850882" group-title="电影",HBO Plus
 http://45.225.204.7:8000/play/a00i|https://yamcode.com/embed/nasi-campur-iptv-200-channels
 
 #EXTINF:-1 tvg-id="HBOFamily.id" tvg-logo="https://static.epg.best/us/HBOFamily.us.png" group-title="电影",HBO Family
