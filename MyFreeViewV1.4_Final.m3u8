@@ -114,7 +114,7 @@ https://tglmp03.akamaized.net/out/v1/1057d89ee3d94148b430b5866e3a540a/manifest.m
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/93.0.4577.63 Safari/537.36
 #EXTVLCOPT:http-referrer=https://ch3plus.com/live
 #EXTINF:-1 tvg-id="ช่อง 3 HD" tvg-logo="https://static.epg.best/th/Channel3.th.png" group-title="Thai",ช่อง 3 HD
-https://ch3-33-web.cdn.byteark.com/live/playlist_480p/index.m3u8?x_ark_access_id=D78MkxZFEr5Zr9PE&x_ark_auth_type=ark-v2&x_ark_expires=1633425411&x_ark_max_resolution=720p&x_ark_path_prefix=%2Flive%2F&x_ark_signature=A0bFrGZFR_oDsxjDVNQjdg|Referer=https://ch3plus.com/live
+https://ch3-33-web.cdn.byteark.com/live/playlist.m3u8?x_ark_access_id=D78MkxZFEr5Zr9PE&x_ark_auth_type=ark-v2&x_ark_expires=1633638797&x_ark_max_resolution=720p&x_ark_path_prefix=%2Flive%2F&x_ark_signature=9Vms5c_CMbeBHYPpBWMG5Q|Referer=https://ch3plus.com/live
 
 #EXTINF:-1 ttvg-id="ช่อง 7HD" tvg-logo="https://upload.wikimedia.org/wikipedia/en/f/f3/BBTV_Channel_7.png" group-title="Thai",ช่อง 7HD
 https://bcovlive-a.akamaihd.net/2d37038b355f4ea6a6b0d46993dc285c/ap-southeast-1/5282994675001/profile_0/chunklist.m3u8|https://yamcode.com/embed/nasi-campur-iptv-200-channels
@@ -166,7 +166,7 @@ https://f8e7y4c6.ssl.hwcdn.net/andpicssd/playlist.m3u8|Referer=https://github.co
 #EXTINF:-1 tvg-id="Cinemax" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/337_144.png" group-title="电影",Cinemax HD
 https://m3u-editor.com/serve/1f5c2f00-c50a-11eb-a9cf-49fb7da8769f/309065947
 
-#EXTINF:-1 tvg-id="CinemaWorld" tvg-logo="https://cinemaworld.asia/wp-content/uploads/2019/08/CMW-Logo_Gold.png" group-title="电影",CinemaWorld
+#EXTINF:-1 tvg-id="411" tvg-logo="https://cinemaworld.asia/wp-content/uploads/2019/08/CMW-Logo_Gold.png" group-title="电影",CinemaWorld
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=YWY0OTBlZjEtODAyNC0zZTA0LWFhYzMtY2ZmMGE4NjVjZjU1
 https://liveanevia.mncnow.id/live/eds/CinemaWorld/sa_dash_vmx/CinemaWorld.mpd
@@ -435,18 +435,25 @@ https://linear01-playback.sooka.my/CH3/masterCH3.mpd|https://github.com/wearebla
 
 #EXTINF:-1 tvg-ID="SPOTV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRX5BweyCqAV8vwWx_4n7L0kSlZwWTBt-ORqw&usqp=CAU" group-title="Sports", SPOTV 1
 https://cloudserver.server-cdn-streaming.com/live-player/11/live.m3u8
+
 #EXTINF:-1 tvg-ID="SPOTV2" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRX5BweyCqAV8vwWx_4n7L0kSlZwWTBt-ORqw&usqp=CAU" group-title="Sports", SPOTV 2
 https://cloudserver.server-cdn-streaming.com/live-player/13/live.m3u8
+
 #EXTINF:-1 tvg-ID="AstroSupersport" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/154_144.png" group-title="Sports",ASSP
 https://tinyurl.com/32a67rds
+
 #EXTINF:-1 tvg-ID="AstroSupersport2" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/138_144.png" group-title="Sports",ASSP2
 https://tinyurl.com/ym8cntjt
+
 #EXTINF:-1 tvg-ID="AstroSupersport3" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/164_144.png" group-title="Sports",ASSP3
 https://tinyurl.com/5f3atddd
+
 #EXTINF:-1 tvg-ID="AstroSupersport4" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/241_144.png" group-title="Sports",ASSP4
 https://tinyurl.com/cwvzchmv
-#EXTINF:-1 tvg-logo="https://content.astro.com.my/channels/Astro-Supersport-5-HD-455" group-title="Sports", Astro SuperSport 5 HD (Beta)
+
+#EXTINF:-1 tvg-logo="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/eb681237-c2ba-4911-855b-41784c9909c4/deqhz5n-be6cbe52-00d0-4e9a-90b1-7f85f866d803.png/v1/fill/w_499,h_244,q_80,strp/astro_supersport_5_logo__2021_flat_version__by_officiallogotv_deqhz5n-fullview.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7ImhlaWdodCI6Ijw9MjQ0IiwicGF0aCI6IlwvZlwvZWI2ODEyMzctYzJiYS00OTExLTg1NWItNDE3ODRjOTkwOWM0XC9kZXFoejVuLWJlNmNiZTUyLTAwZDAtNGU5YS05MGIxLTdmODVmODY2ZDgwMy5wbmciLCJ3aWR0aCI6Ijw9NDk5In1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmltYWdlLm9wZXJhdGlvbnMiXX0.pUcJqClckIf3N7VqMfL_ltIj-a4cHijzGGOqGgLOXfs" group-title="Sports", Astro SuperSport 5 HD (Beta)
 https://m3u-editor.com/serve/1f5c2f00-c50a-11eb-a9cf-49fb7da8769f/324745744
+
 #EXTINF:-1 tvg-id="beINSports" tvg-logo="https://static.epg.best/qa/beINSports1.qa.png" group-title="Sports",beIN Sports 1
 https://home-tv.web.id/RHS/111111111111111111111111111111111111111mpd.m3u8?channel=bein1
 #EXTINF:-1 tvg-id="beINSports2" tvg-logo="https://static.epg.best/qa/beINSports2.qa.png" group-title="Sports",beIN Sports 2
