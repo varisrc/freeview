@@ -114,7 +114,7 @@ https://tglmp03.akamaized.net/out/v1/1057d89ee3d94148b430b5866e3a540a/manifest.m
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/93.0.4577.63 Safari/537.36
 #EXTVLCOPT:http-referrer=https://ch3plus.com/live
 #EXTINF:-1 tvg-id="ช่อง 3 HD" tvg-logo="https://static.epg.best/th/Channel3.th.png" group-title="Thai",ช่อง 3 HD
-https://ch3-33-web.cdn.byteark.com/live/playlist.m3u8?x_ark_access_id=D78MkxZFEr5Zr9PE&x_ark_auth_type=ark-v2&x_ark_expires=1633906107&x_ark_max_resolution=720p&x_ark_path_prefix=%2Flive%2F&x_ark_signature=TZqUDSbvf3hk4xNsSUJIyA|Referer=https://ch3plus.com/live
+
 
 #EXTINF:-1 ttvg-id="ช่อง 7HD" tvg-logo="https://upload.wikimedia.org/wikipedia/en/f/f3/BBTV_Channel_7.png" group-title="Thai",ช่อง 7HD
 https://bcovlive-a.akamaihd.net/2d37038b355f4ea6a6b0d46993dc285c/ap-southeast-1/5282994675001/profile_0/chunklist.m3u8|https://yamcode.com/embed/nasi-campur-iptv-200-channels
@@ -289,6 +289,9 @@ https://primetv-prod.akamaized.net/v1/prime-freeview-aes128.m3u8|X-Forwarded-For
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=YWY0OTBlZjEtODAyNC0zZTA0LWFhYzMtY2ZmMGE4NjVjZjU1
 https://liveanevia.mncnow.id/live/eds/NatGeoWild/sa_dash_vmx/NatGeoWild.mpd
 
+#EXTINF:-1 tvg-id="AnimalPlanet" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/377_144.png" group-title="家庭娱乐",ANIMAL PLANET
+http://89.216.39.29:8001/|https://yamcode.com/embed/nasi-campur-iptv-200-channels
+
 #EXTINF:-1 tvg-ID="TLC" tvg-logo="http://static.epg.best/de/TLC.de.png" group-title="家庭娱乐",TLC
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=YWY0OTBlZjEtODAyNC0zZTA0LWFhYzMtY2ZmMGE4NjVjZjU1
@@ -437,14 +440,14 @@ https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_3360.m3u8
 #EXTINF:-1 tvg-ID="MAV.US" tvg-logo="https://www.mavtv.com/assets/images/mavtv_logo.png" group-title="Sports",MavTV
 https://mavtv-1.sinclair.wurl.com/manifest/2000.m3u8
 
+#EXTINF:-1 tvg-id="canalmotor.tv" tvg-name="Canal Motor" tvg-country="IT" tvg-language="English" tvg-logo="https://i.imgur.com/9z3mzDJ.jpg" group-title="Sports",Canal Motor
+http://digicom.hls.iptvdc.com/canalmotor/tracks-v1a1/mono.m3u8|https://yamcode.com/embed/nasi-campur-iptv-200-channels
+
 #EXTINF:-1 tvg-id="TVSUKAN" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/64/RTM_Sports.png" group-title="Sports",RTM Sports HD
 https://rtmlive06tv.secureswiftcontent.com/rtmchannel/06-manifest.mpd|https://github.com/samleong123
 
-#EXTM3U
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://udrmv3.kaltura.com/cenc/widevine/license?custom_data=eyJjYV9zeXN0ZW0iOiJodHRwczovL3Jlc3QtYXMub3R0LmthbHR1cmEuY29tL2FwaV92My9zZXJ2aWNlL2Fzc2V0RmlsZS9hY3Rpb24vZ2V0Q29udGV4dD9rcz1kako4TXpJd09YeGE2b0ExbXdVYVR4d3g4Ul8tdTdJSVF3SWNxNTFDelowTDY1YXZ2OUN4Z25qbWcwTGVuUi0yaFM0Rm9kTHVreDJJM1JOU09yMUtHRDlKUGh0cnA5QnYwTlNiUFJHUExIUE9DV0JiMlYyd0wzR2ZFdjhfdWxfV0NNSVNBb3ZGdkJBYlpTRW9XVmZlbnZoRjFuNXpXVDNFX0poNDBaMmtIZERYc2QyRDlFcVNhcEpCc1RaM1JHWmZJa2tMX0U2V2ZmYjZYclBPVkd4cEw4SFNSSTZWNWJLRHJ1bHk2Vm8zQUFxbDkya1VoMjNuY0ZEZDNaaWNWRmFmNHBzRVBMVzN1YnpKZUpMRWw2X1NDY04yekZmalBVc2VfbWtMbl9jQWtYeHVsTzlzTGVZSW9RUkhheWFfUHVSYUhBSzlPdm1nV3RNPSZjb250ZXh0VHlwZT1ub25lJmlkPTEzMjI1MTY2IiwiYWNjb3VudF9pZCI6MzA4OTYzMywiY29udGVudF9pZCI6IjlmOTlmZmEyX2QyN2FfNGNmYl9hMDViXzgzYjkxZGI4NDZkZiIsImZpbGVzIjoiIiwidXNlcl90b2tlbiI6ImRqSjhNekl3T1h4YTZvQTFtd1VhVHh3eDhSXy11N0lJUXdJY3E1MUN6WjBMNjVhdnY5Q3hnbmptZzBMZW5SLTJoUzRGb2RMdWt4MkkzUk5TT3IxS0dEOUpQaHRycDlCdjBOU2JQUkdQTEhQT0NXQmIyVjJ3TDNHZkV2OF91bF9XQ01JU0FvdkZ2QkFiWlNFb1dWZmVudmhGMW41eldUM0VfSmg0MFoya0hkRFhzZDJEOUVxU2FwSkJzVFozUkdaZklra0xfRTZXZmZiNlhyUE9WR3hwTDhIU1JJNlY1YktEcnVseTZWbzNBQXFsOTJrVWgyM25jRkRkM1ppY1ZGYWY0cHNFUExXM3ViekplSkxFbDZfU0NjTjJ6RmZqUFVzZV9ta0xuX2NBa1h4dWxPOXNMZVlJb1FSSGF5YV9QdVJhSEFLOU92bWdXdE09IiwidWRpZCI6IiIsImFkZGl0aW9uYWxfY2FzX3N5c3RlbSI6MzIwOX0%3d&signature=oEXBs8k3shpD00DyjYAjBE8sa8s%3d&sessionId=cfa2fda7-be29-58c9-eba7-a138ba08af43:01663e03-526c-042b-b265-77322c3d438e&clientTag=html5:v7.38.1&referrer=aHR0cHM6Ly9zb29rYS5teS9lbi9wbGF5Ly1sLS1id2YtcGlhbGEtc3VkaXJtYW4tMjAyMS0tbWFzLWx3bi1pbmEvMTA5NDQ5MC9wbGF5ZXI/bGluZWFySWQ9MTAwMDc2NzM5JmlzTGl2ZT10cnVl
 #EXTINF:-1 tvg-id="AstroArena" tvg-chno="801" tvg-logo="http://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Neg/801.png" group-title="Sports",Astro Arena
-https://linear01-playback.sooka.my/CH3/masterCH3.mpd|https://github.com/weareblahs
+http://50.7.161.82:8278/streams/d/arena_pye/playlist.m3u8
 
 #EXTINF:-1 tvg-ID="SPOTV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRX5BweyCqAV8vwWx_4n7L0kSlZwWTBt-ORqw&usqp=CAU" group-title="Sports", SPOTV 1
 https://cloudserver.server-cdn-streaming.com/live-player/11/live.m3u8
