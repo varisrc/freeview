@@ -487,10 +487,10 @@ http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5ced7d5df64be98e07e
 #EXTINF:-1 tvg-ID="STC.AU" tvg-logo="https://www.foxtel.com.au/content/dam/foxtel/shared/channel/SRW/SRH_425x243.png" group-title="体育",Sky Thoroughbred Central
 https://skylivesky-i.akamaihd.net/hls/live/569780/skylive/stcsd_extreme@569780.m3u8
 
-#EXTINF:-1 tvg-logo="https://scontent.fkul21-2.fna.fbcdn.net/v/t31.18172-8/10496213_691136317630002_7497502297122223981_o.jpg?_nc_cat=106&ccb=1-5&_nc_sid=973b4a&_nc_ohc=lCRTl-664AkAX-OWKYz&_nc_ht=scontent.fkul21-2.fna&oh=d77743a66f82bf3943c0381f67f850ab&oe=61897384" tvg-id=""group-title="Entertainment", Best Shuffle Dance Music 2021
+#EXTINF:-1 tvg-id="" tvg-logo="https://scontent.fkul21-2.fna.fbcdn.net/v/t31.18172-8/10496213_691136317630002_7497502297122223981_o.jpg?_nc_cat=106&ccb=1-5&_nc_sid=973b4a&_nc_ohc=lCRTl-664AkAX-OWKYz&_nc_ht=scontent.fkul21-2.fna&oh=d77743a66f82bf3943c0381f67f850ab&oe=61897384" group-title="Entertainment",Best Shuffle Dance Music 2021
 https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1634051995/ei/O1NlYfb7FJn4NpWBo4gO/ip/20.114.75.66/id/qWf-FPFmVw0.2/source/yt_live_broadcast/requiressl/yes/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/vprv/1/go/1/nvgoi/1/keepalive/yes/fexp/24001373%2C24007246/beids/9466587/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AOq0QJ8wRAIgIp3ef32PQrKyvZ016ba7CMstdS1BAB9tBA7m8jjWLmACIHQu-dtYApedUiWvcnhuvFjt7QjIJHVmAOKgCrDzkAOq/file/index.m3u8
 
-#EXTINF:0 tvg-logo="https://static.wikia.nocookie.net/ultraverse/images/7/73/TVB_Logo.png/revision/latest?cb=20191220185029" tvg-name="" group-title="香港",TVB Jade
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/ultraverse/images/7/73/TVB_Logo.png/revision/latest?cb=20191220185029" tvg-name="" group-title="香港",TVB Jade
 https://m3u-editor.com/serve/1f5c2f00-c50a-11eb-a9cf-49fb7da8769f/324745676
 #EXTINF:-1 tvg-id="TVBJade" tvg-logo="https://poster.starhubgo.com/Linear_channels2/838_1920x1080_HTV.png" group-title="香港",翡翠台(Backup)                  
 https://cdn.hkdtmb.com/hls/81/index.m3u8
