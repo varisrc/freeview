@@ -77,7 +77,7 @@ http://50.7.161.82:8278/streams/d/Citra/playlist.m3u8|https://github.com/iptv-or
 #EXTINF:-1 tvg-id="AstroPrima" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/105_300.png" group-title="Malaysia",Astro Prima HD
 http://50.7.161.82:8278/streams/d/Prima/playlist.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTceY29ErF5Lk1ygOktRdbcXwsn9pOYLKFxaw&usqp=CAU" group-title="Malaysia", Awesome TV
+#EXTINF:-1 tvg-id="AwesomeTV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTceY29ErF5Lk1ygOktRdbcXwsn9pOYLKFxaw&usqp=CAU" group-title="Malaysia", Awesome TV
 http://iptv.tvmalaysia.cc/jalan8/jalan8/9016
 
 #EXTINF:-1 tvg-ID="AstroAwani" tvg-logo="https://img.astroawani.com/template/awani.jpg" group-title="Malaysia",Astro Awani
