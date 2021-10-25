@@ -538,26 +538,26 @@ https://tinyurl.com/5f3atddd
 https://tinyurl.com/cwvzchmv
 
 #EXTINF:-1 tvg-ID="AstroSupersport5" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/455_144.png" group-title="Sports", Astro SuperSport 5 HD
-|https://github.com/azrinahmademuri
+
 
 #EXTINF:-1 tvg-id="beINSports" tvg-logo="https://static.epg.best/qa/beINSports1.qa.png" group-title="Sports",beIN Sports 1 4K
-http://oqab.life:8080/live/858182/858182/443.m3u8|http://oqab.life:8080/get.php?username=858182&password=858182&type=m3u&output=m3u8
+#http://oqab.life:8080/live/858182/858182/443.m3u8|http://oqab.life:8080/get.php?username=858182&password=858182&type=m3u&output=m3u8
 
 #EXTINF:-1 tvg-id="beINSports2" tvg-logo="https://static.epg.best/qa/beINSports2.qa.png" group-title="Sports",beIN Sports 2 4K
-http://oqab.life:8080/live/858182/858182/444.m3u8|http://oqab.life:8080/get.php?username=858182&password=858182&type=m3u&output=m3u8
+#http://oqab.life:8080/live/858182/858182/444.m3u8|http://oqab.life:8080/get.php?username=858182&password=858182&type=m3u&output=m3u8
 
 #EXTINF:-1 tvg-id="beINSports3" tvg-logo="https://static.epg.best/qa/beINSports3.qa.png" group-title="Sports",beIN Sports 3 4K
-http://oqab.life:8080/live/858182/858182/445.m3u8|http://oqab.life:8080/get.php?username=858182&password=858182&type=m3u&output=m3u8
+#http://oqab.life:8080/live/858182/858182/445.m3u8|http://oqab.life:8080/get.php?username=858182&password=858182&type=m3u&output=m3u8
 
 #EXTINF:-1 tvg-id="beINSports" tvg-logo="https://static.epg.best/qa/beINSports1.qa.png" group-title="Sports",beIN Sports 1 Asia
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=YWY0OTBlZjEtODAyNC0zZTA0LWFhYzMtY2ZmMGE4NjVjZjU1
-https://liveanevia.mncnow.id/live/eds/BeIN1/sa_dash_vmx/BeIN1.mpd
+#https://liveanevia.mncnow.id/live/eds/BeIN1/sa_dash_vmx/BeIN1.mpd
 
 #EXTINF:-1 tvg-id="beINSports2" tvg-logo="https://static.epg.best/qa/beINSports2.qa.png" group-title="Sports",beIN Sports 2 Asia
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=YWY0OTBlZjEtODAyNC0zZTA0LWFhYzMtY2ZmMGE4NjVjZjU1
-https://liveanevia.mncnow.id/live/eds/BeIN2/sa_dash_vmx/BeIN2.mpd
+#https://liveanevia.mncnow.id/live/eds/BeIN2/sa_dash_vmx/BeIN2.mpd
 
 #EXTINF:-1 tvg-ID="SK1.AU" tvg-logo="https://media.info/i/lf/300/1514269404/6402.png" group-title="体育",Sky Racing 1
 https://skylivesky-i.akamaihd.net/hls/live/569780/skylive/sky1_extreme@569780.m3u8
