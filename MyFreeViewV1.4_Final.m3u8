@@ -667,7 +667,7 @@ http://103.47.132.164/PLTV/88888888/224/3221227187/index.m3u8
 
 #EXTINF:-1 tvg-ID="WKW.JP" tvg-logo="https://www.dialog.lk/dialogdocroot/content/images/channel-highlights/waku-waku-large.png" group-title="日本",WakuWaku Japan
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=ZDBlMjMyZDctMzkxYS0zMjg5LTk3ZmItMmZhZjNjMmVkZDUz
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=YWY0OTBlZjEtODAyNC0zZTA0LWFhYzMtY2ZmMGE4NjVjZjU1
 https://liveanevia.mncnow.id/live/eds/WakuWakuJapan/sa_dash_vmx/WakuWakuJapan.mpd
 
 #EXTINF:-1 tvg-id="BB1.UK" tvg-logo="http://static.epg.best/gb/BBC1.uk.png" group-title="英国",BBC 1
@@ -757,7 +757,7 @@ https://e10.habrox.xyz/ingestnb4s/espn_news/f.m3u8|Referer=https://espn-live.str
 https://gma2.blab.email/espnu.m3u8
 #EXTINF:-1 tvg-id="Fox.Asia" tvg-logo="https://static.epg.best/es/Fox.es.png" group-title="美国",Fox
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=ZDBlMjMyZDctMzkxYS0zMjg5LTk3ZmItMmZhZjNjMmVkZDUz
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=YWY0OTBlZjEtODAyNC0zZTA0LWFhYzMtY2ZmMGE4NjVjZjU1
 https://liveanevia.mncnow.id/live/eds/FoxChannel/sa_dash_vmx/FoxChannel.mpd
 #EXTINF:-1 tvg-id="FXL.Asia" tvg-logo="https://static.epg.best/in/FOXLife.in.png" group-title="美国",Fox Life
 https://livecdn.fptplay.net/foxlive/foxlifehd_hls.smil/chunklist_b2500000.m3u8
@@ -914,26 +914,5 @@ https://mediaprima.rastream.com/mediaprima-flyfm
 
 #EXTINF:-1 group-title="MYTV Broadcasting: Radio" ch-number="724" tvg-chno="724" tvg-logo="https://i.ibb.co/z6nG2s0/image.png",One FM
 https://mediaprima.rastream.com/mediaprima-onefm
-
-#EXTINF:-1 tvg-id=" " group-title="test" tvg-logo="http://masmiri.50webs.com/RealChina.jpg", The Real China
-https://www.youtube.com/channel/UCEx3_ZX9jTZHimMMrQ4aGsA|Referer=https://www.youtube.com
-
-#EXTINF:-1 tvg-id=" " group-title="test" tvg-logo="https://i.ytimg.com/vi/mtb4LOx1I3M/hqdefault.jpg", Nyonya Cooking
-https://www.youtube.com/c/nyonyacooking/playlists.m3u8|Referer=https://www.youtube.com
-
-#EXTINF:-1 tvg-id="" tvg-name="test" tvg-logo="http://masmiri.50webs.com/chinesefood2.png" group-title="test",李子柒Food
-https://www.youtube.com/playlist?list=PLPJbGPTBfsdPCQZ0HWGngmRID5Fr9YpgN|Referer=https://www.youtube.com
-
-#EXTINF:-1 tvg-id="" tvg-name="test" tvg-logo="https://en.wikipedia.org/wiki/File:GMMTV_Logo.svg" group-title="test",The AshLad
-https://www.youtube.com/watch?v=5pb3lJ_uq7c&list=PL0X-JpLCn4aM1udypY6dh1RPdOcbAtAJh|Referer=https://www.youtube.com
-
-#EXTINF:-1 tvg-id="" tvg-name="test" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/Logo_of_YouTube_%282015-2017%29.svg/502px-Logo_of_YouTube_%282015-2017%29.svg.png" group-title="test",gmm
-https://www.youtube.com/watch?v=sd3TBwgDvvI|Referer=https://www.youtube.com
-
-#EXTINF:-1 tvg-id="walk" tvg-name="live" tvg-country="ID" tvg-language="" tvg-logo="https://i.ytimg.com/vi/GRkMquHRafk/hqdefault.jpg?sqp" group-title="test",Japan Walk 24/7
-https://www.youtube.com/c/makimakiwalk/videos|Referer=https://www.youtube.com
-
-#EXTINF:-1 tvg-id="walk" tvg-name="live" tvg-country="ID" tvg-language="" tvg-logo="https://i.ytimg.com/vi/93-_2Gd4_ts/hqdefault.jpg" group-title="test",Korea walk
-https://www.youtube.com/playlist?list=PLZtkj1UPIsFMsgOhPBx8BRD8_c76CnF3C|Referer=https://www.youtube.com
 
 新马泰[国]
