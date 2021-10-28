@@ -324,8 +324,9 @@ http://yandanyandanke.com:8080/Cg4vC3ERee/ZwZSfKqQ2E/4578?checkedby:iptvcat.com
 #EXTINF:-1 tvg-id="PRI.NZ" tvg-logo="https://static.epg.best/nz/PrimeTV.nz.png" group-title="家庭娱乐",Prime
 https://primetv-prod.akamaized.net/v1/prime-freeview-aes128.m3u8|X-Forwarded-For=202.89.4.222
 
-#EXTINF:-1 tvg-id="552" tvg-logo="https://static.epg.best/nz/PrimeTV.nz.png" group-title="家庭娱乐",Discovery Channel
-
+#EXTINF:-1 tvg-id="552" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/376_144.png" group-title="家庭娱乐",Discovery Channel
+http://z.sralm87.com:2082/azizi_320680/ghW1CE0B/62667?checkedby:iptvcat.com
+#http://z.sralm87.com:2082/azizi_320680/ghW1CE0B/62668?checkedby:iptvcat.com
 
 #EXTINF:-1 tvg-id="NatGeoWild" tvg-logo="https://static.epg.best/id/NatGeoWild.id.png" group-title="家庭娱乐",Nat Geo Wild
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -464,7 +465,7 @@ https://liveanevia.mncnow.id/live/eds/Animax/sa_dash_vmx/Animax.mpd
 #EXTINF:-1 tvg-id="Aniplus" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/b8/Aniplus_Asia_Logo.png" group-title="少儿",Aniplus
 
 #EXTINF:-1 tvg-id="CartoonNetwork" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/371_144.png" group-title="少儿",Cartoon Network
-http://oqab.life:8080/live/858182/858182/186.m3u8|http://oqab.life:8080/get.php?username=858182&password=858182&type=m3u&output=m3u8
+http://nasaip.com:8080/mkherbanex1/3984572397/69406?checkedby:iptvcat.com
 
 #EXTINF:-1 tvg-id="" tvg-name="Galaxy Premium SD" tvg-logo="https://i.imgur.com/oPnzAPC.png" group-title="少儿",Galaxy tv
 https://content.uplynk.com/channel/f467430e4a8e49a59ff3183cf51092b2.m3u8
