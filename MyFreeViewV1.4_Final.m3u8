@@ -503,9 +503,9 @@ https://mavtv-1.sinclair.wurl.com/manifest/2000.m3u8
 http://digicom.hls.iptvdc.com/canalmotor/tracks-v1a1/mono.m3u8|https://yamcode.com/embed/nasi-campur-iptv-200-channels
 
 #EXTINF:-1 tvg-id="821" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/194_144.png" group-title="Sports",WWE NETWORK 4K
-http://new-pro.tv:8080/74919yhat/47818ywtxwr/70446?checkedby:iptvcat.com
-#http://nasaip.com:8080/mkherbanex1/3984572397/70446?checkedby:iptvcat.com
+http://nasaip.com:8080/mkherbanex1/3984572397/70446?checkedby:iptvcat.com
 #http://z.sralm87.com:2082/azizi_320680/ghW1CE0B/13142?checkedby:iptvcat.com
+#http://new-pro.tv:8080/74919yhat/47818ywtxwr/70446?checkedby:iptvcat.com
 
 #EXTINF:-1 tvg-id="TVSUKAN" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/64/RTM_Sports.png" group-title="Sports",RTM Sports HD
 https://rtmlive06tv.secureswiftcontent.com/rtmchannel/06-manifest.mpd|https://github.com/samleong123
