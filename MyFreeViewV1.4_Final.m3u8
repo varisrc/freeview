@@ -312,10 +312,9 @@ https://liveanevia.mncnow.id/live/eds/History/sa_dash_vmx/History.mpd
 
 #EXTINF:-1 tvg-id="DMAX" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a3/Dmax.png" group-title="家庭娱乐",DMAX HD 4K
 http://forevertv.me:8080/Iptvtree/b957c2YMj6/14018?checkedby:iptvcat.com
-#http://live.iptvtotaal.com:8000/6234122498/8329556324/36150?checkedby:iptvcat.com
 
 #EXTINF:-1 tvg-id="DMAX" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a3/Dmax.png" group-title="家庭娱乐",DMAX
-http://yandanyandanke.com:8080/Cg4vC3ERee/ZwZSfKqQ2E/4578?checkedby:iptvcat.com
+http://live.iptvtotaal.com:8000/6234122498/8329556324/36150?checkedby:iptvcat.com
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=YWY0OTBlZjEtODAyNC0zZTA0LWFhYzMtY2ZmMGE4NjVjZjU1
 #EXTINF:-1 tvg-ID="KIX" tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/9428328_ico.png" group-title="家庭娱乐", KIX HD
@@ -325,8 +324,8 @@ http://yandanyandanke.com:8080/Cg4vC3ERee/ZwZSfKqQ2E/4578?checkedby:iptvcat.com
 https://primetv-prod.akamaized.net/v1/prime-freeview-aes128.m3u8|X-Forwarded-For=202.89.4.222
 
 #EXTINF:-1 tvg-id="552" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/376_144.png" group-title="家庭娱乐",Discovery Channel
-http://z.sralm87.com:2082/azizi_320680/ghW1CE0B/62667?checkedby:iptvcat.com
-#http://z.sralm87.com:2082/azizi_320680/ghW1CE0B/62668?checkedby:iptvcat.com
+http://z.sralm87.com:2082/azizi_320680/ghW1CE0B/62668?checkedby:iptvcat.com
+#http://z.sralm87.com:2082/azizi_320680/ghW1CE0B/62667?checkedby:iptvcat.com
 
 #EXTINF:-1 tvg-id="NatGeoWild" tvg-logo="https://static.epg.best/id/NatGeoWild.id.png" group-title="家庭娱乐",Nat Geo Wild
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -375,6 +374,9 @@ http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5ca672f515a62078d2e
 
 #EXTINF:-1 tvg-id="COM.US" tvg-logo="https://static.epg.best/il/ComedyCentral.il.png" group-title="家庭娱乐",Comedy Central
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5ca671f215a62078d2ec0abf/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=465&deviceId=5ca671f215a62078d2ec0abf&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=&deviceLon=&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false
+
+#EXTINF:-1 tvg-id="" tvg-name="Galaxy Premium SD" tvg-logo="https://i.imgur.com/oPnzAPC.png" group-title="家庭娱乐",Galaxy tv
+https://content.uplynk.com/channel/f467430e4a8e49a59ff3183cf51092b2.m3u8
 
 #EXTINF:-1 tvg-ID="KBSWorld" tvg-logo="https://static.epg.best/us/KBSWorld.us.png" group-title="韩国",KBS World
 https://livecdn.fptplay.net/sdb/kbs_hls.smil/chunklist_b2500000.m3u8
@@ -467,9 +469,6 @@ https://liveanevia.mncnow.id/live/eds/Animax/sa_dash_vmx/Animax.mpd
 #EXTINF:-1 tvg-id="CartoonNetwork" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/371_144.png" group-title="少儿",Cartoon Network
 http://nasaip.com:8080/mkherbanex1/3984572397/69406?checkedby:iptvcat.com
 
-#EXTINF:-1 tvg-id="" tvg-name="Galaxy Premium SD" tvg-logo="https://i.imgur.com/oPnzAPC.png" group-title="少儿",Galaxy tv
-https://content.uplynk.com/channel/f467430e4a8e49a59ff3183cf51092b2.m3u8
-
 #EXTINF:-1 tvg-id="Dreamworks" tvg-logo="https://p.kindpng.com/picc/s/145-1450485_welcome-to-ideas-wiki-dreamworks-hd-png-download.png" group-title="少儿",Dreamworks
 http://z.sralm87.com:2082/azizi_320680/ghW1CE0B/116320?checkedby:iptvcat.com
 
@@ -503,9 +502,10 @@ https://mavtv-1.sinclair.wurl.com/manifest/2000.m3u8
 http://digicom.hls.iptvdc.com/canalmotor/tracks-v1a1/mono.m3u8|https://yamcode.com/embed/nasi-campur-iptv-200-channels
 
 #EXTINF:-1 tvg-id="821" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/194_144.png" group-title="Sports",WWE NETWORK 4K
-http://nasaip.com:8080/mkherbanex1/3984572397/70446?checkedby:iptvcat.com
+http://new-pro.tv:8080/74919yhat/47818ywtxwr/70446?checkedby:iptvcat.com
+#http://nasaip.com:8080/mkherbanex1/3984572397/70446?checkedby:iptvcat.com
 #http://z.sralm87.com:2082/azizi_320680/ghW1CE0B/13142?checkedby:iptvcat.com
-#http://new-pro.tv:8080/74919yhat/47818ywtxwr/70446?checkedby:iptvcat.com
+
 
 #EXTINF:-1 tvg-id="TVSUKAN" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/64/RTM_Sports.png" group-title="Sports",RTM Sports HD
 https://rtmlive06tv.secureswiftcontent.com/rtmchannel/06-manifest.mpd|https://github.com/samleong123
