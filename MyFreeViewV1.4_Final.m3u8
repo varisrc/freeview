@@ -252,9 +252,6 @@ http://grets.co21.net:2082/Medelectro_603328/ggO8T18n/77004
 #EXTINF:-1 tvg-id="" tvg-name="BEIN MOVIES Action 4K" tvg-logo="https://www.hadarasport.com/wp-content/uploads/2018/05/bein-prem2.gif" group-title="电影",BeIN Movies Action 4K
 http://grets.co21.net:2082/Medelectro_603328/ggO8T18n/77005
 
-#EXTINF:-1 tvg-id="407" tvg-name="007" tvg-logo="https://camo.githubusercontent.com/74c23afe7e0125a101c1bf128ed18a46d3374821964666df666e7a6758b6a338/68747470733a2f2f692e696d6775722e636f6d2f714b71457155432e706e67" group-title="电影",007
-https://raw.githubusercontent.com/AqFad2811/myiptv/main/BOND007/BOND007.m3u8
-
 #EXTINF:-1 tvg-id="407" tvg-name="Pluto TV 007" tvg-logo="https://camo.githubusercontent.com/74c23afe7e0125a101c1bf128ed18a46d3374821964666df666e7a6758b6a338/68747470733a2f2f692e696d6775722e636f6d2f714b71457155432e706e67" group-title="电影",Pluto TV 007
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5d4db961034718b2f52f9e52/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=50&deviceId=5d4db961034718b2f52f9e52&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=&deviceLon=&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false|https://github.com/Free-TV/IPTV/blob/master/zz_movies.md
 
