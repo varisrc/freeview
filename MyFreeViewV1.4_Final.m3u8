@@ -436,7 +436,7 @@ https://livedoc.cgtn.com/1000d/prog_index.m3u8
 https://liveanevia.mncnow.id/live/eds/CNNInternational/sa_dash_vmx/CNNInternational.mpd
 
 #EXTINF:-1 tvg-id="Fox.News" tvg-logo="http://static.epg.best/us/FoxNews.us.png" group-title="新闻",Fox News(美国)
-http://1111296894.rsc.cdn77.org/ls-54548-2/tracks-v1a1/mono.m3u8
+#http://1111296894.rsc.cdn77.org/ls-54548-2/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-id="NHKWorldPremium" tvg-logo="https://static.epg.best/jp/NHKWorld.jp.png" group-title="新闻",NHK World(日本)
 https://nhkworld.webcdn.stream.ne.jp/www11/nhkworld-tv/global/2003458/live.m3u8
@@ -467,10 +467,10 @@ https://liveanevia.mncnow.id/live/eds/Animax/sa_dash_vmx/Animax.mpd
 #EXTINF:-1 tvg-id="Aniplus" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/b8/Aniplus_Asia_Logo.png" group-title="少儿",Aniplus
 
 #EXTINF:-1 tvg-id="CartoonNetwork" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/371_144.png" group-title="少儿",Cartoon Network
-http://nasaip.com:8080/mkherbanex1/3984572397/69406?checkedby:iptvcat.com
+#http://nasaip.com:8080/mkherbanex1/3984572397/69406?checkedby:iptvcat.com
 
 #EXTINF:-1 tvg-id="Dreamworks" tvg-logo="https://p.kindpng.com/picc/s/145-1450485_welcome-to-ideas-wiki-dreamworks-hd-png-download.png" group-title="少儿",Dreamworks
-http://z.sralm87.com:2082/azizi_320680/ghW1CE0B/116320?checkedby:iptvcat.com
+#http://z.sralm87.com:2082/azizi_320680/ghW1CE0B/116320?checkedby:iptvcat.com
 
 #EXTINF:-1 tvg-id="Toku.US" tvg-logo="https://i0.wp.com/tokusatsunetwork.com/wp-content/uploads/2020/03/tsu-e1584362198575.png" group-title="少儿",TokuSHOUTsu
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5c3f8f12a93c2d61b9990a4e/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=848&deviceId=5c3f8f12a93c2d61b9990a4e&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=&deviceLon=&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false
@@ -502,7 +502,7 @@ https://mavtv-1.sinclair.wurl.com/manifest/2000.m3u8
 http://digicom.hls.iptvdc.com/canalmotor/tracks-v1a1/mono.m3u8|https://yamcode.com/embed/nasi-campur-iptv-200-channels
 
 #EXTINF:-1 tvg-id="821" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/194_144.png" group-title="Sports",WWE NETWORK 4K
-http://new-pro.tv:8080/74919yhat/47818ywtxwr/70446?checkedby:iptvcat.com
+#http://new-pro.tv:8080/74919yhat/47818ywtxwr/70446?checkedby:iptvcat.com
 #http://nasaip.com:8080/mkherbanex1/3984572397/70446?checkedby:iptvcat.com
 #http://z.sralm87.com:2082/azizi_320680/ghW1CE0B/13142?checkedby:iptvcat.com
 
@@ -511,28 +511,28 @@ http://new-pro.tv:8080/74919yhat/47818ywtxwr/70446?checkedby:iptvcat.com
 https://rtmlive06tv.secureswiftcontent.com/rtmchannel/06-manifest.mpd|https://github.com/samleong123
 
 #EXTINF:-1 tvg-id="AstroArena" tvg-chno="801" tvg-logo="http://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Neg/801.png" group-title="Sports",Astro Arena
-http://50.7.161.82:8278/streams/d/arena_pye/playlist.m3u8
+#http://50.7.161.82:8278/streams/d/arena_pye/playlist.m3u8
 
 #EXTINF:-1 tvg-id="803" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/235_144.png", Astro Arena HD 2
 
 
 #EXTINF:-1 tvg-ID="SPOTV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRX5BweyCqAV8vwWx_4n7L0kSlZwWTBt-ORqw&usqp=CAU" group-title="Sports", SPOTV 1
-https://cloudserver.server-cdn-streaming.com/live-player/11/live.m3u8
+#https://cloudserver.server-cdn-streaming.com/live-player/11/live.m3u8
 
 #EXTINF:-1 tvg-ID="SPOTV2" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRX5BweyCqAV8vwWx_4n7L0kSlZwWTBt-ORqw&usqp=CAU" group-title="Sports", SPOTV 2
-https://cloudserver.server-cdn-streaming.com/live-player/13/live.m3u8
+#https://cloudserver.server-cdn-streaming.com/live-player/13/live.m3u8
 
 #EXTINF:-1 tvg-ID="AstroSupersport" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/154_144.png" group-title="Sports",ASSP
-https://tinyurl.com/32a67rds
+#https://tinyurl.com/32a67rds
 
 #EXTINF:-1 tvg-ID="AstroSupersport2" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/138_144.png" group-title="Sports",ASSP2
-https://tinyurl.com/ym8cntjt
+#https://tinyurl.com/ym8cntjt
 
 #EXTINF:-1 tvg-ID="AstroSupersport3" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/164_144.png" group-title="Sports",ASSP3
-https://tinyurl.com/5f3atddd
+#https://tinyurl.com/5f3atddd
 
 #EXTINF:-1 tvg-ID="AstroSupersport4" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/241_144.png" group-title="Sports",ASSP4
-https://tinyurl.com/cwvzchmv
+#https://tinyurl.com/cwvzchmv
 
 #EXTINF:-1 tvg-ID="AstroSupersport5" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/455_144.png" group-title="Sports", Astro SuperSport 5 HD
 
@@ -547,7 +547,7 @@ https://tinyurl.com/cwvzchmv
 #http://oqab.life:8080/live/858182/858182/445.m3u8|http://oqab.life:8080/get.php?username=858182&password=858182&type=m3u&output=m3u8
 
 #EXTINF:-1 tvg-id="beINSports" tvg-logo="https://static.epg.best/qa/beINSports1.qa.png" group-title="Sports",beIN Sports 1 Asia
-http://oqab.life:8080/live/858182/858182/394.m3u8
+#http://oqab.life:8080/live/858182/858182/394.m3u8
 
 #EXTINF:-1 tvg-id="beINSports2" tvg-logo="https://static.epg.best/qa/beINSports2.qa.png" group-title="Sports",beIN Sports 2 Asia
 
