@@ -33,13 +33,13 @@ https://mediahomes.github.io/assets/my/ch_ds.m3u8|Referer=https://www.dailymotio
 https://rtmlive02tv.secureswiftcontent.com/rtmchannel/02-manifest.mpd|https://github.com/samleong123
 
 #EXTINF:-1 tvg-id="TVBXingHe" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/383_144.png" group-title="Malaysia",TVB Xing He 星河 (720p) [Not 24/7]
-http://50.7.161.82:8278/streams/d/Xinhe/playlist.m3u8|https://github.com/iptv-org
+#http://50.7.161.82:8278/streams/d/Xinhe/playlist.m3u8|https://github.com/iptv-org
 
 #EXTINF:-1 tvg-ID="AstroAEC" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/80_144.png" group-title="Malaysia",Astro AEC
-http://50.7.161.82:8278/streams/d/aec_pye/playlist.m3u8|https://yamcode.com/embed/nasi-campur-iptv-200-channels
+#http://50.7.161.82:8278/streams/d/aec_pye/playlist.m3u8|https://yamcode.com/embed/nasi-campur-iptv-200-channels
 
 #EXTINF:-1 tvg-id="iQIYI" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/IQiyi_logo.svg/200px-IQiyi_logo.svg.png" tvg-url="" group-title="Malaysia",iQIYI 爱奇艺
-http://50.7.161.82:8278/streams/d/iqiyi_pye/playlist.m3u8|https://yamcode.com/embed/nasi-campur-iptv-200-channels
+#http://50.7.161.82:8278/streams/d/iqiyi_pye/playlist.m3u8|https://yamcode.com/embed/nasi-campur-iptv-200-channels
 
 #EXTINF:-1 tvg-id="AstroHuaHeeDai" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/9_144.png" tvg-url="" group-title="Malaysia",Astro 欢喜台 (Hua Hee Dai)
 #http://50.7.161.82:8278/streams/d/Huahee/playlist.m3u8|https://yamcode.com/embed/nasi-campur-iptv-200-channels
@@ -48,37 +48,37 @@ http://50.7.161.82:8278/streams/d/iqiyi_pye/playlist.m3u8|https://yamcode.com/em
 https://cdn.hkdtmb.com/hls/81/index.m3u8
 
 #EXTINF:-1 tvg-id="AstroQuanJiaHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f8/Astro_Quan_Jia.png" tvg-url="" group-title="Malaysia",Astro Quan Jia HD
-http://50.7.161.82:8278/streams/d/Quanjia/playlist.m3u8|https://yamcode.com/embed/nasi-campur-iptv-200-channels
+#http://50.7.161.82:8278/streams/d/Quanjia/playlist.m3u8|https://yamcode.com/embed/nasi-campur-iptv-200-channels
 
 #EXTINF:-1 tvg-id="AstroAODHD" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/c/cb/Astro_AOD.jpeg/200px-Astro_AOD.jpeg" tvg-url="" group-title="Malaysia",Astro AOD 311
-http://50.7.161.82:8278/streams/d/aod_pye/playlist.m3u8|https://yamcode.com/embed/nasi-campur-iptv-200-channels
+#http://50.7.161.82:8278/streams/d/aod_pye/playlist.m3u8|https://yamcode.com/embed/nasi-campur-iptv-200-channels
 
 #EXTINF:-1 tvg-id="AstroShuangXing" tvg-country="MY" tvg-language="" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/183_144.png" group-title="Malaysia",Astro Shuang Xing (720p) [Not 24/7]
-http://50.7.161.82:8278/streams/d/Shuangxing/playlist.m3u8|https://github.com/iptv-org
+#http://50.7.161.82:8278/streams/d/Shuangxing/playlist.m3u8|https://github.com/iptv-org
 
 #EXTINF:-1 tvg-id="AstroXiaoTaiYang" tvg-country="MY" tvg-language="" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/387_144.png" group-title="Malaysia",Astro Xiao Tai Yang [Not 24/7]
-http://50.7.161.82:8278/streams/d/Xiaotaiyang/playlist.m3u8|https://github.com/iptv-org
+#http://50.7.161.82:8278/streams/d/Xiaotaiyang/playlist.m3u8|https://github.com/iptv-org
 
 #EXTINF:-1 tvg-ID="AstroCeria" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/55_144.png" group-title="Malaysia",Astro Ceria
-http://w.nasvpn.xyz:8080/iptvfreenet/iptvfreenet/177|https://github.com/azrinahmademuri
+#http://w.nasvpn.xyz:8080/iptvfreenet/iptvfreenet/177|https://github.com/azrinahmademuri
 
 #EXTINF:-1 tvg-ID="AstroRia" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/73_144.png" group-title="Malaysia",Astro Ria
-http://50.7.161.82:8278/streams/d/ria_pye/playlist.m3u8|https://github.com/xhanafix
+#http://50.7.161.82:8278/streams/d/ria_pye/playlist.m3u8|https://github.com/xhanafix
 
 #EXTINF:-1 tvg-ID="AstroWarna" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/53_144.png" group-title="Malaysia",Astro Warna
-http://w.nasvpn.xyz:8080/iptvfreenet/iptvfreenet/10|https://github.com/azrinahmademuri
+#http://w.nasvpn.xyz:8080/iptvfreenet/iptvfreenet/10|https://github.com/azrinahmademuri
 
 #EXTINF:-1 tvg-id="AstroCitra" tvg-country="MY" tvg-language="" tvg-logo="" group-title="Malaysia",Astro Citra (720p) [Not 24/7]
-http://50.7.161.82:8278/streams/d/Citra/playlist.m3u8|https://github.com/iptv-org
+#http://50.7.161.82:8278/streams/d/Citra/playlist.m3u8|https://github.com/iptv-org
 
 #EXTINF:-1 tvg-id="AstroPrima" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/105_300.png" group-title="Malaysia",Astro Prima HD
-http://50.7.161.82:8278/streams/d/Prima/playlist.m3u8
+#http://50.7.161.82:8278/streams/d/Prima/playlist.m3u8
 
 #EXTINF:-1 tvg-id="AwesomeTV" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/433_144.png" group-title="Malaysia", Awesome TV
-http://w.nasvpn.xyz:8080/iptvfreenet/iptvfreenet/180|https://github.com/azrinahmademuri
+#http://w.nasvpn.xyz:8080/iptvfreenet/iptvfreenet/180|https://github.com/azrinahmademuri
 
 #EXTINF:-1 tvg-id="251" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/ABO_BollyOne.png/120px-ABO_BollyOne.png" group-title="Malaysia",Astro Box Office BollyOne
-http://50.7.161.82:8278/streams/d/bollyone_pye/playlist.m3u8|https://yamcode.com/embed/nasi-campur-iptv-200-channels
+#http://50.7.161.82:8278/streams/d/bollyone_pye/playlist.m3u8|https://yamcode.com/embed/nasi-campur-iptv-200-channels
 
 #EXTINF:-1 tvg-ID="AstroAwani" tvg-logo="https://img.astroawani.com/template/awani.jpg" group-title="Malaysia",Astro Awani
 https://awanitv.akamaized.net/hls/live/2017836/LiveTV1/index.m3u8
@@ -160,20 +160,20 @@ https://edge2-bkk.3bb.co.th:9443/MONO29_HLS_1080P/mono29hls_1080TH.stream/chunkl
 
 
 #EXTINF:-1 tvg-id="BOO" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/251_144.png" group-title="电影",BOO
-http://50.7.161.82:8278/streams/d/Boo/playlist.m3u8|Referer=https://github.com/iptv-org
+#http://50.7.161.82:8278/streams/d/Boo/playlist.m3u8|Referer=https://github.com/iptv-org
 
 #EXTINF:-1 tvg-id="Fli.IN" tvg-logo="https://static.epg.best/in/AndFlix.in.png" group-title="电影",&FlixHD 4K
-http://oqab.life:8080/live/858182/858182/116.m3u8
+#http://oqab.life:8080/live/858182/858182/116.m3u8
 
 #EXTINF:-1 tvg-id="Pri.IN" tvg-logo="https://static.epg.best/in/AndPrive.in.png" group-title="电影",&Prive HD 4K
-http://oqab.life:8080/live/858182/858182/105.m3u8
+#http://oqab.life:8080/live/858182/858182/105.m3u8
 
 #EXTINF:-1 tvg-id="AndPictures.in" tvg-logo="https://static.epg.best/in/AndPictures.in.png" group-title="电影",&Pictures 4K
-http://oqab.life:8080/live/858182/858182/114.m3u8
+#http://oqab.life:8080/live/858182/858182/114.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha #KODIPROP:inputstream.adaptive.license_key=http://1.9.58.113:8063?deviceId=OTE0ZmFiNmItNmNkYi0zNzZkLWEyYzctMzM0YTc3MWJjZDI4
 #EXTINF:-1 tvg-id="Cinemax" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/337_144.png" group-title="电影",Cinemax HD
-https://raw.githubusercontent.com/angahjee1994/tv/master/cinemax.m3u8|https://github.com/azrinahmademuri
+#https://raw.githubusercontent.com/angahjee1994/tv/master/cinemax.m3u8|https://github.com/azrinahmademuri
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://cinemaworld.asia/wp-content/uploads/2019/08/CMW-Logo_Gold.png" group-title="电影",CinemaWorld
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -181,19 +181,19 @@ https://raw.githubusercontent.com/angahjee1994/tv/master/cinemax.m3u8|https://gi
 https://liveanevia.mncnow.id/live/eds/CinemaWorld/sa_dash_vmx/CinemaWorld.mpd
 
 #EXTINF:-1 tvg-id="HBO" tvg-logo="https://static.epg.best/us/HBO.us.png" group-title="电影",HBO
-http://50.7.161.82:8278/streams/d/Hbo/playlist.m3u8|Referer=https://github.com/iptv-org
+#http://50.7.161.82:8278/streams/d/Hbo/playlist.m3u8|Referer=https://github.com/iptv-org
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://www.pngjoy.com/pngm/223/4342533_hbo-logo-hbo-plus-logo-png-png-download.png" group-title="电影",HBO Plus
 #|https://yamcode.com/embed/nasi-campur-iptv-200-channels
 
 #EXTINF:-1 tvg-id="HBOFamily.id" tvg-logo="https://static.epg.best/us/HBOFamily.us.png" group-title="电影",HBO Family
-https://liveorigin01.hbogoasia.com:8443/origin/live/main/FAMILY/index.m3u8|Referer=https://github.com/iptv-org
+#https://liveorigin01.hbogoasia.com:8443/origin/live/main/FAMILY/index.m3u8|Referer=https://github.com/iptv-org
 
 #EXTINF:-1 tvg-id="HBOHits.id" tvg-logo="https://static.epg.best/id/HBOHits.id.png" group-title="电影",HBO Hits
-https://liveorigin01.hbogoasia.com:8443/origin/live/main/HITS/index.m3u8|Referer=https://github.com/iptv-org
+#https://liveorigin01.hbogoasia.com:8443/origin/live/main/HITS/index.m3u8|Referer=https://github.com/iptv-org
 
 #EXTINF:-1 tvg-id="HBOSignature.id" tvg-logo="https://static.epg.best/us/HBOSignature.us.png" group-title="电影",HBO Signature
-https://liveorigin01.hbogoasia.com:8443/origin/live/main/SIG/index.m3u8|Referer=https://github.com/iptv-org
+#https://liveorigin01.hbogoasia.com:8443/origin/live/main/SIG/index.m3u8|Referer=https://github.com/iptv-org
 
 #EXTINF:-1 tvg-id="HITS" tvg-logo="http://www.rewindnetworks.com/assets/logo_hits.png" group-title="电影",Hits
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -206,10 +206,10 @@ https://liveanevia.mncnow.id/live/eds/HITS/sa_dash_vmx/HITS.mpd
 https://liveanevia.mncnow.id/live/eds/HitsMovies/sa_dash_vmx/HitsMovies.mpd
 
 #EXTINF:-1 tvg-id="Thrill.id" tvg-logo="http://console.celestialtiger.com/images/upload/1f6e441382a388940977fd9e165178c42fe0c193.png" group-title="电影",Thrill
-http://50.7.161.82:8278/streams/d/thrill_pye/playlist.m3u8|https://yamcode.com/embed/nasi-campur-iptv-200-channels
+#http://50.7.161.82:8278/streams/d/thrill_pye/playlist.m3u8|https://yamcode.com/embed/nasi-campur-iptv-200-channels
 
 #EXTINF:-1 tvg-id="712" tvg-logo="http://static.epg.best/fr/WarnerTV.fr.png" group-title="电影",Warner TV HD
-http://203.154.243.89:11205|https://github.com/iptv-org
+#http://203.154.243.89:11205|https://github.com/iptv-org
 
 #EXTINF:-1 tvg-id="CelestialMovies" tvg-logo="http://console.celestialtiger.com/images/upload/f50f7261d3c260ac6e3a38f85152b3f33833fc52.png" group-title="电影",天映频道
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -221,7 +221,7 @@ https://liveanevia.mncnow.id/live/eds/CelestialMovie/sa_dash_vmx/CelestialMovie.
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=YWY0OTBlZjEtODAyNC0zZTA0LWFhYzMtY2ZmMGE4NjVjZjU1
 https://liveanevia.mncnow.id/live/eds/CelestialClassic/sa_dash_vmx/CelestialClassic.mpd
 
-#EXTINF:-1 tvg-id="228" tvg-logo="https://images.now-tv.com/shares/channelPreview/img/en_hk/color/ch139_170_122" group-title="电影",衛視電影
+#EXTINF:-1 tvg-id="228" tvg-logo="https://images.now-tv.com/shares/channelPreview/img/en_hk/color/ch139_170_122" group-title="Sports",SPOTV
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=YWY0OTBlZjEtODAyNC0zZTA0LWFhYzMtY2ZmMGE4NjVjZjU1
 https://liveanevia.mncnow.id/live/eds/SCM/sa_dash_vmx/SCM.mpd
@@ -247,13 +247,13 @@ https://sbs-live.akamaized.net/hls/live/2005470/channel5/geo/master_2500K.m3u8|X
 https://liveanevia.mncnow.id/live/eds/tvNMovies/sa_dash_vmx/tvNMovies.mpd
 
 #EXTINF:-1 tvg-id="" tvg-name="BEIN MOVIES Premiere 4K" tvg-logo="http://www.bbb.lol/uploads/tv_image/bein-movies-1-premier.png" group-title="电影",BeIN Movies Premiere 4K
-http://grets.co21.net:2082/Medelectro_603328/ggO8T18n/77004
+#http://grets.co21.net:2082/Medelectro_603328/ggO8T18n/77004
 
 #EXTINF:-1 tvg-id="" tvg-name="BEIN MOVIES Action 4K" tvg-logo="https://www.hadarasport.com/wp-content/uploads/2018/05/bein-prem2.gif" group-title="电影",BeIN Movies Action 4K
-http://grets.co21.net:2082/Medelectro_603328/ggO8T18n/77005
+#http://grets.co21.net:2082/Medelectro_603328/ggO8T18n/77005
 
 #EXTINF:-1 tvg-id="407" tvg-name="Pluto TV 007" tvg-logo="https://camo.githubusercontent.com/74c23afe7e0125a101c1bf128ed18a46d3374821964666df666e7a6758b6a338/68747470733a2f2f692e696d6775722e636f6d2f714b71457155432e706e67" group-title="电影",Pluto TV 007
-http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5d4db961034718b2f52f9e52/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=50&deviceId=5d4db961034718b2f52f9e52&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=&deviceLon=&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false|https://github.com/Free-TV/IPTV/blob/master/zz_movies.md
+#http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5d4db961034718b2f52f9e52/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=50&deviceId=5d4db961034718b2f52f9e52&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=&deviceLon=&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false|https://github.com/Free-TV/IPTV/blob/master/zz_movies.md
 
 #EXTINF:-1 tvg-name="Pluto TV Action" tvg-logo="https://i.imgur.com/g8PCdh6.png" group-title="电影",Pluto TV Action
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/561d7d484dc7c8770484914a/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=54&deviceId=561d7d484dc7c8770484914a&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=&deviceLon=&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false|https://github.com/Free-TV/IPTV/blob/master/zz_movies.md
@@ -283,10 +283,10 @@ http://dai2.xumo.com/xumocdn/p=roku/amagi_hls_data_xumo1212A-filmrisefreemovies/
 http://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5cb0cae7a461406ffe3f5213/master.m3u8?advertisingId=91a6ae51-6f9d-4fbb-adb0-bdfffa44693e&appVersion=unknown&deviceDNT=0&deviceId=91a6ae51-6f9d-4fbb-adb0-bdfffa44693e&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceUA=samsung/SM-T720/10&deviceVersion=unknown&embedPartner=samsung-tvplus&profileFloor=&profileLimit=&samsung_app_domain=https://play.google.com/store/apps/details?id=com.samsung.android.tvplus&samsung_app_name=Mobile+TV+Plus&us_privacy=1YNY
 
 #EXTINF:-1 tvg-id="SONYPix" tvg-logo="https://iconape.com/wp-content/png_logo_vector/sony-pix-logo.png" group-title="电影",SONY Pix 4K
-http://oqab.life:8080/live/858182/858182/87.m3u8|http://oqab.life:8080/get.php?username=858182&password=858182&type=m3u&output=m3u8
+#http://oqab.life:8080/live/858182/858182/87.m3u8|http://oqab.life:8080/get.php?username=858182&password=858182&type=m3u&output=m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/STAR_Movies_logo.svg/1200px-STAR_Movies_logo.svg.png" group-title="电影",Star Movies (FHD) 4K
-http://oqab.life:8080/live/858182/858182/119.m3u8|http://oqab.life:8080/get.php?username=858182&password=858182&type=m3u&output=m3u8
+#http://oqab.life:8080/live/858182/858182/119.m3u8|http://oqab.life:8080/get.php?username=858182&password=858182&type=m3u&output=m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/c/c5/SMSHD.png/revision/latest?cb=20190810162735" group-title="电影",Star Movie Select 4K
 
@@ -311,10 +311,10 @@ https://liveanevia.mncnow.id/live/eds/History/sa_dash_vmx/History.mpd
 #http://oqab.life:8080/live/858182/858182/93.m3u8|http://oqab.life:8080/get.php?username=858182&password=858182&type=m3u&output=m3u8
 
 #EXTINF:-1 tvg-id="DMAX" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a3/Dmax.png" group-title="家庭娱乐",DMAX HD 4K
-http://forevertv.me:8080/Iptvtree/b957c2YMj6/14018?checkedby:iptvcat.com
+#http://forevertv.me:8080/Iptvtree/b957c2YMj6/14018?checkedby:iptvcat.com
 
 #EXTINF:-1 tvg-id="DMAX" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a3/Dmax.png" group-title="家庭娱乐",DMAX
-http://live.iptvtotaal.com:8000/6234122498/8329556324/36150?checkedby:iptvcat.com
+#http://live.iptvtotaal.com:8000/6234122498/8329556324/36150?checkedby:iptvcat.com
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=YWY0OTBlZjEtODAyNC0zZTA0LWFhYzMtY2ZmMGE4NjVjZjU1
 #EXTINF:-1 tvg-ID="KIX" tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/9428328_ico.png" group-title="家庭娱乐", KIX HD
@@ -324,7 +324,7 @@ http://live.iptvtotaal.com:8000/6234122498/8329556324/36150?checkedby:iptvcat.co
 https://primetv-prod.akamaized.net/v1/prime-freeview-aes128.m3u8|X-Forwarded-For=202.89.4.222
 
 #EXTINF:-1 tvg-id="552" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/376_144.png" group-title="家庭娱乐",Discovery Channel
-http://z.sralm87.com:2082/azizi_320680/ghW1CE0B/62668?checkedby:iptvcat.com
+#http://z.sralm87.com:2082/azizi_320680/ghW1CE0B/62668?checkedby:iptvcat.com
 #http://z.sralm87.com:2082/azizi_320680/ghW1CE0B/62667?checkedby:iptvcat.com
 
 #EXTINF:-1 tvg-id="NatGeoWild" tvg-logo="https://static.epg.best/id/NatGeoWild.id.png" group-title="家庭娱乐",Nat Geo Wild
@@ -333,7 +333,7 @@ http://z.sralm87.com:2082/azizi_320680/ghW1CE0B/62668?checkedby:iptvcat.com
 https://liveanevia.mncnow.id/live/eds/NatGeoWild/sa_dash_vmx/NatGeoWild.mpd
 
 #EXTINF:-1 tvg-id="AnimalPlanet" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/377_144.png" group-title="家庭娱乐",ANIMAL PLANET
-http://89.216.39.29:8001/|https://yamcode.com/embed/nasi-campur-iptv-200-channels
+#http://89.216.39.29:8001/|https://yamcode.com/embed/nasi-campur-iptv-200-channels
 
 #EXTINF:-1 tvg-ID="TLC" tvg-logo="http://static.epg.best/de/TLC.de.png" group-title="家庭娱乐",TLC
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -349,7 +349,7 @@ https://liveanevia.mncnow.id/live/eds/AXN/sa_dash_vmx/AXN.mpd
 
 
 #EXTINF:-1 tvg-ID="POP.US" tvg-logo="https://static.epg.best/us/PopTV.us.png" group-title="家庭娱乐",Pop
-https://live-poptv-fastly-prod.global.ssl.fastly.net/pop/master.m3u8
+#https://live-poptv-fastly-prod.global.ssl.fastly.net/pop/master.m3u8
 
 #EXTINF:-1 tvg-ID="SB1.AU" tvg-logo="https://static.epg.best/au/SBS.au.png" group-title="家庭娱乐",SBS One
 https://sbs-live.akamaized.net/hls/live/2002827/channel1/geo/master_2500K.m3u8|X-Forwarded-For=52.62.247.239
@@ -392,7 +392,7 @@ https://liveanevia.mncnow.id/live/eds/tvNMovies/sa_dash_vmx/tvNMovies.mpd
 https://liveanevia.mncnow.id/live/eds/SetOne/sa_dash_vmx/SetOne.mpd
 
 #EXTINF:-1 tvg-ID="394" tvg-logo="https://www.ohk-tv.com/img/logo.png" group-title="韩国", Oh!K HD
-http://50.7.161.82:8278/streams/d/Ohk/playlist.m3u8|https://github.com/azrinahmademuri
+#http://50.7.161.82:8278/streams/d/Ohk/playlist.m3u8|https://github.com/azrinahmademuri
 
 #EXTINF:-1 tvg-ID="394" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/266_144.png" group-title="韩国",K-Plus HD http://foctv.xyz:25510/live/@alaqib/C9vOtBPfQ2/140.m3u8|https://github.com/azrinahmademuri
 
@@ -405,7 +405,7 @@ http://50.7.161.82:8278/streams/d/Ohk/playlist.m3u8|https://github.com/azrinahma
 http://slive.ytn.co.kr/ytn/_definst_/ytn_stream_20190306/playlist.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/FIzME5L.jpg" group-title="韩国",YTN SCIENCE
-http://slive.sciencetv.kr:1935/science/yslive_20140419_1/playlist.m3u8
+#http://slive.sciencetv.kr:1935/science/yslive_20140419_1/playlist.m3u8
 
 #EXTINF:-1 tvg-id="AlJazeeraEnglish" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/374_144.png" group-title="新闻",Al Jazeera(中东)
 https://live-hls-web-aje.getaj.net/AJE/01.m3u8
