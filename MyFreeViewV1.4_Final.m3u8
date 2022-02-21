@@ -221,6 +221,9 @@ https://liveanevia.mncnow.id/live/eds/CelestialMovie/sa_dash_vmx/CelestialMovie.
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=YWY0OTBlZjEtODAyNC0zZTA0LWFhYzMtY2ZmMGE4NjVjZjU1
 https://liveanevia.mncnow.id/live/eds/CelestialClassic/sa_dash_vmx/CelestialClassic.mpd
 
+#EXTINF:-1 tvg-id="Thrill.id" tvg-logo="https://www.lyngsat.com/logo/tv/cc/chc-action-cn.png" group-title="电影",CHC Action
+http://59.49.41.44/live.aishang.ctlcdn.com/00000110240324_1/playlist.m3u8?CONTENTID=00000110240324_1
+
 #EXTINF:-1 tvg-id="228" tvg-logo="https://images.now-tv.com/shares/channelPreview/img/en_hk/color/ch139_170_122" group-title="Sports",SPOTV
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=YWY0OTBlZjEtODAyNC0zZTA0LWFhYzMtY2ZmMGE4NjVjZjU1
@@ -900,5 +903,98 @@ https://mediaprima.rastream.com/mediaprima-flyfm
 
 #EXTINF:-1 group-title="MYTV Broadcasting: Radio" ch-number="724" tvg-chno="724" tvg-logo="https://i.ibb.co/z6nG2s0/image.png",One FM
 https://mediaprima.rastream.com/mediaprima-onefm
+
+#EXTINF:-1 tvg-id="" group-title="Koleksi P.Ramlee" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/2/2a/Nujum_Pak_Belalang.jpg/220px-Nujum_Pak_Belalang.jpg",Nujum pak belalang
+http://4rr0w.my.id/ysb.mp4?url=https://youtu.be/A3BrJL_RVzg
+
+#EXTINF:-1 tvg-id="" group-title="Koleksi P.Ramlee" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/2/2e/AhmadAlbab.jpg/220px-AhmadAlbab.jpg",Ahmad Albab
+http://4rr0w.my.id/ysb.mp4?url=https://youtu.be/nTNOx5Fc54Y
+
+#EXTINF:-1 tvg-id="" group-title="Koleksi P.Ramlee" tvg-logo="https://upload.wikimedia.org/wikipedia/ms/thumb/3/30/Anak_Bapak.jpg/220px-Anak_Bapak.jpg",Anak bapak
+http://4rr0w.my.id/ysb.mp4?url=https://youtu.be/5QNyAv_7LuQ
+
+#EXTINF:-1 tvg-id="" group-title="Koleksi P.Ramlee" tvg-logo="https://upload.wikimedia.org/wikipedia/ms/thumb/9/9c/Antara_Dua_Darjat.jpg/434px-Antara_Dua_Darjat.jpg?20080601111431",Antar dua darjat
+http://4rr0w.my.id/ysb.mp4?url=https://youtu.be/cMAQ7h6GroA
+
+#EXTINF:-1 tvg-id="" group-title="Koleksi P.Ramlee" tvg-logo="https://pramleeblog.files.wordpress.com/2016/03/laksamana-do-re-mi-1972.gif",Laksamana do re mi
+http://4rr0w.my.id/ysb.mp4?url=https://youtu.be/NnVoVq36EAY
+
+#EXTINF:-1 tvg-id="" group-title="Koleksi P.Ramlee" tvg-logo="http://www.p-ramlee.com/p-ramlee/images8/p-merana.jpg",Merana
+http://4rr0w.my.id/ysb.mp4?url=https://youtu.be/ltBfU-hFVPQ
+
+#EXTINF:-1 tvg-id="" group-title="Koleksi P.Ramlee" tvg-logo="https://upload.wikimedia.org/wikipedia/en/b/bf/LabuLabi.jpg",Labu labi
+http://4rr0w.my.id/ysb.mp4?url=https://youtu.be/-hfVoARHZfU
+
+#EXTINF:-1 tvg-id="" group-title="Koleksi P.Ramlee" tvg-logo="http://www.p-ramlee.com/p-ramlee/images9/v-nasibsll.gif",Nasib labu labi
+http://4rr0w.my.id/ysb.mp4?url=https://youtu.be/JHZFacq72NM
+
+#EXTINF:-1 tvg-id="" group-title="Koleksi P.Ramlee" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/0/0e/TigaAbdul.jpg/220px-TigaAbdul.jpg",Tiga abdul
+http://4rr0w.my.id/ysb.mp4?url=https://youtu.be/FoQzX3v2euY
+
+#EXTINF:-1 tvg-id="" group-title="Koleksi P.Ramlee" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/c/c5/IbuMertuaku.jpg/220px-IbuMertuaku.jpg",Ibu mertuaku
+http://4rr0w.my.id/ysb.mp4?url=https://youtu.be/t6op5osHGfs
+
+#EXTINF:-1 tvg-id="" group-title="Koleksi P.Ramlee" tvg-logo="https://m.media-amazon.com/images/M/MV5BZjY2NmQyNTItNDVmNi00MmI3LTgxOWYtNzBhYWQyOWY2N2I0XkEyXkFqcGdeQXVyMTA3NTk1MQ@@._V1_.jpg",Nasib do re mi
+http://4rr0w.my.id/ysb.mp4?url=https://youtu.be/-FysxSL6T6k
+
+#EXTINF:-1 tvg-id="" group-title="Koleksi P.Ramlee" tvg-logo="https://upload.wikimedia.org/wikipedia/ms/5/5c/Anakku_sazali_01.jpg",Anakku Sazali
+http://4rr0w.my.id/ysb.mp4?url=https://youtu.be/9mn_mSlB4zY
+
+#EXTINF:-1 tvg-id="" group-title="Koleksi P.Ramlee" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/0/0d/MaduTiga.jpg/220px-MaduTiga.jpg",Madu tiga
+http://4rr0w.my.id/ysb.mp4?url=https://youtu.be/xH3yNlplqZY
+
+#EXTINF:-1 tvg-id="" group-title="Koleksi P.Ramlee" tvg-logo="https://m.media-amazon.com/images/M/MV5BZDgxNGYzM2EtMzk3Mi00MGVkLTkxMTctMjQwYWFmMGM2YThhXkEyXkFqcGdeQXVyNzQwOTU0NTk@._V1_FMjpg_UX1000_.jpg",Bawang puteh bawang merah
+http://4rr0w.my.id/ysb.mp4?url=https://youtu.be/AzBpaQttCdE
+
+#EXTINF:-1 tvg-id="" group-title="Koleksi P.Ramlee" tvg-logo="https://pbs.twimg.com/media/DTwMgN1VMAYd7du.jpg",Badang - wahid satay
+http://4rr0w.my.id/ysb.mp4?url=https://youtu.be/-7nZ1QAyQw4
+
+#EXTINF:-1 tvg-id="" group-title="Koleksi P.Ramlee" tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/11/AliBabaBujangLapok.jpg",Ali baba bujang lapok
+http://4rr0w.my.id/ysb.mp4?url=https://youtu.be/5Jldr0xULg8
+
+#EXTINF:-1 tvg-id="" group-title="Koleksi P.Ramlee" tvg-logo="https://upload.wikimedia.org/wikipedia/ms/8/87/Abu_Hassan_Pencuri.jpg",Abu hassan pencuri
+http://4rr0w.my.id/ysb.mp4?url=https://youtu.be/a_4JGAdEg5c
+
+#EXTINF:-1 tvg-id="" group-title="Koleksi P.Ramlee" tvg-logo="https://m.media-amazon.com/images/M/MV5BMTUxZDdmNGMtYWQyOC00MjNmLTkxOWItY2JiYjZmMmZlZjMyXkEyXkFqcGdeQXVyMDM3MzU0Ng@@._V1_FMjpg_UX1000_.jpg",Semerah padi
+http://4rr0w.my.id/ysb.mp4?url=https://youtu.be/_5U0x_eqHWQ
+
+#EXTINF:-1 tvg-id="" group-title="Koleksi P.Ramlee" tvg-logo="https://m.media-amazon.com/images/M/MV5BYzZjYjZmMzUtOWUzYy00MDkwLThhMWMtMDdiYjJjNzcyNzRhXkEyXkFqcGdeQXVyMTA3NTk1MQ@@._V1_.jpg",Pendekar bujang lapok
+http://4rr0w.my.id/ysb.mp4?url=https://youtu.be/uSH33yUy9zY
+
+#EXTINF:-1 tvg-id="" group-title="Koleksi P.Ramlee" tvg-logo="https://upload.wikimedia.org/wikipedia/ms/thumb/3/3d/Sumpah_orang_minyak_01.jpg/220px-Sumpah_orang_minyak_01.jpg",Sumpah orang minyak
+http://4rr0w.my.id/ysb.mp4?url=https://youtu.be/r5xNjIm0EPk
+
+#EXTINF:-1 tvg-id="" group-title="Koleksi P.Ramlee" tvg-logo="https://www.themoviedb.org/t/p/w500/hpUYZMwIt72L2FJM6kwwsgnJt1K.jpg",Musang berjanggut
+http://4rr0w.my.id/ysb.mp4?url=https://youtu.be/73vGFxtSmKc
+
+#EXTINF:-1 tvg-id="" group-title="Koleksi P.Ramlee" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/a/a7/SenimanBujangLapok.jpg/220px-SenimanBujangLapok.jpg",Seniman bujang lapok
+http://4rr0w.my.id/ysb.mp4?url=https://youtu.be/7GicBysGDCk
+
+#EXTINF:-1 tvg-id="" group-title="Koleksi P.Ramlee" tvg-logo="https://upload.wikimedia.org/wikipedia/ms/thumb/0/01/BujangLapok.jpg/220px-BujangLapok.jpg",Bujang lapok
+http://4rr0w.my.id/ysb.mp4?url=https://youtu.be/TNUHBWvGWdw
+
+#EXTINF:-1 tvg-id="" group-title="Koleksi P.Ramlee" tvg-logo="https://popcornsg.s3.amazonaws.com/gallery/1585094464-masam-ma.jpg",Masam masam manis
+http://4rr0w.my.id/ysb.mp4?url=https://youtu.be/MbfmOVA6_ac
+
+#EXTINF:-1 tvg-id="" group-title="Koleksi P.Ramlee" tvg-logo="https://upload.wikimedia.org/wikipedia/ms/thumb/e/ec/Sarjan_hassan_01.jpg/220px-Sarjan_hassan_01.jpg",Sarjan hassan
+http://4rr0w.my.id/ysb.mp4?url=https://youtu.be/BKhAnjMQPW0
+
+#EXTINF:-1 tvg-id="" group-title="Koleksi P.Ramlee" tvg-logo="https://i.ytimg.com/vi/1FGy1duhdH0/hqdefault.jpg",Tiga botak
+http://4rr0w.my.id/ysb.mp4?url=https://youtu.be/PMfJPYME7YU
+
+#EXTINF:-1 tvg-id="" group-title="Koleksi P.Ramlee" tvg-logo="https://upload.wikimedia.org/wikipedia/ms/thumb/8/87/6Jahanam.gif/220px-6Jahanam.gif",6 jahannam
+http://4rr0w.my.id/ysb.mp4?url=https://youtu.be/GKdCNRaB4F8
+
+#EXTINF:-1 tvg-id="" group-title="Koleksi P.Ramlee" tvg-logo="https://i.ytimg.com/vi/Uoe3PuCwZJ0/maxresdefault.jpg",Minta nombor ekor
+http://4rr0w.my.id/ysb.mp4?url=https://youtu.be/zvjb-AnjHtU
+
+#EXTINF:-1 tvg-id="" group-title="Koleksi P.Ramlee" tvg-logo="https://www.roots.gov.sg/CollectionImages/1085478.jpg",Hang jebat
+http://4rr0w.my.id/ysb.mp4?url=https://youtu.be/489ih7ox73o
+
+#EXTINF:-1 tvg-id="" group-title="Koleksi P.Ramlee" tvg-logo="https://upload.wikimedia.org/wikipedia/ms/3/38/Hang_tuah_01.jpg",Hang tuah
+http://4rr0w.my.id/ysb.mp4?url=https://youtu.be/zF_LwF9GO1s
+
+#EXTINF:-1 tvg-id="" group-title="Koleksi P.Ramlee" tvg-logo="https://m.media-amazon.com/images/M/MV5BNDdhOGEzYTktZTZlYi00ZjI5LTk5NTEtNjk3ZWE4ZjYwNzQyXkEyXkFqcGdeQXVyMTA3NTk1MQ@@._V1_.jpg",Keluarga 69
+http://4rr0w.my.id/ysb.mp4?url=https://youtu.be/3BtO2FQvFj4
 
 新马泰[国]
