@@ -186,11 +186,13 @@ https://liveanevia.mncnow.id/live/eds/CinemaWorld/sa_dash_vmx/CinemaWorld.mpd
 #EXTINF:-1 tvg-id="HBO" tvg-logo="https://static.epg.best/us/HBO.us.png" group-title="电影",HBO
 https://liveanevia.mncnow.id/live/eds/hbo-2/sa_dash_vmx/hbo-2.mpd
 
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha 
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=YWY0OTBlZjEtODAyNC0zZTA0LWFhYzMtY2ZmMGE4NjVjZjU1
 #EXTINF:-1 tvg-id="" tvg-logo="https://www.pngjoy.com/pngm/223/4342533_hbo-logo-hbo-plus-logo-png-png-download.png" group-title="电影",HBO Plus
 https://liveanevia.mncnow.id/live/eds/HBOHits/sa_dash_vmx/HBOPlus.mpd
 
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha 
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=YWY0OTBlZjEtODAyNC0zZTA0LWFhYzMtY2ZmMGE4NjVjZjU1
 #EXTINF:-1 tvg-id="HBOFamily.id" tvg-logo="https://static.epg.best/us/HBOFamily.us.png" group-title="电影",HBO Family
 https://liveanevia.mncnow.id/live/eds/HBOFamily2/sa_dash_vmx/HBOFamily2.mpd
 
@@ -213,7 +215,6 @@ https://liveanevia.mncnow.id/live/eds/HITS/sa_dash_vmx/HITS.mpd
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=YWY0OTBlZjEtODAyNC0zZTA0LWFhYzMtY2ZmMGE4NjVjZjU1
 https://liveanevia.mncnow.id/live/eds/HitsMovies/sa_dash_vmx/HitsMovies.mpd
-
 
 #EXTINF:-1 tvg-id="Thrill.id" tvg-logo="http://console.celestialtiger.com/images/upload/1f6e441382a388940977fd9e165178c42fe0c193.png" group-title="电影",Thrill
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -238,11 +239,10 @@ https://liveanevia.mncnow.id/live/eds/CelestialClassic/sa_dash_vmx/CelestialClas
 #EXTINF:-1 tvg-id="Thrill.id" tvg-logo="https://www.lyngsat.com/logo/tv/cc/chc-action-cn.png" group-title="电影",CHC Action
 http://59.49.41.44/live.aishang.ctlcdn.com/00000110240324_1/playlist.m3u8?CONTENTID=00000110240324_1
 
-
 #EXTINF:-1 tvg-id="" tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_18.jpg" group-title="电影",Star Chinese Movies South East Asia
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
-https://liveanevia.mncnow.id/live/eds/SCM/sa_dash_vmx/SCM.mpd
+#https://liveanevia.mncnow.id/live/eds/SCM/sa_dash_vmx/SCM.mpd
 
 #EXTINF:-1 tvg-id="Xing Kong" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/4/4b/Xing_Kong.png/revision/latest/scale-to-width-down/200?cb=20200323033519" group-title="电影",星空卫视
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -330,7 +330,8 @@ https://liveanevia.mncnow.id/live/eds/History/sa_dash_vmx/History.mpd
 #EXTINF:-1 tvg-id="DMAX" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a3/Dmax.png" group-title="家庭娱乐",DMAX
 #http://live.iptvtotaal.com:8000/6234122498/8329556324/36150?checkedby:iptvcat.com
 
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha 
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=YWY0OTBlZjEtODAyNC0zZTA0LWFhYzMtY2ZmMGE4NjVjZjU1
 #EXTINF:-1 tvg-ID="KIX" tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/9428328_ico.png" group-title="家庭娱乐", KIX HD
 https://liveanevia.mncnow.id/live/eds/KIX/sa_dash_vmx/KIX.mpd
 
@@ -544,7 +545,7 @@ http://108.136.37.52/m3u8/plex_Hard_Knocks.m3u8
 #EXTINF:-1 tvg-id="803" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/235_144.png", Astro Arena HD 2
 
 
-#EXTINF:-1 tvg-ID="SPOTV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRX5BweyCqAV8vwWx_4n7L0kSlZwWTBt-ORqw&usqp=CAU" group-title="Sports", SPOTV 1
+#EXTINF:-1 tvg-ID="SPOTV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/df/SPO_TV_logo.png" group-title="Sports", SPOTV 1
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
 https://liveanevia.mncnow.id/live/eds/SPOTV-HD/sa_dash_vmx/SPOTV-HD.mpd
@@ -570,13 +571,13 @@ https://liveanevia.mncnow.id/live/eds/SPOTV2-HD/sa_dash_vmx/SPOTV2-HD.mpd
 
 
 #EXTINF:-1 tvg-id="beINSports" tvg-logo="https://static.epg.best/qa/beINSports1.qa.png" group-title="Sports",beIN Sports 1
-http://93.152.174.144:400/play/btsport1/index.m3u8
+#http://93.152.174.144:400/play/btsport1/index.m3u8
 
 #EXTINF:-1 tvg-id="beINSports2" tvg-logo="https://static.epg.best/qa/beINSports2.qa.png" group-title="Sports",beIN Sports 2
-http://93.152.174.144:400/play/btsport2/index.m3u8
+#http://93.152.174.144:400/play/btsport2/index.m3u8
 
 #EXTINF:-1 tvg-id="beINSports3" tvg-logo="https://static.epg.best/qa/beINSports3.qa.png" group-title="Sports",beIN Sports 3
-http://93.152.174.144:400/play/btsport3/index.m3u8
+#http://93.152.174.144:400/play/btsport3/index.m3u8
 
 #EXTINF:-1 tvg-ID="SK1.AU" tvg-logo="https://media.info/i/lf/300/1514269404/6402.png" group-title="体育",Sky Racing 1
 https://skylivesky-i.akamaihd.net/hls/live/569780/skylive/sky1_extreme@569780.m3u8
