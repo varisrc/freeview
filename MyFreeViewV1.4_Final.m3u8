@@ -29,7 +29,7 @@ https://mediahomes.github.io/assets/my/ch_ds.m3u8|Referer=https://www.dailymotio
 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/93.0.4577.63 Safari/537.36
 #EXTVLCOPT:http-referrer=https://rtmklik.rtm.gov.my/
-#EXTINF:-1 tvg-ID="OKEY" tvg-logo="https://okey.rtm.gov.my/img/logo/okey.png" group-title="Malaysia",OKEY
+#EXTINF:-1 tvg-ID="OKEY" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/97_144.png" group-title="Malaysia",OKEY
 https://rtmlive02tv.secureswiftcontent.com/rtmchannel/02-manifest.mpd|https://github.com/samleong123
 
 #EXTINF:-1 tvg-id="TVBXingHe" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/383_144.png" group-title="Malaysia",TVB Xing He 星河 (720p) [Not 24/7]
@@ -513,10 +513,10 @@ https://rtmlive06tv.secureswiftcontent.com/rtmchannel/06-manifest.mpd|https://gi
 #EXTINF:-1 tvg-id="AstroArena" tvg-chno="801" tvg-logo="http://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Neg/801.png" group-title="Sports",Astro Arena
 #http://50.7.161.82:8278/streams/d/arena_pye/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/VvfnNP7v/Unifi-TV-Logo.png" group-title="Sports",Unifi Sports 1
+#EXTINF:-1 tvg-id="701" tvg-logo="https://i.postimg.cc/VvfnNP7v/Unifi-TV-Logo.png" group-title="Sports",Unifi Sports 1
 https://unifi-live05.secureswiftcontent.com/UnifiHD/live11.mpd
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/VvfnNP7v/Unifi-TV-Logo.png" group-title="Sports",Unifi Sports 2
+#EXTINF:-1 tvg-id="702" tvg-logo="https://i.postimg.cc/VvfnNP7v/Unifi-TV-Logo.png" group-title="Sports",Unifi Sports 2
 https://unifi-live05.secureswiftcontent.com/UnifiHD/live12.mpd
 
 #EXTINF:-1 tvg-id="RedBull" tvg-logo="https://img.redbull.com/images/w_220/q_auto,f_auto/redbullcom/2021/3/8/v1viztxjab9e9a6of4by/redbulltv" group-title="Sports",RedBull TV
@@ -537,7 +537,7 @@ http://108.136.37.52/m3u8/plex_Impact_Wrestling.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/90/HK_Logo_Wiki.png" group-title="Sports",Hard Knocks
 http://108.136.37.52/m3u8/plex_Hard_Knocks.m3u8
 
-#EXTINF:-1 tvg-id="803" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/235_144.png", Astro Arena HD 2
+#EXTINF:-1 tvg-id="AstroArena2" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/235_144.png", Astro Arena HD 2
 
 
 #EXTINF:-1 tvg-ID="SPOTV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/df/SPO_TV_logo.png" group-title="Sports", SPOTV 1
