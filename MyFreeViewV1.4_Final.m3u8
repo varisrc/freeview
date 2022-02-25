@@ -531,7 +531,7 @@ http://digicom.hls.iptvdc.com/canalmotor/tracks-v1a1/mono.m3u8|https://yamcode.c
 #EXTINF:-1 tvg-id="canalmotor.tv" tvg-name="Canal Motor" tvg-country="IT" tvg-language="English" tvg-logo="https://i1.wp.com/unifistreamyx.info/wp-content/uploads/2015/07/motorvision-628x353.gif" group-title="Sports",Motorvision TV
 http://108.136.37.52/m3u8/plex_Motorvision_TV.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://image.pngaaa.com/934/4360934-small.png" group-title="Sports",Impact Wrestling
+#EXTINF:-1 tvg-id="...." tvg-logo="https://image.pngaaa.com/934/4360934-small.png" group-title="Sports",Impact Wrestling
 http://108.136.37.52/m3u8/plex_Impact_Wrestling.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/90/HK_Logo_Wiki.png" group-title="Sports",Hard Knocks
