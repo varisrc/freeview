@@ -48,40 +48,41 @@ http://iptv.tvfix.org/hls/jadenhk.m3u8
 #https://cdn.hkdtmb.com/hls/81/index.m3u8
 
 #EXTINF:-1 tvg-ID="AstroAEC" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/80_144.png" group-title="Malaysia",Astro AEC
-#http://50.7.161.82:8278/streams/d/aec_pye/playlist.m3u8|https://yamcode.com/embed/nasi-campur-iptv-200-channels
+http://iptv.tvmalaysia.cc:80/114048/114048/6701|https://yamcode.com/embed/nasi-campur-iptv-200-channels
 
 #EXTINF:-1 tvg-id="iQIYI" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/IQiyi_logo.svg/200px-IQiyi_logo.svg.png" tvg-url="" group-title="Malaysia",iQIYI 爱奇艺
-#http://50.7.161.82:8278/streams/d/iqiyi_pye/playlist.m3u8|https://yamcode.com/embed/nasi-campur-iptv-200-channels
+http://iptv.tvmalaysia.cc:80/114048/114048/6723|https://yamcode.com/embed/nasi-campur-iptv-200-channels
 
 #EXTINF:-1 tvg-id="AstroHuaHeeDai" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/9_144.png" tvg-url="" group-title="Malaysia",Astro 欢喜台 (Hua Hee Dai)
-#http://50.7.161.82:8278/streams/d/Huahee/playlist.m3u8|https://yamcode.com/embed/nasi-campur-iptv-200-channels
+http://iptv.tvmalaysia.cc:80/114048/114048/6722|https://yamcode.com/embed/nasi-campur-iptv-200-channels
 
 #EXTINF:-1 tvg-id="AstroQuanJiaHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f8/Astro_Quan_Jia.png" tvg-url="" group-title="Malaysia",Astro Quan Jia HD
-#http://50.7.161.82:8278/streams/d/Quanjia/playlist.m3u8|https://yamcode.com/embed/nasi-campur-iptv-200-channels
+http://iptv.tvmalaysia.cc:80/114048/114048/6728|https://yamcode.com/embed/nasi-campur-iptv-200-channels
 
 #EXTINF:-1 tvg-id="AstroAODHD" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/c/cb/Astro_AOD.jpeg/200px-Astro_AOD.jpeg" tvg-url="" group-title="Malaysia",Astro AOD 311
 #http://50.7.161.82:8278/streams/d/aod_pye/playlist.m3u8|https://yamcode.com/embed/nasi-campur-iptv-200-channels
 
-#EXTINF:-1 tvg-id="AstroShuangXing" tvg-country="MY" tvg-language="" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/183_144.png" group-title="Malaysia",Astro Shuang Xing (720p) [Not 24/7]
-#http://50.7.161.82:8278/streams/d/Shuangxing/playlist.m3u8|https://github.com/iptv-org
+#EXTINF:-1 tvg-id="AstroShuangXing" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/183_144.png" group-title="Malaysia",Astro Shuang Xing
+http://iptv.tvmalaysia.cc:80/114048/114048/6731|https://github.com/iptv-org
 
-#EXTINF:-1 tvg-id="AstroXiaoTaiYang" tvg-country="MY" tvg-language="" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/387_144.png" group-title="Malaysia",Astro Xiao Tai Yang [Not 24/7]
-#http://50.7.161.82:8278/streams/d/Xiaotaiyang/playlist.m3u8|https://github.com/iptv-org
+#EXTINF:-1 tvg-id="AstroXiaoTaiYang" tvg-country="MY" tvg-language="" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/387_144.png" group-title="Malaysia",Astro Xiao Tai Yang
+http://iptv.tvmalaysia.cc:80/114048/114048/6741|https://github.com/iptv-org
 
 #EXTINF:-1 tvg-ID="AstroCeria" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/55_144.png" group-title="Malaysia",Astro Ceria
-#http://w.nasvpn.xyz:8080/iptvfreenet/iptvfreenet/177|https://github.com/azrinahmademuri
+http://iptv.tvmalaysia.cc:80/114048/114048/67157|https://github.com/azrinahmademuri
 
 #EXTINF:-1 tvg-ID="AstroRia" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/73_144.png" group-title="Malaysia",Astro Ria
-#http://50.7.161.82:8278/streams/d/ria_pye/playlist.m3u8|https://github.com/xhanafix
+http://iptv.tvmalaysia.cc:80/114048/114048/6730|https://github.com/xhanafix
+http://iptv.tvmalaysia.cc:80/114048/114048/9031
 
 #EXTINF:-1 tvg-ID="AstroWarna" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/53_144.png" group-title="Malaysia",Astro Warna
-#http://w.nasvpn.xyz:8080/iptvfreenet/iptvfreenet/10|https://github.com/azrinahmademuri
+http://iptv.tvmalaysia.cc:80/114048/114048/6740|https://github.com/azrinahmademuri
 
 #EXTINF:-1 tvg-id="AstroCitra" tvg-country="MY" tvg-language="" tvg-logo="" group-title="Malaysia",Astro Citra (720p) [Not 24/7]
-#http://50.7.161.82:8278/streams/d/Citra/playlist.m3u8|https://github.com/iptv-org
+http://iptv.tvmalaysia.cc:80/114048/114048/7267|https://github.com/iptv-org
 
 #EXTINF:-1 tvg-id="AstroPrima" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/105_300.png" group-title="Malaysia",Astro Prima HD
-#http://50.7.161.82:8278/streams/d/Prima/playlist.m3u8
+http://iptv.tvmalaysia.cc:80/114048/114048/6727
 
 #EXTINF:-1 tvg-id="AwesomeTV" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/433_144.png" group-title="Malaysia", Awesome TV
 #http://w.nasvpn.xyz:8080/iptvfreenet/iptvfreenet/180|https://github.com/azrinahmademuri
@@ -93,6 +94,7 @@ http://iptv.tvfix.org/hls/jadenhk.m3u8
 https://awanitv.akamaized.net/hls/live/2017836/LiveTV1/index.m3u8
 
 #EXTINF:-1 tvg-id="BernamaTV" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/502_300.png" group-title="Malaysia",Bernama
+https://raw.githubusercontent.com/weareblahs/yttestlabs/main/youtube.m3u
 https://mediahomes.github.io/assets/yt/bnc.m3u8|Referer=https://www.youtube.com
 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/93.0.4577.63 Safari/537.36
@@ -108,19 +110,19 @@ https://rtmlive06tv.secureswiftcontent.com/rtmchannel/06-manifest.mpd|https://gi
 #EXTINF:-1 tvg-ID="CNA" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/515.png" group-title="Malaysia",亚洲新闻台(CNA)
 https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8
 
-#EXTINF:-1 tvg-ID="Channel 5" tvg-logo="https://poster.starhubgo.com/Linear_channels2/102_1920x1080_HTV.png" group-title="Malaysia",Channel 5
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://udrmv3.kaltura.com/cenc/widevine/license?custom_data=eyJjYV9zeXN0ZW0iOiJPVFQiLCJ1c2VyX3Rva2VuIjowLCJhY2NvdW50X2lkIjoiMjA4MjMxMSIsImNvbnRlbnRfaWQiOiJmdGFfY2g1X2Rhc2hfd2ViX2RybSIsImZpbGVzIjoiMTA5MzgxNTAiLCJ1ZGlkIjoiIiwiYWRkaXRpb25hbF9jYXNfc3lzdGVtIjowfQ%3D%3D&signature=XxVtXGzoZGI5pzb1eOacEclqzxQ%3D&
+#EXTINF:-1 tvg-ID="Channel 5" tvg-logo="https://poster.starhubgo.com/Linear_channels2/102_1920x1080_HTV.png" group-title="Malaysia",Channel 5
 https://tglmp02.akamaized.net/out/v1/5081e069e08140c9b95f89a1659cf4dd/manifest.mpd
 
-#EXTINF:-1 tvg-ID="Ch8.SG" tvg-logo="https://poster.starhubgo.com/Linear_channels2/103_1920x1080_HTV.png" group-title="Malaysia",8频道
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://udrmv3.kaltura.com/cenc/widevine/license?custom_data=eyJjYV9zeXN0ZW0iOiJPVFQiLCJ1c2VyX3Rva2VuIjowLCJhY2NvdW50X2lkIjoiMjA4MjMxMSIsImNvbnRlbnRfaWQiOiJmdGFfY2g4X2Rhc2hfd2ViX2RybSIsImZpbGVzIjoiOTgyNjk5MSIsInVkaWQiOiIiLCJhZGRpdGlvbmFsX2Nhc19zeXN0ZW0iOjB9&signature=VmkG%2FnkMNDuNoZKk%2F1cG3xTZG5w%3D&
+#EXTINF:-1 tvg-ID="Ch8.SG" tvg-logo="https://poster.starhubgo.com/Linear_channels2/103_1920x1080_HTV.png" group-title="Malaysia",8频道
 https://tglmp02.akamaized.net/out/v1/4f6561ad194b49ae93f4e1b075afdf41/manifest.mpd
 
-#EXTINF:-1 tvg-ID="U频道" tvg-logo="https://poster.starhubgo.com/Linear_channels2/107_1920x1080_HTV.png" group-title="Malaysia",U频道
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://udrmv3.kaltura.com/cenc/widevine/license?custom_data=eyJjYV9zeXN0ZW0iOiJPVFQiLCJ1c2VyX3Rva2VuIjowLCJhY2NvdW50X2lkIjoiMjA4MjMxMSIsImNvbnRlbnRfaWQiOiJmdGFfY2hVX2Rhc2hfd2ViX2RybSIsImZpbGVzIjoiNTc1NDE1NiIsInVkaWQiOiIiLCJhZGRpdGlvbmFsX2Nhc19zeXN0ZW0iOjB9&signature=GJ%2FUWeTXAOfpju0oZkr0UtvrZ8k%3D&
+#EXTINF:-1 tvg-ID="U频道" tvg-logo="https://poster.starhubgo.com/Linear_channels2/107_1920x1080_HTV.png" group-title="Malaysia",U频道
 https://tglmp03.akamaized.net/out/v1/1057d89ee3d94148b430b5866e3a540a/manifest.mpd
 
 #EXTINF:-1 tvg-id="TRA.ID" tvg-logo="https://lofrev.net/wp-content/photos/2017/05/transtv_logo.png" group-title="Malaysia",Trans TV
@@ -136,17 +138,17 @@ https://fash1043.cloudycdn.services/slive/_definst_/ftv_pg16_adaptive.smil/media
 #EXTVLCOPT:http-referrer=https://ch3plus.com/live
 #EXTINF:-1 tvg-id="ช่อง 3 HD" tvg-logo="https://static.epg.best/th/Channel3.th.png" group-title="Thai",ช่อง 3 HD
 
-
 #EXTINF:-1 ttvg-id="ช่อง 7HD" tvg-logo="https://upload.wikimedia.org/wikipedia/en/f/f3/BBTV_Channel_7.png" group-title="Thai",ช่อง 7HD
-https://bcovlive-a.akamaihd.net/2d37038b355f4ea6a6b0d46993dc285c/ap-southeast-1/5282994675001/profile_0/chunklist.m3u8|https://yamcode.com/embed/nasi-campur-iptv-200-channels
+#|https://yamcode.com/embed/nasi-campur-iptv-200-channels
+
+#EXTINF:-1 tvg-id="Channel5.th" tvg-logo="http://www.tv5.co.th/tv5hd1-web/img/tv5hd1_logo_light.png" group-title="Thai",Channel 5
+https://tc-live1.sanook.com/live/22302_ch5.m3u8
 
 #EXTINF:-1 tvg-ID="Fan TV" tvg-logo="https://cmsimgservices.dmpcdn.com/v1/resize?url=https%3A%2F%2Fcms.dmpcdn.com%2Flivetv%2F2019%2F01%2F19%2Fef0c5b42-e46f-490c-83d5-8e660f66fb07.png&w=320&h=2483d5-240"Thai",Fan TV
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/a/a9/GMM_25_Logo.png/180px-GMM_25_Logo.png" tvg-country="TH" tvg-url="" group-title="Thai",GMM25
 
-
 #EXTINF:-1 tvg-id="ช่อง 8" tvg-logo="https://i.imgur.com/hzdMjA1.jpg" tvg-country="TH" tvg-url="" group-title="Thai",Channel 8 Thailand
-http://usa.login.in.th:1935/ch8/ch8/playlist.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/bYMtfRn.png" tvg-country="TH" tvg-url="" group-title="Thai",MCOT 30 HD
 https://tc-live1.sanook.com/live/22302_ch9.m3u8|https://yamcode.com/embed/nasi-campur-iptv-200-channels
@@ -167,27 +169,24 @@ https://edge2-bkk.3bb.co.th:9443/MONO29_HLS_1080P/mono29hls_1080TH.stream/chunkl
 
 #EXTINF:-1 tvg-id="MONO29" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d5/Mono_29_Logo.png" group-title="电影",MONO29 En
 
-
 #EXTINF:-1 tvg-id="BOO" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/251_144.png" group-title="电影",BOO
 #http://50.7.161.82:8278/streams/d/Boo/playlist.m3u8|Referer=https://github.com/iptv-org
 
-#EXTINF:-1 tvg-id="Fli.IN" tvg-logo="https://static.epg.best/in/AndFlix.in.png" group-title="电影",&FlixHD 4K
-#http://oqab.life:8080/live/858182/858182/116.m3u8
+#EXTINF:-1 tvg-id="Fli.IN" tvg-logo="https://static.epg.best/in/AndFlix.in.png" group-title="电影",&FlixHD
+http://hpull.kktv8.com/livekktv/128600025/playlist.m3u8
 
-#EXTINF:-1 tvg-id="Pri.IN" tvg-logo="https://static.epg.best/in/AndPrive.in.png" group-title="电影",&Prive HD 4K
-#http://oqab.life:8080/live/858182/858182/105.m3u8
+#EXTINF:-1 tvg-id="Pri.IN" tvg-logo="https://static.epg.best/in/AndPrive.in.png" group-title="电影",&Prive HD
 
 #EXTINF:-1 tvg-id="AndPictures.in" tvg-logo="https://static.epg.best/in/AndPictures.in.png" group-title="电影",&Pictures 4K
-#http://oqab.life:8080/live/858182/858182/114.m3u8
 
-#EXTINF:-1 tvg-id="Cinemax" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/337_144.png" group-title="电影",Cinemax Asia 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha 
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
+#EXTINF:-1 tvg-id="Cinemax" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/337_144.png" group-title="电影",Cinemax Asia 
 https://liveanevia.mncnow.id/live/eds/CinemaxHD2/sa_dash_vmx/CinemaxHD2.mpd
 
-#EXTINF:-1 tvg-id="." tvg-logo="https://cinemaworld.asia/wp-content/uploads/2019/08/CMW-Logo_Gold.png" group-title="电影",CinemaWorld
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=YWY0OTBlZjEtODAyNC0zZTA0LWFhYzMtY2ZmMGE4NjVjZjU1
+#EXTINF:-1 tvg-id="." tvg-logo="https://cinemaworld.asia/wp-content/uploads/2019/08/CMW-Logo_Gold.png" group-title="电影",CinemaWorld
 https://liveanevia.mncnow.id/live/eds/CinemaWorld/sa_dash_vmx/CinemaWorld.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha 
@@ -210,38 +209,38 @@ https://liveanevia.mncnow.id/live/eds/HBOHits/sa_dash_vmx/HBOHits.mpd
 #EXTINF:-1 tvg-id="HBOSignature.id" tvg-logo="https://static.epg.best/us/HBOSignature.us.png" group-title="电影",HBO Signature
 https://liveanevia.mncnow.id/live/eds/HBOSignature2/sa_dash_vmx/HBOSignature2.mpd
 
-#EXTINF:-1 tvg-id="HITS" tvg-logo="http://www.rewindnetworks.com/assets/logo_hits.png" group-title="电影",Hits
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=YWY0OTBlZjEtODAyNC0zZTA0LWFhYzMtY2ZmMGE4NjVjZjU1
+#EXTINF:-1 tvg-id="HITS" tvg-logo="http://www.rewindnetworks.com/assets/logo_hits.png" group-title="电影",Hits
 https://liveanevia.mncnow.id/live/eds/HITS/sa_dash_vmx/HITS.mpd
 
-#EXTINF:-1 tvg-id="HITSMovies" tvg-logo="https://movies.hitstv.com/img/hits-movies-logo.png" group-title="电影",Hits Movies
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=YWY0OTBlZjEtODAyNC0zZTA0LWFhYzMtY2ZmMGE4NjVjZjU1
+#EXTINF:-1 tvg-id="HITSMovies" tvg-logo="https://movies.hitstv.com/img/hits-movies-logo.png" group-title="电影",Hits Movies
 https://liveanevia.mncnow.id/live/eds/HitsMovies/sa_dash_vmx/HitsMovies.mpd
 
-#EXTINF:-1 tvg-id="Thrill.id" tvg-logo="http://console.celestialtiger.com/images/upload/1f6e441382a388940977fd9e165178c42fe0c193.png" group-title="电影",Thrill
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
+#EXTINF:-1 tvg-id="Thrill.id" tvg-logo="http://console.celestialtiger.com/images/upload/1f6e441382a388940977fd9e165178c42fe0c193.png" group-title="电影",Thrill
 https://liveanevia.mncnow.id/live/eds/Thrill/sa_dash_vmx/Thrill.mpd
 
-#EXTINF:-1 tvg-id="712" tvg-logo="https://www.mncvision.id/userfiles/image/channel/warner_tv.png" group-title="电影",Warner TV Southeast Asia
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
+#EXTINF:-1 tvg-id="712" tvg-logo="https://www.mncvision.id/userfiles/image/channel/warner_tv.png" group-title="电影",Warner TV Southeast Asia
 https://liveanevia.mncnow.id/live/eds/WarnerTV/sa_dash_vmx/WarnerTV.mpd
 
-#EXTINF:-1 tvg-id="CelestialMovies" tvg-logo="http://console.celestialtiger.com/images/upload/f50f7261d3c260ac6e3a38f85152b3f33833fc52.png" group-title="电影",天映频道
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=YWY0OTBlZjEtODAyNC0zZTA0LWFhYzMtY2ZmMGE4NjVjZjU1
+#EXTINF:-1 tvg-id="CelestialMovies" tvg-logo="http://console.celestialtiger.com/images/upload/f50f7261d3c260ac6e3a38f85152b3f33833fc52.png" group-title="电影",天映频道
 https://liveanevia.mncnow.id/live/eds/CelestialMovie/sa_dash_vmx/CelestialMovie.mpd
 
-#EXTINF:-1 tvg-id="CCM" tvg-logo="http://console.celestialtiger.com/images/upload/ec697ac53e8b3f6607cf7aeaf42a47c2da5a7607.png" group-title="电影",天映经典频
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=YWY0OTBlZjEtODAyNC0zZTA0LWFhYzMtY2ZmMGE4NjVjZjU1
+#EXTINF:-1 tvg-id="CCM" tvg-logo="http://console.celestialtiger.com/images/upload/ec697ac53e8b3f6607cf7aeaf42a47c2da5a7607.png" group-title="电影",天映经典频
 https://liveanevia.mncnow.id/live/eds/CelestialClassic/sa_dash_vmx/CelestialClassic.mpd
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://www.lyngsat.com/logo/tv/cc/chc-action-cn.png" group-title="电影",CHC Action 4K
-#HTTP://59.49.41.44/live.aishang.ctlcdn.com/00000110240324_1/playlist.m3u8?CONTENTID=00000110240324_1
+HTTP://59.49.41.44/live.aishang.ctlcdn.com/00000110240324_1/playlist.m3u8?CONTENTID=00000110240324_1
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_18.jpg" group-title="电影",Star Chinese Movies South East Asia
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -259,19 +258,15 @@ http://hpull.kktv8.com/livekktv/128600025/playlist.m3u8
 #EXTINF:-1 tvg-ID="SBM.AU" tvg-logo="https://d2po7v53a8yrck.cloudfront.net/austatic/media/3374ed8c-8b84-4703-8449-7142e3bd838e.png" group-title="电影",SBS World Movies
 https://sbs-live.akamaized.net/hls/live/2005470/channel5/geo/master_2500K.m3u8|X-Forwarded-For=52.62.247.239
 
-#EXTINF:-1 tvg-ID="tvNMovies" tvg-logo="https://mncvision.id/userfiles/image/channel/channel_109.png" group-title="电影",TVN Movies
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=YWY0OTBlZjEtODAyNC0zZTA0LWFhYzMtY2ZmMGE4NjVjZjU1
+#EXTINF:-1 tvg-ID="tvNMovies" tvg-logo="https://mncvision.id/userfiles/image/channel/channel_109.png" group-title="电影",TVN Movies
 https://liveanevia.mncnow.id/live/eds/tvNMovies/sa_dash_vmx/tvNMovies.mpd
 
-#EXTINF:-1 tvg-id="" tvg-name="BEIN MOVIES Premiere 4K" tvg-logo="http://www.bbb.lol/uploads/tv_image/bein-movies-1-premier.png" group-title="电影",BeIN Movies Premiere 4K
-#http://grets.co21.net:2082/Medelectro_603328/ggO8T18n/77004
-
-#EXTINF:-1 tvg-id="" tvg-name="BEIN MOVIES Action 4K" tvg-logo="https://www.hadarasport.com/wp-content/uploads/2018/05/bein-prem2.gif" group-title="电影",BeIN Movies Action 4K
-#http://grets.co21.net:2082/Medelectro_603328/ggO8T18n/77005
-
-#EXTINF:-1 tvg-id="407" tvg-name="Pluto TV 007" tvg-logo="https://camo.githubusercontent.com/74c23afe7e0125a101c1bf128ed18a46d3374821964666df666e7a6758b6a338/68747470733a2f2f692e696d6775722e636f6d2f714b71457155432e706e67" group-title="电影",Pluto TV 007
-#http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5d4db961034718b2f52f9e52/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=50&deviceId=5d4db961034718b2f52f9e52&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=&deviceLon=&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false|https://github.com/Free-TV/IPTV/blob/master/zz_movies.md
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
+#EXTINF:-1g-id="Galaxy.id"g-logo="https://subsystem.indihome.co.id/cms-ih/assets/uploads/channel_list/UPLOAD-1635233977-.png" group-title="电影",GALAXY
+https://liveanevia.mncnow.id/live/eds/Galaxy-HD/sa_dash_vmx/Galaxy-HD.mpd
 
 #EXTINF:-1 tvg-name="Pluto TV Action" tvg-logo="https://i.imgur.com/g8PCdh6.png" group-title="电影",Pluto TV Action
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/561d7d484dc7c8770484914a/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=54&deviceId=561d7d484dc7c8770484914a&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=&deviceLon=&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false|https://github.com/Free-TV/IPTV/blob/master/zz_movies.md
@@ -301,28 +296,22 @@ http://dai2.xumo.com/xumocdn/p=roku/amagi_hls_data_xumo1212A-filmrisefreemovies/
 http://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5cb0cae7a461406ffe3f5213/master.m3u8?advertisingId=91a6ae51-6f9d-4fbb-adb0-bdfffa44693e&appVersion=unknown&deviceDNT=0&deviceId=91a6ae51-6f9d-4fbb-adb0-bdfffa44693e&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceUA=samsung/SM-T720/10&deviceVersion=unknown&embedPartner=samsung-tvplus&profileFloor=&profileLimit=&samsung_app_domain=https://play.google.com/store/apps/details?id=com.samsung.android.tvplus&samsung_app_name=Mobile+TV+Plus&us_privacy=1YNY
 
 #EXTINF:-1 tvg-id="SONYPix" tvg-logo="https://iconape.com/wp-content/png_logo_vector/sony-pix-logo.png" group-title="电影",SONY Pix 4K
-#http://oqab.life:8080/live/858182/858182/87.m3u8|http://oqab.life:8080/get.php?username=858182&password=858182&type=m3u&output=m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/STAR_Movies_logo.svg/1200px-STAR_Movies_logo.svg.png" group-title="电影",Star Movies (FHD) 4K
-#http://oqab.life:8080/live/858182/858182/119.m3u8|http://oqab.life:8080/get.php?username=858182&password=858182&type=m3u&output=m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/c/c5/SMSHD.png/revision/latest?cb=20190810162735" group-title="电影",Star Movie Select 4K
 
-
-#EXTINF:-1 tvg-id="RON.ID" tvg-logo="http://static.epg.best/in/RomedyNow.in.png" group-title="电影",Romedy Now
-
-
-#EXTINF:-1 tvg-id="HGTV" tvg-logo="https://static.epg.best/us/HGTV.us.png" group-title="家庭娱乐",HGTV
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=YWY0OTBlZjEtODAyNC0zZTA0LWFhYzMtY2ZmMGE4NjVjZjU1
+#EXTINF:-1 tvg-id="HGTV" tvg-logo="https://static.epg.best/us/HGTV.us.png" group-title="家庭娱乐",HGTV
 https://liveanevia.mncnow.id/live/eds/HGTV/sa_dash_vmx/HGTV.mpd
 
 #EXTINF:-1 tvg-id="" tvg-name="Design Network" tvg-logo="https://vhx.imgix.net/thedesignnetwork1/assets/c5634f70-4821-4f4f-9a16-fab3baf707eb.png" group-title="家庭娱乐", Design Network
 https://thedesignnetwork-tdn-1.samsung.wurl.com/manifest/playlist.m3u8
 
-#EXTINF:-1 tvg-id="History" tvg-logo="https://static.epg.best/mx/HistoryChannel.mx.png" group-title="家庭娱乐",History
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=YWY0OTBlZjEtODAyNC0zZTA0LWFhYzMtY2ZmMGE4NjVjZjU1
+#EXTINF:-1 tvg-id="History" tvg-logo="https://static.epg.best/mx/HistoryChannel.mx.png" group-title="家庭娱乐",History
 https://liveanevia.mncnow.id/live/eds/History/sa_dash_vmx/History.mpd
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/144_144.png" group-title="家庭娱乐",History HD 4K
@@ -330,9 +319,6 @@ https://liveanevia.mncnow.id/live/eds/History/sa_dash_vmx/History.mpd
 
 #EXTINF:-1 tvg-id="DMAX" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a3/Dmax.png" group-title="家庭娱乐",DMAX HD 4K
 #http://forevertv.me:8080/Iptvtree/b957c2YMj6/14018?checkedby:iptvcat.com
-
-#EXTINF:-1 tvg-id="DMAX" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a3/Dmax.png" group-title="家庭娱乐",DMAX
-#http://live.iptvtotaal.com:8000/6234122498/8329556324/36150?checkedby:iptvcat.com
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha 
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=YWY0OTBlZjEtODAyNC0zZTA0LWFhYzMtY2ZmMGE4NjVjZjU1
@@ -343,29 +329,33 @@ https://liveanevia.mncnow.id/live/eds/KIX/sa_dash_vmx/KIX.mpd
 https://primetv-prod.akamaized.net/v1/prime-freeview-aes128.m3u8|X-Forwarded-For=202.89.4.222
 
 #EXTINF:-1 tvg-id="552" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/376_144.png" group-title="家庭娱乐",Discovery Channel
-#http://z.sralm87.com:2082/azizi_320680/ghW1CE0B/62668?checkedby:iptvcat.com
-#http://z.sralm87.com:2082/azizi_320680/ghW1CE0B/62667?checkedby:iptvcat.com
+http://xcui.vitvabc.xyz:8880/287994016390/287994016390/16705
 
-#EXTINF:-1 tvg-id="NatGeoWild" tvg-logo="https://static.epg.best/id/NatGeoWild.id.png" group-title="家庭娱乐",Nat Geo Wild
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=YWY0OTBlZjEtODAyNC0zZTA0LWFhYzMtY2ZmMGE4NjVjZjU1
+#EXTINF:-1 tvg-id="NatGeoWild" tvg-logo="https://static.epg.best/id/NatGeoWild.id.png" group-title="家庭娱乐",Nat Geo Wild
 https://liveanevia.mncnow.id/live/eds/NatGeoWild/sa_dash_vmx/NatGeoWild.mpd
 
 #EXTINF:-1 tvg-id="AnimalPlanet" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/377_144.png" group-title="家庭娱乐",ANIMAL PLANET
-#http://89.216.39.29:8001/|https://yamcode.com/embed/nasi-campur-iptv-200-channels
+http://xcui.vitvabc.xyz:8880/287994016390/287994016390/16693|https://yamcode.com/embed/nasi-campur-iptv-200-channels
 
-#EXTINF:-1 tvg-ID="TLC" tvg-logo="http://static.epg.best/de/TLC.de.png" group-title="家庭娱乐",TLC
+#EXTINF:-1 tvg-id="" group-title="Knowledge" tvg-name="Discovery Turbo HD+" tvg-logo="https://www.tvmagazine.com.br/imagens/icones/150/discoveryturbob.png",Discovery Turbo HD+
+http://xcui.vitvabc.xyz:8880/287994016390/287994016390/16711
+
+#EXTINF:-1 tvg-id="" group-title="Knowledge" tvg-name="Discovery World HD+" tvg-logo="http://xcui.vitvabc.xyz:8880/images/87a2b2aaf8ce3c9196ccddfaa99356bc.png",Discovery World HD+
+http://xcui.vitvabc.xyz:8880/287994016390/287994016390/16712
+
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=YWY0OTBlZjEtODAyNC0zZTA0LWFhYzMtY2ZmMGE4NjVjZjU1
+#EXTINF:-1 tvg-ID="TLC" tvg-logo="http://static.epg.best/de/TLC.de.png" group-title="家庭娱乐",TLC
 https://liveanevia.mncnow.id/live/eds/TLC/sa_dash_vmx/TLC.mpd
 
-#EXTINF:-1 tvg-ID="AXN" tvg-logo="http://static.epg.best/id/AXN.id.png" group-title="家庭娱乐",AXN
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=YWY0OTBlZjEtODAyNC0zZTA0LWFhYzMtY2ZmMGE4NjVjZjU1
+#EXTINF:-1 tvg-ID="AXN" tvg-logo="http://static.epg.best/id/AXN.id.png" group-title="家庭娱乐",AXN
 https://liveanevia.mncnow.id/live/eds/AXN/sa_dash_vmx/AXN.mpd
 
 #EXTINF:-1 tvg-id="SGEM.id" tvg-logo="https://www.gemtvasia.com/sites/gemtvasia.com/files/logos/logo-small.png" group-title="家庭娱乐",GEM TV
-
 
 #EXTINF:-1 tvg-ID="POP.US" tvg-logo="https://static.epg.best/us/PopTV.us.png" group-title="家庭娱乐",Pop
 #https://live-poptv-fastly-prod.global.ssl.fastly.net/pop/master.m3u8
@@ -484,6 +474,7 @@ http://117.169.120.140:8080/live/cctv-6/.m3u8
 https://liveanevia.mncnow.id/live/eds/Animax/sa_dash_vmx/Animax.mpd
 
 #EXTINF:-1 tvg-id="Aniplus" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/b8/Aniplus_Asia_Logo.png" group-title="少儿",Aniplus
+http://iptv.tvmalaysia.cc:80/114048/114048/6697
 
 #EXTINF:-1 tvg-id="CartoonNetwork" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/371_144.png" group-title="少儿",Cartoon Network
 #http://nasaip.com:8080/mkherbanex1/3984572397/69406?checkedby:iptvcat.com
@@ -859,111 +850,11 @@ https://mediaprima.rastream.com/mediaprima-flyfm
 #EXTINF:-1 group-title="MYTV Broadcasting: Radio" ch-number="724" tvg-chno="724" tvg-logo="https://i.ibb.co/z6nG2s0/image.png",One FM
 https://mediaprima.rastream.com/mediaprima-onefm
 
-#EXTINF:-1 tvg-id="" group-title="Koleksi P.Ramlee" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/2/2a/Nujum_Pak_Belalang.jpg/220px-Nujum_Pak_Belalang.jpg",Nujum pak belalang
-https://rr1---sn-tuajvhhn-30as.googlevideo.com/videoplayback?expire=1645818249&ei=Kd0YYvLHGZjYhwa_kLeIAw&ip=34.201.25.90&id=o-AMYBQdGvCTag7ABTmxLLDkVzDz-Pnw2eNh3v7-h383Je&itag=22&source=youtube&requiressl=yes&vprv=1&mime=video%2Fmp4&cnr=14&ratebypass=yes&dur=5733.378&lmt=1612624669870232&fexp=24001373,24007246&c=ANDROID&txp=5416222&sparams=expire%2Cei%2Cip%2Cid%2Citag%2Csource%2Crequiressl%2Cvprv%2Cmime%2Ccnr%2Cratebypass%2Cdur%2Clmt&sig=AOq0QJ8wRAIgBwcv_jKhrw2FSkbW3ByCixOAp5SXRTHeWdsKIs1a1CMCIAk19Srw4C1D4Lqs2n42J2b2CGvegTdiLTZbqdunXhOE&title=Nujum+Pak+Belalang+-+Pramlee+%28versi+warna%29&redirect_counter=1&rm=sn-p5qyl7z&req_id=f5d409ce3536a3ee&cms_redirect=yes&ipbypass=yes&mh=fA&mip=14.1.252.22&mm=31&mn=sn-tuajvhhn-30as&ms=au&mt=1645796211&mv=m&mvi=1&pl=24&lsparams=ipbypass,mh,mip,mm,mn,ms,mv,mvi,pl&lsig=AG3C_xAwRQIhAK32jFf4RVm_Nz7NgPztXasJVRHWIp9pvRbrmDxVfHf6AiAthawJGETOuH4urPJF_-HZ8uewvGdDas_9zhAETB0LcQ%3D%3D
-#https://youtu.be/A3BrJL_RVzg
+#EXTINF:-1 tvg-id="" group-title="Knowledge" tvg-name="Discovery Turbo HD+" tvg-logo="https://www.tvmagazine.com.br/imagens/icones/150/discoveryturbob.png",Discovery Turbo HD+
+http://xcui.vitvabc.xyz:8880/287994016390/287994016390/16711
 
-#EXTINF:-1 tvg-id="" group-title="Koleksi P.Ramlee" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/2/2e/AhmadAlbab.jpg/220px-AhmadAlbab.jpg",Ahmad Albab
-https://rr1---sn-30a7yn7d.googlevideo.com/videoplayback?expire=1645818396&ei=vN0YYvqDN4H18gSZw6eIBw&ip=44.202.203.10&id=o-ABPw_P45Es5ALhbQ0aHNAY8AVcuLEzwGCazYX0If8W5g&itag=22&source=youtube&requiressl=yes&vprv=1&mime=video%2Fmp4&ratebypass=yes&dur=5160.425&lmt=1628387640475089&fexp=24001373,24007246&c=ANDROID&txp=5432434&sparams=expire%2Cei%2Cip%2Cid%2Citag%2Csource%2Crequiressl%2Cvprv%2Cmime%2Cratebypass%2Cdur%2Clmt&sig=AOq0QJ8wRAIgUHuOEMqxm3cOG42MhwCBMKMULiH6Td9XYGMbxf0o9IMCIBdRi31eldk2hYgFgxux4vh9405hTq_LwTT2r7Tn3KNU&title=Ahmad+Albab+-+Pramlee+%28versi+warna%29&rm=sn-p5qees7l&req_id=e6539ade2140a3ee&ipbypass=yes&redirect_counter=2&cm2rm=sn-tuajvhhn-30ae7z&cms_redirect=yes&cmsv=e&mh=ZL&mip=14.1.252.22&mm=29&mn=sn-30a7yn7d&ms=rdu&mt=1645796692&mv=m&mvi=1&pl=24&lsparams=ipbypass,mh,mip,mm,mn,ms,mv,mvi,pl&lsig=AG3C_xAwRAIgGf1qE4SV7TSYt2IJPKf4s301q2Yiv0HWRUqOcJI2srACIGicbRcyq3odIjrYyPPiKHErEux6IbLXDUqq4gfRZSKM
-#https://youtu.be/nTNOx5Fc54Y
-
-#EXTINF:-1 tvg-id="" group-title="Koleksi P.Ramlee" tvg-logo="https://upload.wikimedia.org/wikipedia/ms/thumb/3/30/Anak_Bapak.jpg/220px-Anak_Bapak.jpg",Anak bapak
-https://rr1---sn-30a7yne7.googlevideo.com/videoplayback?expire=1645818442&ei=6t0YYtuhOZSH_9EPnum2qAw&ip=54.80.58.49&id=o-ACFUE1wVzn6R_DhFKHrZayhjtQsOModASQa970Ur-KDR&itag=22&source=youtube&requiressl=yes&vprv=1&mime=video%2Fmp4&cnr=14&ratebypass=yes&dur=5353.592&lmt=1608998865894364&fexp=24001373,24007246&c=ANDROID&txp=5432432&sparams=expire%2Cei%2Cip%2Cid%2Citag%2Csource%2Crequiressl%2Cvprv%2Cmime%2Ccnr%2Cratebypass%2Cdur%2Clmt&sig=AOq0QJ8wRQIhAMMjarUInSpv48IbqbSY8X1dGoV3zOrG4i-lRQKcaHg2AiBSWrOjdrq3Fwrf-ZYCHuPjyaQM-V749d0M1OWNhl6ozw%3D%3D&title=Anak+Bapak+-+Pramlee+%28versi+warna%29&rm=sn-p5qe7e7z&req_id=d43cd4ee5be8a3ee&ipbypass=yes&redirect_counter=2&cm2rm=sn-tuajvhhn-30as7l&cms_redirect=yes&cmsv=e&mh=5b&mip=14.1.252.22&mm=29&mn=sn-30a7yne7&ms=rdu&mt=1645796692&mv=m&mvi=1&pl=24&lsparams=ipbypass,mh,mip,mm,mn,ms,mv,mvi,pl&lsig=AG3C_xAwRQIhALjd7-1gAZ1_IR6TTNK2duVs6oib7RpCfMSrmisuH8p7AiBkUjIkNndKsYXgX0RyVuyV_yAudbkdfDCb6_jiUrnSdg%3D%3D
-#https://youtu.be/5QNyAv_7LuQ
-
-#EXTINF:-1 tvg-id="" group-title="Koleksi P.Ramlee" tvg-logo="https://upload.wikimedia.org/wikipedia/ms/thumb/9/9c/Antara_Dua_Darjat.jpg/434px-Antara_Dua_Darjat.jpg?20080601111431",Antar dua darjat
-https://rr3---sn-npoldn7l.googlevideo.com/videoplayback?expire=1645818485&ei=Fd4YYurwCcyE8wScxYTYBA&ip=107.20.3.236&id=o-AA0NRUE8hSxRjj5FwnYXZL4boL-2KraMPSJsFLOgfILy&itag=22&source=youtube&requiressl=yes&pcm2=yes&vprv=1&mime=video%2Fmp4&cnr=14&ratebypass=yes&dur=5587.974&lmt=1609110066167131&fexp=24001373,24007246,24162928&c=ANDROID&txp=5432432&sparams=expire%2Cei%2Cip%2Cid%2Citag%2Csource%2Crequiressl%2Cpcm2%2Cvprv%2Cmime%2Ccnr%2Cratebypass%2Cdur%2Clmt&sig=AOq0QJ8wRQIhAPO59gVPtbCl2I3t3RiQvgMJN_XIYcVDXlXWiWXTDkJ7AiAwqKp5ssN_foAT_CDmyHQH_nCKBH6Ypsk4MSYR2XfoDA%3D%3D&title=Antara+Dua+Darjat+-+Pramlee+%28versi+warna%29&rm=sn-p5qe767l&req_id=1e74165759dda3ee&ipbypass=yes&cm2rm=sn-tuajvhhn-30ae7s,sn-30all76&redirect_counter=3&cms_redirect=yes&cmsv=e&mh=ut&mip=14.1.252.22&mm=34&mn=sn-npoldn7l&ms=ltu&mt=1645796676&mv=m&mvi=3&pl=24&lsparams=ipbypass,mh,mip,mm,mn,ms,mv,mvi,pl&lsig=AG3C_xAwRgIhALYcQ-_2GwOsB-pP2TGmgI9mqpddB8gDacPZfxXFMeAUAiEAj09TnZJDtTaVpzp9bHSUWTMRKCMmVYEjNDzZsUFcP-A%3D
-#https://youtu.be/cMAQ7h6GroA
-
-#EXTINF:-1 tvg-id="" group-title="Koleksi P.Ramlee" tvg-logo="https://pramleeblog.files.wordpress.com/2016/03/laksamana-do-re-mi-1972.gif",Laksamana do re mi
-https://rr2---sn-30a7yn76.googlevideo.com/videoplayback?expire=1645818524&ei=PN4YYsjEBpmVhgajs6DwBg&ip=44.199.191.169&id=o-ACHNUFKYaBZio9wB9w64c0jDp7f1z7AiCddES96IokKC&itag=22&source=youtube&requiressl=yes&vprv=1&mime=video%2Fmp4&ratebypass=yes&dur=5497.579&lmt=1607856967681809&fexp=24001373,24007246&c=ANDROID&txp=5432434&sparams=expire%2Cei%2Cip%2Cid%2Citag%2Csource%2Crequiressl%2Cvprv%2Cmime%2Cratebypass%2Cdur%2Clmt&sig=AOq0QJ8wRQIgTyUEH4ItI7ltLMxRWi9F6rNDDtJTNeWT2rq0r5ArtSICIQDgn0WFE8_ogesbCRJAIdG0LmYnDGA1YZpiu5OyAQyPpQ%3D%3D&title=Laksamana+Do+Re+Mi+-+Pramlee+%28versi+warna%29&rm=sn-p5qe7z7e&req_id=2f0126c8a483a3ee&ipbypass=yes&redirect_counter=2&cm2rm=sn-tuajvhhn-30as7e&cms_redirect=yes&cmsv=e&mh=_p&mip=14.1.252.22&mm=29&mn=sn-30a7yn76&ms=rdu&mt=1645796692&mv=m&mvi=2&pl=24&lsparams=ipbypass,mh,mip,mm,mn,ms,mv,mvi,pl&lsig=AG3C_xAwRQIgKLmfKx-1O9otlRqf7kRUeEJXPAkcsK70LGkpi5Tp2QsCIQCvPHSZj6QVWMM-2UoZa8JZQYQNRIyDu6ocqB3lv6htng%3D%3D
-#https://youtu.be/NnVoVq36EAY
-
-#EXTINF:-1 tvg-id="" group-title="Koleksi P.Ramlee" tvg-logo="http://www.p-ramlee.com/p-ramlee/images8/p-merana.jpg",Merana
-https://rr6---sn-30a7ynee.googlevideo.com/videoplayback?expire=1645818564&ei=ZN4YYv-NNoOG8wT8q6CIBA&ip=3.227.249.100&id=o-AKucbFBcAv1eSDIteEBxUdApLAtbepLksmENm1o3iAUq&itag=22&source=youtube&requiressl=yes&vprv=1&mime=video%2Fmp4&cnr=14&ratebypass=yes&dur=5571.186&lmt=1606491447602441&fexp=24001373,24007246&c=ANDROID&txp=6316222&sparams=expire%2Cei%2Cip%2Cid%2Citag%2Csource%2Crequiressl%2Cvprv%2Cmime%2Ccnr%2Cratebypass%2Cdur%2Clmt&sig=AOq0QJ8wRgIhALLjaYn-Sx6IxIgOjabSeecGTh7ULD12a5qdm2dizDWOAiEAsamLTOuOTiik5OEWgLAQLlhEkuACJwApHCM5oW1KB7Q%3D&title=Merana+-+Pramlee+%28versi+warna%29&rm=sn-p5qee77s&req_id=21d279bcae94a3ee&ipbypass=yes&redirect_counter=2&cm2rm=sn-tuajvhhn-30ae7s&cms_redirect=yes&cmsv=e&mh=zo&mip=14.1.252.22&mm=29&mn=sn-30a7ynee&ms=rdu&mt=1645796692&mv=m&mvi=6&pl=24&lsparams=ipbypass,mh,mip,mm,mn,ms,mv,mvi,pl&lsig=AG3C_xAwRQIgOUVyTPHB1bBvsTQb6BvQv5owS_twgruGXRZMhy4N9EQCIQD3USFYDp2Ai2AWsBxlzTQb6SYXrype8-DNlJErrW7lDA%3D%3D
-#https://youtu.be/ltBfU-hFVPQ
-
-#EXTINF:-1 tvg-id="" group-title="Koleksi P.Ramlee" tvg-logo="https://upload.wikimedia.org/wikipedia/en/b/bf/LabuLabi.jpg",Labu labi
-https://rr1---sn-tuajvhhn-30ae.googlevideo.com/videoplayback?expire=1645818601&ei=id4YYsyCMoX78wSHiKmgBg&ip=44.202.223.217&id=o-AMXdQAy7E7Wl9aSONkl5bpSzi3O268KjsrweBpbJi89g&itag=22&source=youtube&requiressl=yes&vprv=1&mime=video%2Fmp4&cnr=14&ratebypass=yes&dur=5002.019&lmt=1630587615920815&fexp=24001373,24007246&c=ANDROID&txp=5432434&sparams=expire%2Cei%2Cip%2Cid%2Citag%2Csource%2Crequiressl%2Cvprv%2Cmime%2Ccnr%2Cratebypass%2Cdur%2Clmt&sig=AOq0QJ8wRQIgCefvzwQWGmJXHqFLQiLXx7bwikgOjfsXslcYbQoiodYCIQD7ZV0asSEVeTgVuCRZ4g3V-ZEQApMaqK5-uxx3KrSg4g%3D%3D&title=Labu+Labi+-+Pramlee+%28versi+warna%29&redirect_counter=1&rm=sn-p5qe7r7e&req_id=892a23a75875a3ee&cms_redirect=yes&ipbypass=yes&mh=WG&mip=14.1.252.22&mm=31&mn=sn-tuajvhhn-30ae&ms=au&mt=1645796691&mv=m&mvi=1&pcm2cms=yes&pl=24&lsparams=ipbypass,mh,mip,mm,mn,ms,mv,mvi,pcm2cms,pl&lsig=AG3C_xAwRQIhAMOgqt5W4fo37ZEIaKStzAP3IfZ7Kaf93PO3thCdSvWfAiBBk1r1BatLeAre_N6NAMqKjH-3fahBb8q2q4j1hvOH6Q%3D%3D
-#https://youtu.be/-hfVoARHZfU
-
-#EXTINF:-1 tvg-id="" group-title="Koleksi P.Ramlee" tvg-logo="http://www.p-ramlee.com/p-ramlee/images9/v-nasibsll.gif",Nasib labu labi
-https://rr4---sn-30a7yn76.googlevideo.com/videoplayback?expire=1645818635&ei=q94YYsG5LIP08gTFuaLABA&ip=54.209.69.140&id=o-ALc2lxxop6Ur9IT2lzGwIs1dQUSsvUipnwcjGik9GJzd&itag=22&source=youtube&requiressl=yes&vprv=1&mime=video%2Fmp4&cnr=14&ratebypass=yes&dur=5736.536&lmt=1607700099549358&fexp=24001373,24007246&c=ANDROID&txp=5535432&sparams=expire%2Cei%2Cip%2Cid%2Citag%2Csource%2Crequiressl%2Cvprv%2Cmime%2Ccnr%2Cratebypass%2Cdur%2Clmt&sig=AOq0QJ8wRQIhAJnRiCaOhgiBtgZZvwaTegSj53QPWkcIGDyMfiy8-ViEAiAM-i62FT-yDbqBAkVY_ouoXVWuIzZokW3Fdn6dxLR0eQ%3D%3D&title=Nasib+Labu+Labi+-+Pramlee+%28versi+warna%29&rm=sn-p5qeel7e&req_id=5ceacdd4d200a3ee&ipbypass=yes&redirect_counter=2&cm2rm=sn-tuajvhhn-30ae7e&cms_redirect=yes&cmsv=e&mh=XX&mip=14.1.252.22&mm=29&mn=sn-30a7yn76&ms=rdu&mt=1645796931&mv=m&mvi=4&pl=24&lsparams=ipbypass,mh,mip,mm,mn,ms,mv,mvi,pl&lsig=AG3C_xAwRgIhAI3g-2y_NOA0c8DTvI1WUSwbn6kTAYfGhDpoWic-G5uNAiEAk42XXVuvsMau9Dn8ZJcxRgf-fcgLsEI3pWpW5IJ9V9Q%3D
-#https://youtu.be/JHZFacq72NM
-
-#EXTINF:-1 tvg-id="" group-title="Koleksi P.Ramlee" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/0/0e/TigaAbdul.jpg/220px-TigaAbdul.jpg",Tiga abdul
-https://rr1---sn-tuajvhhn-30as.googlevideo.com/videoplayback?expire=1645818673&ei=0d4YYuSNIcGb8wS2vawo&ip=54.196.207.147&id=o-AMpf2MOEllZfcOCOXqsd5mxSSQ8myPHI6achvawcXJsW&itag=22&source=youtube&requiressl=yes&vprv=1&mime=video%2Fmp4&cnr=14&ratebypass=yes&dur=5829.230&lmt=1605368762016677&fexp=24001373,24007246&c=ANDROID&txp=5432432&sparams=expire%2Cei%2Cip%2Cid%2Citag%2Csource%2Crequiressl%2Cvprv%2Cmime%2Ccnr%2Cratebypass%2Cdur%2Clmt&sig=AOq0QJ8wRQIgZ69Hav-lrC8CIoZlb2a1dbM3vgjuuNO25TpSb3inXpQCIQCHbRrSUVd9FCchiFTaYp7lRVpShegxoPOOBSi36GlV6Q%3D%3D&title=Tiga+Abdul+-+Pramlee+%28versi+warna%29&redirect_counter=1&rm=sn-p5qeed7e&req_id=f03cfaa3fdeea3ee&cms_redirect=yes&ipbypass=yes&mh=N_&mip=14.1.252.22&mm=31&mn=sn-tuajvhhn-30as&ms=au&mt=1645796691&mv=m&mvi=1&pl=24&lsparams=ipbypass,mh,mip,mm,mn,ms,mv,mvi,pl&lsig=AG3C_xAwRQIhAJITIviagEHVUe4cRKnIoEEL-T75uIGvZvMxg_ZG0EMWAiA--uVZnfAVHymYe9O2MvewbNMoLTSVBio2SoXAqWzwOw%3D%3D
-#https://youtu.be/FoQzX3v2euY
-
-#EXTINF:-1 tvg-id="" group-title="Koleksi P.Ramlee" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/c/c5/IbuMertuaku.jpg/220px-IbuMertuaku.jpg",Ibu mertuaku
-https://rr3---sn-30a7yn7k.googlevideo.com/videoplayback?expire=1645818709&ei=9d4YYuzVN4L48gTUhY-oBA&ip=3.236.140.78&id=o-AFUKNh4E3GQs_w0J1xBNeVyNoyK5S55DOqf4QHGsKghL&itag=22&source=youtube&requiressl=yes&vprv=1&mime=video%2Fmp4&cnr=14&ratebypass=yes&dur=5859.416&lmt=1608412074020511&fexp=24001373,24007246&c=ANDROID&txp=5432432&sparams=expire%2Cei%2Cip%2Cid%2Citag%2Csource%2Crequiressl%2Cvprv%2Cmime%2Ccnr%2Cratebypass%2Cdur%2Clmt&sig=AOq0QJ8wRQIhALk3kny9Rr3uxocJUrqxIHpjFIxzXGtZJbQnp_hB6sKsAiAifkWqGTHbF1VPspKnjC-HND6LRKKp3oSDRx8lyvjigA%3D%3D&title=Ibu+Mertuaku+-+Pramlee+%28versi+warna%29&rm=sn-p5qeey7s&req_id=9bef80061537a3ee&ipbypass=yes&redirect_counter=2&cm2rm=sn-tuajvhhn-30as7e&cms_redirect=yes&cmsv=e&mh=xw&mip=14.1.252.22&mm=29&mn=sn-30a7yn7k&ms=rdu&mt=1645796931&mv=m&mvi=3&pl=24&lsparams=ipbypass,mh,mip,mm,mn,ms,mv,mvi,pl&lsig=AG3C_xAwRQIhAL5uQf-3KXG_AVkrmx2cuTw1NR4my2CtuPFsK2rEG2TnAiA36D-pAWxtUzx9-H6F825SodCjGdEEZ1sTsjXJVr1MMQ%3D%3D
-#https://youtu.be/t6op5osHGfs
-
-#EXTINF:-1 tvg-id="" group-title="Koleksi P.Ramlee" tvg-logo="https://m.media-amazon.com/images/M/MV5BZjY2NmQyNTItNDVmNi00MmI3LTgxOWYtNzBhYWQyOWY2N2I0XkEyXkFqcGdeQXVyMTA3NTk1MQ@@._V1_.jpg",Nasib do re mi
-https://rr4---sn-30a7yne7.googlevideo.com/videoplayback?expire=1645818865&ei=kd8YYpLfGo-A_9EPwrO-sA0&ip=34.238.28.114&id=o-AOZmNi9AaH5yulNGGJt_BS6cjbXhn81wTxqWt0zrOilu&itag=22&source=youtube&requiressl=yes&vprv=1&mime=video%2Fmp4&cnr=14&ratebypass=yes&dur=5953.782&lmt=1606772662997835&fexp=24001373,24007246&c=ANDROID&txp=5432432&sparams=expire%2Cei%2Cip%2Cid%2Citag%2Csource%2Crequiressl%2Cvprv%2Cmime%2Ccnr%2Cratebypass%2Cdur%2Clmt&sig=AOq0QJ8wRQIhALRUynj_hVOy2vW4QxuoSs0VFw2vGZ6rM795kGuvOAA0AiAkYGyUgY4cwNWFz27WIUtu8sTBvjNBAqzZ3dsEU1hqcg%3D%3D&title=Nasib+Do+Re+Mi+-+Pramlee+%28versi+warna%29&rm=sn-p5qy77z&req_id=7cd4410e4a30a3ee&ipbypass=yes&redirect_counter=2&cm2rm=sn-tuajvhhn-30ae7z&cms_redirect=yes&cmsv=e&mh=2A&mip=14.1.252.22&mm=29&mn=sn-30a7yne7&ms=rdu&mt=1645797173&mv=m&mvi=4&pl=24&lsparams=ipbypass,mh,mip,mm,mn,ms,mv,mvi,pl&lsig=AG3C_xAwRgIhAO94ZYTLUEBYHWiCnNl__uy5AFMR1yi8hGfLHVl5SghUAiEAiSzuEUZdSELC7AR7UO7AHW1Xi_Bg_OB3IQiHHI_FuZg%3D
-#https://youtu.be/-FysxSL6T6k
-
-#EXTINF:-1 tvg-id="" group-title="Koleksi P.Ramlee" tvg-logo="https://upload.wikimedia.org/wikipedia/ms/5/5c/Anakku_sazali_01.jpg",Anakku Sazali
-http://4rr0w.my.id/ysb.mp4?url=https://youtu.be/9mn_mSlB4zY
-
-#EXTINF:-1 tvg-id="" group-title="Koleksi P.Ramlee" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/0/0d/MaduTiga.jpg/220px-MaduTiga.jpg",Madu tiga
-http://4rr0w.my.id/ysb.mp4?url=https://youtu.be/xH3yNlplqZY
-
-#EXTINF:-1 tvg-id="" group-title="Koleksi P.Ramlee" tvg-logo="https://m.media-amazon.com/images/M/MV5BZDgxNGYzM2EtMzk3Mi00MGVkLTkxMTctMjQwYWFmMGM2YThhXkEyXkFqcGdeQXVyNzQwOTU0NTk@._V1_FMjpg_UX1000_.jpg",Bawang puteh bawang merah
-http://4rr0w.my.id/ysb.mp4?url=https://youtu.be/AzBpaQttCdE
-
-#EXTINF:-1 tvg-id="" group-title="Koleksi P.Ramlee" tvg-logo="https://pbs.twimg.com/media/DTwMgN1VMAYd7du.jpg",Badang - wahid satay
-http://4rr0w.my.id/ysb.mp4?url=https://youtu.be/-7nZ1QAyQw4
-
-#EXTINF:-1 tvg-id="" group-title="Koleksi P.Ramlee" tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/11/AliBabaBujangLapok.jpg",Ali baba bujang lapok
-http://4rr0w.my.id/ysb.mp4?url=https://youtu.be/5Jldr0xULg8
-
-#EXTINF:-1 tvg-id="" group-title="Koleksi P.Ramlee" tvg-logo="https://upload.wikimedia.org/wikipedia/ms/8/87/Abu_Hassan_Pencuri.jpg",Abu hassan pencuri
-http://4rr0w.my.id/ysb.mp4?url=https://youtu.be/a_4JGAdEg5c
-
-#EXTINF:-1 tvg-id="" group-title="Koleksi P.Ramlee" tvg-logo="https://m.media-amazon.com/images/M/MV5BMTUxZDdmNGMtYWQyOC00MjNmLTkxOWItY2JiYjZmMmZlZjMyXkEyXkFqcGdeQXVyMDM3MzU0Ng@@._V1_FMjpg_UX1000_.jpg",Semerah padi
-http://4rr0w.my.id/ysb.mp4?url=https://youtu.be/_5U0x_eqHWQ
-
-#EXTINF:-1 tvg-id="" group-title="Koleksi P.Ramlee" tvg-logo="https://m.media-amazon.com/images/M/MV5BYzZjYjZmMzUtOWUzYy00MDkwLThhMWMtMDdiYjJjNzcyNzRhXkEyXkFqcGdeQXVyMTA3NTk1MQ@@._V1_.jpg",Pendekar bujang lapok
-http://4rr0w.my.id/ysb.mp4?url=https://youtu.be/uSH33yUy9zY
-
-#EXTINF:-1 tvg-id="" group-title="Koleksi P.Ramlee" tvg-logo="https://upload.wikimedia.org/wikipedia/ms/thumb/3/3d/Sumpah_orang_minyak_01.jpg/220px-Sumpah_orang_minyak_01.jpg",Sumpah orang minyak
-http://4rr0w.my.id/ysb.mp4?url=https://youtu.be/r5xNjIm0EPk
-
-#EXTINF:-1 tvg-id="" group-title="Koleksi P.Ramlee" tvg-logo="https://www.themoviedb.org/t/p/w500/hpUYZMwIt72L2FJM6kwwsgnJt1K.jpg",Musang berjanggut
-http://4rr0w.my.id/ysb.mp4?url=https://youtu.be/73vGFxtSmKc
-
-#EXTINF:-1 tvg-id="" group-title="Koleksi P.Ramlee" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/a/a7/SenimanBujangLapok.jpg/220px-SenimanBujangLapok.jpg",Seniman bujang lapok
-http://4rr0w.my.id/ysb.mp4?url=https://youtu.be/7GicBysGDCk
-
-#EXTINF:-1 tvg-id="" group-title="Koleksi P.Ramlee" tvg-logo="https://upload.wikimedia.org/wikipedia/ms/thumb/0/01/BujangLapok.jpg/220px-BujangLapok.jpg",Bujang lapok
-http://4rr0w.my.id/ysb.mp4?url=https://youtu.be/TNUHBWvGWdw
-
-#EXTINF:-1 tvg-id="" group-title="Koleksi P.Ramlee" tvg-logo="https://popcornsg.s3.amazonaws.com/gallery/1585094464-masam-ma.jpg",Masam masam manis
-http://4rr0w.my.id/ysb.mp4?url=https://youtu.be/MbfmOVA6_ac
-
-#EXTINF:-1 tvg-id="" group-title="Koleksi P.Ramlee" tvg-logo="https://upload.wikimedia.org/wikipedia/ms/thumb/e/ec/Sarjan_hassan_01.jpg/220px-Sarjan_hassan_01.jpg",Sarjan hassan
-http://4rr0w.my.id/ysb.mp4?url=https://youtu.be/BKhAnjMQPW0
-
-#EXTINF:-1 tvg-id="" group-title="Koleksi P.Ramlee" tvg-logo="https://i.ytimg.com/vi/1FGy1duhdH0/hqdefault.jpg",Tiga botak
-http://4rr0w.my.id/ysb.mp4?url=https://youtu.be/PMfJPYME7YU
-
-#EXTINF:-1 tvg-id="" group-title="Koleksi P.Ramlee" tvg-logo="https://upload.wikimedia.org/wikipedia/ms/thumb/8/87/6Jahanam.gif/220px-6Jahanam.gif",6 jahannam
-http://4rr0w.my.id/ysb.mp4?url=https://youtu.be/GKdCNRaB4F8
-
-#EXTINF:-1 tvg-id="" group-title="Koleksi P.Ramlee" tvg-logo="https://i.ytimg.com/vi/Uoe3PuCwZJ0/maxresdefault.jpg",Minta nombor ekor
-http://4rr0w.my.id/ysb.mp4?url=https://youtu.be/zvjb-AnjHtU
-
-#EXTINF:-1 tvg-id="" group-title="Koleksi P.Ramlee" tvg-logo="https://www.roots.gov.sg/CollectionImages/1085478.jpg",Hang jebat
-http://4rr0w.my.id/ysb.mp4?url=https://youtu.be/489ih7ox73o
-
-#EXTINF:-1 tvg-id="" group-title="Koleksi P.Ramlee" tvg-logo="https://upload.wikimedia.org/wikipedia/ms/3/38/Hang_tuah_01.jpg",Hang tuah
-https://ccii.ffccfffdd.xyz/?file=M3R4SUNiN3JsOHJ6WWQ2a3NQS1Y5ZGlxVlZIOCtyZ01tZHM5akNRMkFLTUhnSmdqMjYrTkxOOUdLNWhjbTlxeVg5TkVvWGplZU55T0R4K0lvcEI3QnlHbjd0a29yU3JOOXN0eWY4UmhBbE9xdmI3bXhCZHNyempaYWY2VU1wY0hma2dvOVJCem5TdURtTGZUdkJxbG5rVHJvbFdUWlRZUHBqSUdPS2lCcDhzZGpUbWJQNlMzbFlNTXR5UENzYzRRaTZiSjRsV21oYUVvNWRoM0R4WT0%3D
-#https://youtu.be/zF_LwF9GO1s
-
-#EXTINF:-1 tvg-id="" group-title="Koleksi P.Ramlee" tvg-logo="https://m.media-amazon.com/images/M/MV5BNDdhOGEzYTktZTZlYi00ZjI5LTk5NTEtNjk3ZWE4ZjYwNzQyXkEyXkFqcGdeQXVyMTA3NTk1MQ@@._V1_.jpg",Keluarga 69
-https://clxiv.aeeceeabbaadaec.xyz/?file=M3R4SUNiN3JsOHJ6WWQ2a3NQS1Y5ZGlxVlZIOCtyZ1UwK2M3eWh3bUJPQUg3YVlxMi9HaE1jNU9aZkZXaHF5M0hkSWYrREhPZU5YQUp3NmJ1SmtaRVNYUjU1Z3dxV3VKOVljc1hQWmhWd0x3eHFQeHNDaDVuQlBnZk4ySVI1NWJmU00rOFdabmxuUzFuOVBBbGtmZWdtdUxyUm04UDNKYW9uVUdMYUdXOXBwSGlFVHlLZkw4dzVrWHFES1c3NThVaTZiSjRWYXZtK3RyNkpwbVYxNXhMc01JaXN5aGpLYVo4Z0VLbHNRWTJCdz0%3D
-#https://www.youtube.com/watch?v=3BtO2FQvFj4
+#EXTINF:-1 tvg-id="" group-title="Knowledge" tvg-name="Discovery World HD+" tvg-logo="http://xcui.vitvabc.xyz:8880/images/87a2b2aaf8ce3c9196ccddfaa99356bc.png",Discovery World HD+
+http://xcui.vitvabc.xyz:8880/287994016390/287994016390/16712
 
 #EXTINF:-1 tvg-id="AnimalPlanet" group-title="Knowledge" tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_203.png",Animal Planet Southeast Asia
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
