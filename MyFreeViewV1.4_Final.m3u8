@@ -97,6 +97,9 @@ https://awanitv.akamaized.net/hls/live/2017836/LiveTV1/index.m3u8
 https://raw.githubusercontent.com/weareblahs/yttestlabs/main/youtube.m3u
 https://mediahomes.github.io/assets/yt/bnc.m3u8|Referer=https://www.youtube.com
 
+#EXTINF:-1 tvg-id="BernamaTV" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/502_300.png" group-title="Malaysia",Bernama(TEST)
+https://raw.githubusercontent.com/varisrc/YouTube_to_m3u/main/youtube.m3u
+
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/93.0.4577.63 Safari/537.36
 #EXTVLCOPT:http-referrer=https://rtmklik.rtm.gov.my/
 #EXTINF:-1 tvg-ID="BERITARTM" tvg-logo="https://berita.rtm.gov.my/images/logobes.jpg" group-title="Malaysia",Berita RTM
