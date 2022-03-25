@@ -148,9 +148,10 @@ https://fash1043.cloudycdn.services/slive/_definst_/ftv_pg16_adaptive.smil/media
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/93.0.4577.63 Safari/537.36
 #EXTVLCOPT:http-referrer=https://ch3plus.com/live
 #EXTINF:-1 tvg-id="ช่อง 3 HD" tvg-logo="https://static.epg.best/th/Channel3.th.png" group-title="Thai",ช่อง 3 HD
+https://ch3plus.com/live
 
 #EXTINF:-1 ttvg-id="ช่อง 7HD" tvg-logo="https://upload.wikimedia.org/wikipedia/en/f/f3/BBTV_Channel_7.png" group-title="Thai",ช่อง 7HD
-#|https://yamcode.com/embed/nasi-campur-iptv-200-channels
+https://live-cdn-hwc.ch7.com/livech7hd/HD.m3u8
 
 #EXTINF:-1 tvg-id="Channel5.th" tvg-logo="http://www.tv5.co.th/tv5hd1-web/img/tv5hd1_logo_light.png" group-title="Thai",Channel 5
 https://tc-live1.sanook.com/live/22302_ch5.m3u8
