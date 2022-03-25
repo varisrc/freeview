@@ -74,10 +74,9 @@ http://iptv.tvmalaysia.cc:80/114048/114048/6731|https://github.com/iptv-org
 http://iptv.tvmalaysia.cc:80/114048/114048/6741|https://github.com/iptv-org
 
 #EXTINF:-1 tvg-ID="AstroCeria" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/55_144.png" group-title="Malaysia",Astro Ceria
-http://iptv.tvmalaysia.cc:80/114048/114048/67157|https://github.com/azrinahmademuri
+#http://iptv.tvmalaysia.cc:80/114048/114048/67157|https://github.com/azrinahmademuri
 
 #EXTINF:-1 tvg-ID="AstroRia" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/73_144.png" group-title="Malaysia",Astro Ria
-http://iptv.tvmalaysia.cc:80/114048/114048/6730|https://github.com/xhanafix
 http://iptv.tvmalaysia.cc:80/114048/114048/9031
 
 #EXTINF:-1 tvg-ID="AstroWarna" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/53_144.png" group-title="Malaysia",Astro Warna
