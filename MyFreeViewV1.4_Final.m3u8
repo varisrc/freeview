@@ -37,8 +37,7 @@ https://mediahomes.github.io/assets/my/ch_ds.m3u8|Referer=https://www.dailymotio
 https://rtmlive02tv.secureswiftcontent.com/rtmchannel/02-manifest.mpd|https://github.com/samleong123
 
 #EXTINF:-1 tvg-id="TVBXingHe" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/383_144.png" group-title="Malaysia",TVB Xing He 星河
-http://iptv.tvfix.org/hls/tvbxh.m3u8
-http://iptv.tvfix.org/hls/tvbxh2.m3u8
+http://iptv.tvfix.org/hls/tvbxh_a1.m3u8
 
 #EXTINF:-1 tvg-id="TVBClassic" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/98_144.png" tvg-url="" group-title="Malaysia",TVB Classic
 http://iptv.tvfix.org/hls/tvbjd.m3u8
@@ -46,6 +45,9 @@ http://iptv.tvfix.org/hls/tvbjd.m3u8
 #EXTINF:-1 tvg-id="TVBJade" tvg-logo="https://poster.starhubgo.com/Linear_channels2/838_1920x1080_HTV.png" tvg-url="" group-title="Malaysia",Astro 华丽台 (TVB Jade)
 http://iptv.tvfix.org/hls/jadehk2.m3u8
 #https://cdn.hkdtmb.com/hls/81/index.m3u8
+
+#EXTINF:-1 tvg-id="TVBJade" tvg-logo="https://poster.starhubgo.com/Linear_channels2/838_1920x1080_HTV.png" tvg-url="" group-title="Malaysia",Astro 华丽台海外版 (TVB Jade)
+http://iptv.tvfix.org/hls/jadenhk_a1.m3u8
 
 #EXTINF:-1 tvg-ID="AstroAEC" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/80_144.png" group-title="Malaysia",Astro AEC
 http://iptv.tvmalaysia.cc:80/114048/114048/6701|https://yamcode.com/embed/nasi-campur-iptv-200-channels
