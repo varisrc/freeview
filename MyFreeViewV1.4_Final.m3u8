@@ -146,7 +146,6 @@ https://video.detik.com/trans7/smil:trans7.smil/playlist.m3u8
 https://fash1043.cloudycdn.services/slive/_definst_/ftv_pg16_adaptive.smil/media.m3u8
 
 #EXTINF:-1 tvg-id="ช่อง 3 HD" tvg-logo="https://static.epg.best/th/Channel3.th.png" group-title="Thai",ช่อง 3 HD
-https://www.livedoomovies.com/02_3HD_720p/chunklist.m3u8
 
 #EXTINF:-1 ttvg-id="ช่อง 7HD" tvg-logo="https://upload.wikimedia.org/wikipedia/en/f/f3/BBTV_Channel_7.png" group-title="Thai",ช่อง 7HD
 https://live-cdn-hwc.ch7.com/livech7hd/HD.m3u8
@@ -173,7 +172,6 @@ http://host4.dynns.com/stream/a9a68ab5471d4d39ba25695a66957067.m3u8|https://yamc
 https://thaipbs-live.cdn.byteark.com/live/playlist.m3u8
  
 #EXTINF:-1 tvg-id="PPTV 36" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/a/a8/PPTV_2019.svg/revision/latest/scale-to-width-down/340?cb=20190815051944" group-title="电影",PPTV36 HD
-https://www.livedoomovies.com/02_PPTVHD_720p/chunklist.m3u8
 
 #EXTINF:-1 tvg-id="MONO29" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d5/Mono_29_Logo.png" group-title="电影",MONO29 Th
 https://edge2-bkk.3bb.co.th:9443/MONO29_HLS_1080P/mono29hls_1080TH.stream/chunklist_w1578972109.m3u8|Referer=https://note.vg/raw/ch-66755-6
