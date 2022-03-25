@@ -44,7 +44,7 @@ http://iptv.tvfix.org/hls/tvbxh2.m3u8
 http://iptv.tvfix.org/hls/tvbjd.m3u8
 
 #EXTINF:-1 tvg-id="TVBJade" tvg-logo="https://poster.starhubgo.com/Linear_channels2/838_1920x1080_HTV.png" tvg-url="" group-title="Malaysia",Astro 华丽台 (TVB Jade)
-http://iptv.tvfix.org/hls/jadenhk.m3u8
+http://iptv.tvfix.org/hls/jadehk2.m3u8
 #https://cdn.hkdtmb.com/hls/81/index.m3u8
 
 #EXTINF:-1 tvg-ID="AstroAEC" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/80_144.png" group-title="Malaysia",Astro AEC
