@@ -250,7 +250,7 @@ https://liveanevia.mncnow.id/live/eds/CelestialClassic/sa_dash_vmx/CelestialClas
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://www.lyngsat.com/logo/tv/cc/chc-action-cn.png" group-title="电影",CHC Action
 http://iptv.tvfix.org/play/chchd
-HTTP://59.49.41.44/live.aishang.ctlcdn.com/00000110240324_1/playlist.m3u8?CONTENTID=00000110240324_1
+#HTTP://59.49.41.44/live.aishang.ctlcdn.com/00000110240324_1/playlist.m3u8?CONTENTID=00000110240324_1
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_18.jpg" group-title="电影",Star Chinese Movies South East Asia
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
