@@ -37,7 +37,7 @@ https://mediahomes.github.io/assets/my/ch_ds.m3u8|Referer=https://www.dailymotio
 https://rtmlive02tv.secureswiftcontent.com/rtmchannel/02-manifest.mpd|https://github.com/samleong123
 
 #EXTINF:-1 tvg-id="TVBXingHe" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/383_144.png" group-title="Malaysia",TVB Xing He 星河
-http://iptv.tvfix.org/hls/tvbxh_a1.m3u8
+http://iptv.tvfix.org/play/tvbxh
 
 #EXTINF:-1 tvg-id="TVBClassic" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/98_144.png" tvg-url="" group-title="Malaysia",TVB Classic
 http://iptv.tvfix.org/hls/tvbjd.m3u8
