@@ -37,60 +37,60 @@ https://mediahomes.github.io/assets/my/ch_ds.m3u8|Referer=https://www.dailymotio
 https://rtmlive02tv.secureswiftcontent.com/rtmchannel/02-manifest.mpd|https://github.com/samleong123
 
 #EXTINF:-1 tvg-id="TVBXingHe" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/383_144.png" group-title="Malaysia",TVB Xing He 星河
-http://iptv.tvfix.org/play/tvbxh
+#http://iptv.tvfix.org/play/tvbxh
 
 #EXTINF:-1 tvg-id="TVBClassic" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/98_144.png" tvg-url="" group-title="Malaysia",TVB Classic
-http://iptv.tvfix.org/hls/tvbjd.m3u8
+#http://iptv.tvfix.org/hls/tvbjd.m3u8
 
 #EXTINF:-1 tvg-id="TVBJade" tvg-logo="https://poster.starhubgo.com/Linear_channels2/838_1920x1080_HTV.png" tvg-url="" group-title="Malaysia",Astro 华丽台 (TVB Jade)
-http://iptv.tvfix.org/hls/jadenhk.m3u8
-http://iptv.tvfix.org/hls/jadehk2.m3u8
+#http://iptv.tvfix.org/hls/jadenhk.m3u8
+#http://iptv.tvfix.org/hls/jadehk2.m3u8
 #https://cdn.hkdtmb.com/hls/81/index.m3u8
 
 #EXTINF:-1 tvg-id="TVBJade" tvg-logo="https://poster.starhubgo.com/Linear_channels2/838_1920x1080_HTV.png" tvg-url="" group-title="Malaysia",Astro 翡翠台海外版 (TVB Jade)
-http://iptv.tvfix.org/hls/jadenhk_v.m3u8
+#http://iptv.tvfix.org/hls/jadenhk_v.m3u8
 
 #EXTINF:-1 tvg-id="TVBJade" tvg-logo="https://i1.hdslb.com/bfs/archive/9411d0efa29ca5ce2fcfbf8e74a912e09d3669ef.jpg@320w_200h_1c.webp" tvg-url="" group-title="Malaysia",TVB功夫台
-http://iptv.tvfix.org/hls/jadenhk_a1.m3u8
+#http://iptv.tvfix.org/hls/jadenhk_a1.m3u8
 
 #EXTINF:-1 tvg-ID="AstroAEC" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/80_144.png" group-title="Malaysia",Astro AEC
-http://iptv.tvmalaysia.cc:80/114048/114048/6701|https://yamcode.com/embed/nasi-campur-iptv-200-channels
+#http://iptv.tvmalaysia.cc:80/114048/114048/6701|https://yamcode.com/embed/nasi-campur-iptv-200-channels
 
 #EXTINF:-1 tvg-id="iQIYI" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/IQiyi_logo.svg/200px-IQiyi_logo.svg.png" tvg-url="" group-title="Malaysia",iQIYI 爱奇艺
-http://iptv.tvmalaysia.cc:80/114048/114048/6723|https://yamcode.com/embed/nasi-campur-iptv-200-channels
+#http://iptv.tvmalaysia.cc:80/114048/114048/6723|https://yamcode.com/embed/nasi-campur-iptv-200-channels
 
 #EXTINF:-1 tvg-id="ViuTV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/69/ViuTV_logo.svg/512px-ViuTV_logo.svg.png" tvg-url="" group-title="Malaysia",ViuTV 测试频道
 http://iptv.tvfix.org/hls/viutv.m3u8
 
 #EXTINF:-1 tvg-id="AstroHuaHeeDai" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/9_144.png" tvg-url="" group-title="Malaysia",Astro 欢喜台 (Hua Hee Dai)
-http://iptv.tvmalaysia.cc:80/114048/114048/6722|https://yamcode.com/embed/nasi-campur-iptv-200-channels
+#http://iptv.tvmalaysia.cc:80/114048/114048/6722|https://yamcode.com/embed/nasi-campur-iptv-200-channels
 
 #EXTINF:-1 tvg-id="AstroQuanJiaHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f8/Astro_Quan_Jia.png" tvg-url="" group-title="Malaysia",Astro Quan Jia HD
-http://iptv.tvmalaysia.cc:80/114048/114048/6728|https://yamcode.com/embed/nasi-campur-iptv-200-channels
+#http://iptv.tvmalaysia.cc:80/114048/114048/6728|https://yamcode.com/embed/nasi-campur-iptv-200-channels
 
 #EXTINF:-1 tvg-id="AstroAODHD" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/c/cb/Astro_AOD.jpeg/200px-Astro_AOD.jpeg" tvg-url="" group-title="Malaysia",Astro AOD 311
 #http://50.7.161.82:8278/streams/d/aod_pye/playlist.m3u8|https://yamcode.com/embed/nasi-campur-iptv-200-channels
 
 #EXTINF:-1 tvg-id="AstroShuangXing" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/183_144.png" group-title="Malaysia",Astro Shuang Xing
-http://iptv.tvmalaysia.cc:80/114048/114048/6731|https://github.com/iptv-org
+#http://iptv.tvmalaysia.cc:80/114048/114048/6731|https://github.com/iptv-org
 
 #EXTINF:-1 tvg-id="AstroXiaoTaiYang" tvg-country="MY" tvg-language="" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/387_144.png" group-title="Malaysia",Astro Xiao Tai Yang
-http://iptv.tvmalaysia.cc:80/114048/114048/6741|https://github.com/iptv-org
+#http://iptv.tvmalaysia.cc:80/114048/114048/6741|https://github.com/iptv-org
 
 #EXTINF:-1 tvg-ID="AstroCeria" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/55_144.png" group-title="Malaysia",Astro Ceria
 #http://iptv.tvmalaysia.cc:80/114048/114048/67157|https://github.com/azrinahmademuri
 
 #EXTINF:-1 tvg-ID="AstroRia" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/73_144.png" group-title="Malaysia",Astro Ria
-http://iptv.tvmalaysia.cc:80/114048/114048/9031
+#http://iptv.tvmalaysia.cc:80/114048/114048/9031
 
 #EXTINF:-1 tvg-ID="AstroWarna" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/53_144.png" group-title="Malaysia",Astro Warna
-http://iptv.tvmalaysia.cc:80/114048/114048/6740|https://github.com/azrinahmademuri
+#http://iptv.tvmalaysia.cc:80/114048/114048/6740|https://github.com/azrinahmademuri
 
 #EXTINF:-1 tvg-id="AstroCitra" tvg-country="MY" tvg-language="" tvg-logo="" group-title="Malaysia",Astro Citra (720p) [Not 24/7]
-http://iptv.tvmalaysia.cc:80/114048/114048/7267|https://github.com/iptv-org
+#http://iptv.tvmalaysia.cc:80/114048/114048/7267|https://github.com/iptv-org
 
 #EXTINF:-1 tvg-id="AstroPrima" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/105_300.png" group-title="Malaysia",Astro Prima HD
-http://iptv.tvmalaysia.cc:80/114048/114048/6727
+#http://iptv.tvmalaysia.cc:80/114048/114048/6727
 
 #EXTINF:-1 tvg-id="AwesomeTV" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/433_144.png" group-title="Malaysia", Awesome TV
 #http://w.nasvpn.xyz:8080/iptvfreenet/iptvfreenet/180|https://github.com/azrinahmademuri
@@ -99,9 +99,9 @@ http://iptv.tvmalaysia.cc:80/114048/114048/6727
 #http://50.7.161.82:8278/streams/d/bollyone_pye/playlist.m3u8|https://yamcode.com/embed/nasi-campur-iptv-200-channels
 
 #EXTINF:-1 tvg-ID="AstroAwani" tvg-logo="https://img.astroawani.com/template/awani.jpg" group-title="Malaysia",Astro Awani HD
-https://raw.githubusercontent.com/varisrc/randomlivefromyt/main/astroawani.m3u8
+#https://raw.githubusercontent.com/varisrc/randomlivefromyt/main/astroawani.m3u8
 
-#EXTINF:-1 tvg-ID="AstroAwani" tvg-logo="https://img.astroawani.com/template/awani.jpg" group-title="Malaysia",Astro Awani (Backup)
+#EXTINF:-1 tvg-ID="AstroAwani" tvg-logo="https://img.astroawani.com/template/awani.jpg" group-title="Malaysia",Astro Awani
 https://awanitv.akamaized.net/hls/live/2017836/LiveTV1/index.m3u8
 
 #EXTINF:-1 tvg-id="BernamaTV" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/502_300.png" group-title="Malaysia",Bernama
