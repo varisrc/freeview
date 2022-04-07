@@ -352,10 +352,10 @@ https://liveanevia.mncnow.id/live/eds/NatGeoWild/sa_dash_vmx/NatGeoWild.mpd
 #EXTINF:-1 tvg-id="AnimalPlanet" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/377_144.png" group-title="家庭娱乐",ANIMAL PLANET
 http://xcui.vitvabc.xyz:8880/287994016390/287994016390/16693|https://yamcode.com/embed/nasi-campur-iptv-200-channels
 
-#EXTINF:-1 tvg-id="" group-title="Knowledge" tvg-name="Discovery Turbo HD+" tvg-logo="https://www.tvmagazine.com.br/imagens/icones/150/discoveryturbob.png",Discovery Turbo HD+
+#EXTINF:-1 tvg-id="" group-title="家庭娱乐" tvg-name="Discovery Turbo HD+" tvg-logo="https://www.tvmagazine.com.br/imagens/icones/150/discoveryturbob.png",Discovery Turbo HD+
 http://xcui.vitvabc.xyz:8880/287994016390/287994016390/16711
 
-#EXTINF:-1 tvg-id="" group-title="Knowledge" tvg-name="Discovery World HD+" tvg-logo="http://xcui.vitvabc.xyz:8880/images/87a2b2aaf8ce3c9196ccddfaa99356bc.png",Discovery World HD+
+#EXTINF:-1 tvg-id="" group-title="家庭娱乐" tvg-name="Discovery World HD+" tvg-logo="http://xcui.vitvabc.xyz:8880/images/87a2b2aaf8ce3c9196ccddfaa99356bc.png",Discovery World HD+
 http://xcui.vitvabc.xyz:8880/287994016390/287994016390/16712
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -874,7 +874,6 @@ http://xcui.vitvabc.xyz:8880/287994016390/287994016390/16712
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
 https://liveanevia.mncnow.id/live/eds/AnimalPlanet/sa_dash_vmx/AnimalPlanet.mpd
 
-
 #EXTINF:-1 tvg-id="BBCEarthAsia.uk" group-title="Knowledge" tvg-logo="https://www.mncvision.id/userfiles/image/channel/bbc_earth150x150.jpg",BBC Earth Asia
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
@@ -885,30 +884,25 @@ https://liveanevia.mncnow.id/live/eds/BBCEarth-HD/sa_dash_vmx/BBCEarth-HD.mpd
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
 https://liveanevia.mncnow.id/live/eds/CGTN_Doc/sa_dash_vmx/CGTN_Doc.mpd
 
-
 #EXTINF:-1 tvg-id="CrimeInvestigation" group-title="Knowledge" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/369_144.png",Crime + Investigation Asia
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
 https://liveanevia.mncnow.id/live/eds/CrimeInvestigation/sa_dash_vmx/CrimeInvestigation.mpd
-
 
 #EXTINF:-1 tvg-id="DiscoveryAsia" group-title="Knowledge" tvg-logo="https://www.mncvision.id/userfiles/image/channel/discovery_channel.png",Discovery Channel Southeast Asia
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
 https://liveanevia.mncnow.id/live/eds/Discovery/sa_dash_vmx/Discovery.mpd
 
-
 #EXTINF:-1 tvg-id="History" group-title="Knowledge" tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_206.png",History Asia
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
 https://liveanevia.mncnow.id/live/eds/History/sa_dash_vmx/History.mpd
 
-
 #EXTINF:-1 tvg-id="NationalGeographic" group-title="Knowledge" tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_202.png",National Geographic Asia
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
 https://liveanevia.mncnow.id/live/eds/NatGeoChannel/sa_dash_vmx/NatGeoChannel.mpd
-
 
 #EXTINF:-1 tvg-id="NatGeoWild" group-title="Knowledge" tvg-logo="https://static.epg.best/id/NatGeoWild.id.png",National Geographic Wild Asia
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
