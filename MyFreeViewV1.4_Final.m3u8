@@ -13,26 +13,26 @@ https://rtmlive01tv.secureswiftcontent.com/rtmchannel/01-manifest.mpd|https://gi
 #EXTINF:-1 tvg-ID="TV2" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/102.png" group-title="Malaysia",TV2
 https://rtmlive05tv.secureswiftcontent.com/rtmchannel/05-manifest.mpd|https://github.com/samleong123
 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 Windows NT 10.0; Win64; x64 AppleWebKit/537.36 KHTML, like Gecko Chrome/93.0.4577.82 Safari/537.36
+#EXTVLCOPT:http-referer=https://www.dailymotion.com
 #EXTINF:-1 tvg-id="TV3" group-title="Malaysia" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/103.png",TV3
-https://unifi-live05.secureswiftcontent.com/UnifiHD/live03.mpd
-https://raw.githubusercontent.com/samleong123/tonton_dailymotion_php/main/m3u8/TV3.m3u8|Referer=https://www.dailymotion.com
+https://api.samsam123.name.my/mediaprima_dailymotion/beta.php?channels=tv3
 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/93.0.4577.63 Safari/537.36
 #EXTVLCOPT:http-referrer=https://rtmklik.rtm.gov.my/
 #EXTINF:-1 tvg-ID="DidikTVKPM" tvg-logo="https://didik.tv/images/logotv2.png" group-title="Malaysia",DidikTV KPM
-https://raw.githubusercontent.com/samleong123/tonton_dailymotion_php/main/m3u8/DidikTVKPM.m3u8|https://github.com/samleong123
+https://raw.githubusercontent.com/samleong123/tonton_dailymotion_php/main/m3u8/DidikTVKPM.m3u8
 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 Windows NT 10.0; Win64; x64 AppleWebKit/537.36 KHTML, like Gecko Chrome/93.0.4577.82 Safari/537.36
+#EXTVLCOPT:http-referer=https://www.dailymotion.com
 #EXTINF:-1 tvg-ID="8TV" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/148.png" group-title="Malaysia",8TV
-https://raw.githubusercontent.com/samleong123/tonton_dailymotion_php/main/m3u8/8TV.m3u8|Referer=https://www.dailymotion.com
+https://api.samsam123.name.my/mediaprima_dailymotion/beta.php?channels=8tv
 
 #EXTINF:-1 tvg-id="TVS" group-title="Malaysia" tvg-logo="https://tvstv.my/wp-content/uploads/2020/09/cropped-TVS-Logo-Square2.jpg",TVS
 https://agsplayback01.astro.com.my:443/CH1/master_AGS_TVS_04.m3u8
 
 #EXTINF:-1 tvg-ID="105" tvg-logo="https://www.xtra.com.my/live-tv/assets/img/dramasangat.png" group-title="Malaysia",Drama Sangat
 https://mediahomes.github.io/assets/my/ch_ds.m3u8|Referer=https://www.dailymotion.com
-
-#EXTINF:-1 tvg-ID="SükeTV" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/e/eb/SUKE_TV_Logo.png" group-title="Malaysia",SükeTV
-https://raw.githubusercontent.com/varisrc/YouTube2m3u/main/LinkSukeTV.m3u8
 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/93.0.4577.63 Safari/537.36
 #EXTVLCOPT:http-referrer=https://rtmklik.rtm.gov.my/
@@ -41,17 +41,18 @@ https://rtmlive02tv.secureswiftcontent.com/rtmchannel/02-manifest.mpd|https://gi
 
 #EXTINF:-1 tvg-id="TVBXingHe" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/383_144.png" group-title="Malaysia",TVB Xing He 星河
 #http://iptv.tvfix.org/play/tvbxh
+#http://live.tvfix.org
 
 #EXTINF:-1 tvg-id="TVBClassic" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/98_144.png" tvg-url="" group-title="Malaysia",TVB Classic
 #http://iptv.tvfix.org/hls/tvbjd.m3u8
 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/93.0.4577.63 Safari/537.36
+#EXTVLCOPT:http-referrer=http://live.tvfix.org/play/jadenhk
 #EXTINF:-1 tvg-id="TVBJade" tvg-logo="https://poster.starhubgo.com/Linear_channels2/838_1920x1080_HTV.png" tvg-url="" group-title="Malaysia",Astro 华丽台 (TVB Jade)
 #http://iptv.tvfix.org/hls/jadenhk.m3u8
-#http://iptv.tvfix.org/hls/jadehk2.m3u8
-#https://cdn.hkdtmb.com/hls/81/index.m3u8
 
 #EXTINF:-1 tvg-id="TVBJade" tvg-logo="https://poster.starhubgo.com/Linear_channels2/838_1920x1080_HTV.png" tvg-url="" group-title="Malaysia",Astro 翡翠台海外版 (TVB Jade)
-#http://iptv.tvfix.org/hls/jadenhk_v.m3u8
+http://live.tvfix.org/hls/jadenhk.m3u8
 
 #EXTINF:-1 tvg-id="TVBJade" tvg-logo="https://i1.hdslb.com/bfs/archive/9411d0efa29ca5ce2fcfbf8e74a912e09d3669ef.jpg@320w_200h_1c.webp" tvg-url="" group-title="Malaysia",TVB功夫台
 #http://iptv.tvfix.org/hls/jadenhk_a1.m3u8
