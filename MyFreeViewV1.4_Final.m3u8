@@ -1,5 +1,5 @@
 #EXTM3U
-url-tvg="https://raw.githubusercontent.com/AqFad2811/myiptv/main/astro.xml" refresh="1440" max-conn="1" refresh="24"
+url-tvg="https://raw.githubusercontent.com/AqFad2811/epg/main/epg.xml" refresh="1440" max-conn="1" refresh="24"
 url-tvg="https://raw.githubusercontent.com/AqFad2811/myiptv/main/mytv.xml" refresh="1440" max-conn="1" refresh="24"
 url-tvg="https://raw.githubusercontent.com/AqFad2811/myiptv/main/singapore.xml" refresh="1440" max-conn="1" refresh="24"
 
@@ -50,7 +50,7 @@ https://rtmlive02tv.secureswiftcontent.com/rtmchannel/02-manifest.mpd|https://gi
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/93.0.4577.63 Safari/537.36
 #EXTVLCOPT:http-referrer=http://live.tvfix.org/play/jadenhk
 #EXTINF:-1 tvg-id="TVBJade" tvg-logo="https://poster.starhubgo.com/Linear_channels2/838_1920x1080_HTV.png" tvg-url="" group-title="Malaysia",Astro 华丽台 (TVB Jade)
-http://iptv.tvfix.org/hls/jadenhk.m3u8
+#http://iptv.tvfix.org/hls/jadenhk.m3u8
 
 #EXTINF:-1 tvg-id="TVBJade" tvg-logo="https://poster.starhubgo.com/Linear_channels2/838_1920x1080_HTV.png" tvg-url="" group-title="Malaysia",Astro 翡翠台海外版 (TVB Jade)
 #http://live.tvfix.org/hls/jadenhk.m3u8
@@ -133,18 +133,18 @@ https://tglmp02.akamaized.net/out/v1/5081e069e08140c9b95f89a1659cf4dd/manifest.m
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://udrmv3.kaltura.com/cenc/widevine/license?custom_data=eyJjYV9zeXN0ZW0iOiJPVFQiLCJ1c2VyX3Rva2VuIjowLCJhY2NvdW50X2lkIjoiMjA4MjMxMSIsImNvbnRlbnRfaWQiOiJmdGFfY2g4X2Rhc2hfd2ViX2RybSIsImZpbGVzIjoiOTgyNjk5MSIsInVkaWQiOiIiLCJhZGRpdGlvbmFsX2Nhc19zeXN0ZW0iOjB9&signature=VmkG%2FnkMNDuNoZKk%2F1cG3xTZG5w%3D&
-#EXTINF:-1 tvg-ID="Ch8.SG" tvg-logo="https://poster.starhubgo.com/Linear_channels2/103_1920x1080_HTV.png" group-title="Malaysia",8频道
+#EXTINF:-1 tvg-ID="Ch 8" tvg-logo="https://poster.starhubgo.com/Linear_channels2/103_1920x1080_HTV.png" group-title="Malaysia",8频道
 https://tglmp02.akamaized.net/out/v1/4f6561ad194b49ae93f4e1b075afdf41/manifest.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://udrmv3.kaltura.com/cenc/widevine/license?custom_data=eyJjYV9zeXN0ZW0iOiJPVFQiLCJ1c2VyX3Rva2VuIjowLCJhY2NvdW50X2lkIjoiMjA4MjMxMSIsImNvbnRlbnRfaWQiOiJmdGFfY2hVX2Rhc2hfd2ViX2RybSIsImZpbGVzIjoiNTc1NDE1NiIsInVkaWQiOiIiLCJhZGRpdGlvbmFsX2Nhc19zeXN0ZW0iOjB9&signature=GJ%2FUWeTXAOfpju0oZkr0UtvrZ8k%3D&
-#EXTINF:-1 tvg-ID="U频道" tvg-logo="https://poster.starhubgo.com/Linear_channels2/107_1920x1080_HTV.png" group-title="Malaysia",U频道
+#EXTINF:-1 tvg-ID="Ch U" tvg-logo="https://poster.starhubgo.com/Linear_channels2/107_1920x1080_HTV.png" group-title="Malaysia",U频道
 https://tglmp03.akamaized.net/out/v1/1057d89ee3d94148b430b5866e3a540a/manifest.mpd
 
-#EXTINF:-1 tvg-id="TRA.ID" tvg-logo="https://lofrev.net/wp-content/photos/2017/05/transtv_logo.png" group-title="Malaysia",Trans TV
+#EXTINF:-1 tvg-id="Trans TV" tvg-logo="https://lofrev.net/wp-content/photos/2017/05/transtv_logo.png" group-title="Malaysia",Trans TV
 https://video.detik.com/transtv/smil:transtv.smil/playlist.m3u8
 
-#EXTINF: -1 tvg-logo="https://i.ytimg.com/vi/uKoQXLkeHZ0/hqdefault.jpg" group-title="Malaysia", TRANS 7
+#EXTINF: -1 tvg-ID="Trans 7"tvg-logo="https://i.ytimg.com/vi/uKoQXLkeHZ0/hqdefault.jpg" group-title="Malaysia", TRANS 7
 https://video.detik.com/trans7/smil:trans7.smil/playlist.m3u8
 
 #EXTINF:-1 tvg-ID="" tvg-logo="https://files.company.fashiontv.com/wp-content/uploads/2017/03/ftv-com_squre.png" group-title="Malaysia",FTV & Sport
@@ -155,7 +155,7 @@ https://fash1043.cloudycdn.services/slive/_definst_/ftv_pg16_adaptive.smil/media
 #EXTINF:-1 ttvg-id="ช่อง 7HD" tvg-logo="https://upload.wikimedia.org/wikipedia/en/f/f3/BBTV_Channel_7.png" group-title="Thai",ช่อง 7HD
 https://live-cdn-hwc.ch7.com/livech7hd/HD.m3u8
 
-#EXTINF:-1 tvg-id="Channel5.th" tvg-logo="http://www.tv5.co.th/tv5hd1-web/img/tv5hd1_logo_light.png" group-title="Thai",Channel 5
+#EXTINF:-1 tvg-id="Channel5.th" tvg-logo="http://www.tv5.co.th/tv5hd1-web/img/tv5hd1_logo_light.png" group-title="Thai",Channel 5 HD
 https://tc-live1.sanook.com/live/22302_ch5.m3u8
 
 #EXTINF:-1 tvg-ID="Fan TV" tvg-logo="https://cmsimgservices.dmpcdn.com/v1/resize?url=https%3A%2F%2Fcms.dmpcdn.com%2Flivetv%2F2019%2F01%2F19%2Fef0c5b42-e46f-490c-83d5-8e660f66fb07.png&w=320&h=2483d5-240"Thai",Fan TV
@@ -173,7 +173,7 @@ http://live.thairath.co.th/trtv2/playlist_720p/index.m3u8|https://yamcode.com/em
 #EXTINF:-1 tvg-id="WPT.TH" tvg-logo="http://www.workpointtv.com/wp-content/themes/wptv/assets/logo-wptv.png" group-title="Thai",Workpoint
 http://host4.dynns.com/stream/a9a68ab5471d4d39ba25695a66957067.m3u8|https://yamcode.com/embed/nasi-campur-iptv-200-channels
 
-#EXTINF:-1 tvg-id="ThaiPBSOpt4.th" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/5/5a/Thai_PBS_logo.png/220px-Thai_PBS_logo.png" group-title="Thai",Thai PBS (Opt-4) (480p)
+#EXTINF:-1 tvg-id="ThaiPBSOpt4.th" tvg-logo="https://image.pngaaa.com/305/82305-middle.png" group-title="Thai",Thai PBS (Opt-4) (480p)
 https://thaipbs-live.cdn.byteark.com/live/playlist.m3u8
  
 #EXTINF:-1 tvg-id="PPTV 36" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/a/a8/PPTV_2019.svg/revision/latest/scale-to-width-down/340?cb=20190815051944" group-title="电影",PPTV36 HD
@@ -240,7 +240,7 @@ https://liveanevia.mncnow.id/live/eds/Thrill/sa_dash_vmx/Thrill.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
-#EXTINF:-1 tvg-id="712" tvg-logo="https://www.mncvision.id/userfiles/image/channel/warner_tv.png" group-title="电影",Warner TV Southeast Asia
+#EXTINF:-1 tvg-id="WarnerTV" tvg-logo="https://www.mncvision.id/userfiles/image/channel/warner_tv.png" group-title="电影",Warner TV Southeast Asia
 https://liveanevia.mncnow.id/live/eds/WarnerTV/sa_dash_vmx/WarnerTV.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -307,7 +307,7 @@ http://dai2.xumo.com/xumocdn/p=roku/amagi_hls_data_xumo1212A-rokufilmrisesci-fi/
 #EXTINF:-1 tvg-name="FilmRise Movies" tvg-logo="https://camo.githubusercontent.com/c29a8252c811a1eade081d508f8fe718cdc89140da93ef4bcac8b851129bf6e5/68747470733a2f2f692e696d6775722e636f6d2f6a477a4d6152442e706e67" group-title="电影",FilmRise Movies
 http://dai2.xumo.com/xumocdn/p=roku/amagi_hls_data_xumo1212A-filmrisefreemovies/CDN/playlist.m3u8|https://github.com/Free-TV/IPTV/blob/master/zz_movies.md
 
-#EXTINF:-1 tvg-id="Paramount Channel" tvg-logo="https://static.epg.best/us/ParamountNetwork.us.png" group-title="电影",Paramount Network
+#EXTINF:-1 tvg-id="ParamountNetwork" tvg-logo="https://static.epg.best/us/ParamountNetwork.us.png" group-title="电影",Paramount Network
 http://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5cb0cae7a461406ffe3f5213/master.m3u8?advertisingId=91a6ae51-6f9d-4fbb-adb0-bdfffa44693e&appVersion=unknown&deviceDNT=0&deviceId=91a6ae51-6f9d-4fbb-adb0-bdfffa44693e&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceUA=samsung/SM-T720/10&deviceVersion=unknown&embedPartner=samsung-tvplus&profileFloor=&profileLimit=&samsung_app_domain=https://play.google.com/store/apps/details?id=com.samsung.android.tvplus&samsung_app_name=Mobile+TV+Plus&us_privacy=1YNY
 
 #EXTINF:-1 tvg-id="SONYPix" tvg-logo="https://iconape.com/wp-content/png_logo_vector/sony-pix-logo.png" group-title="电影",SONY Pix 4K
@@ -337,13 +337,13 @@ https://liveanevia.mncnow.id/live/eds/History/sa_dash_vmx/History.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha 
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=YWY0OTBlZjEtODAyNC0zZTA0LWFhYzMtY2ZmMGE4NjVjZjU1
-#EXTINF:-1 tvg-ID="KIX" tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/9428328_ico.png" group-title="家庭娱乐", KIX HD
+#EXTINF:-1 tvg-ID="KIX" tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/9428328_ico.png" group-title="家庭娱乐", KIX
 https://liveanevia.mncnow.id/live/eds/KIX/sa_dash_vmx/KIX.mpd
 
 #EXTINF:-1 tvg-id="PRI.NZ" tvg-logo="https://static.epg.best/nz/PrimeTV.nz.png" group-title="家庭娱乐",Prime
 https://primetv-prod.akamaized.net/v1/prime-freeview-aes128.m3u8|X-Forwarded-For=202.89.4.222
 
-#EXTINF:-1 tvg-id="552" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/376_144.png" group-title="家庭娱乐",Discovery Channel
+#EXTINF:-1 tvg-id="DiscoveryChannel" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/376_144.png" group-title="家庭娱乐",Discovery Channel
 http://xcui.vitvabc.xyz:8880/287994016390/287994016390/16705
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -357,7 +357,7 @@ http://xcui.vitvabc.xyz:8880/287994016390/287994016390/16693|https://yamcode.com
 #EXTINF:-1 tvg-id="" group-title="家庭娱乐" tvg-name="Discovery Turbo HD+" tvg-logo="https://www.tvmagazine.com.br/imagens/icones/150/discoveryturbob.png",Discovery Turbo HD+
 http://xcui.vitvabc.xyz:8880/287994016390/287994016390/16711
 
-#EXTINF:-1 tvg-id="" group-title="家庭娱乐" tvg-name="Discovery World HD+" tvg-logo="http://xcui.vitvabc.xyz:8880/images/87a2b2aaf8ce3c9196ccddfaa99356bc.png",Discovery World HD+
+#EXTINF:-1 tvg-id="" group-title="家庭娱乐" tvg-name="Discovery World HD+" tvg-logo="https://w7.pngwing.com/pngs/482/735/png-transparent-discovery-channel-television-channel-logo-television-show-others-television-globe-logo.png",Discovery World HD+
 http://xcui.vitvabc.xyz:8880/287994016390/287994016390/16712
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -399,7 +399,7 @@ http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5ca672f515a62078d2e
 #EXTINF:-1 tvg-id="COM.US" tvg-logo="https://static.epg.best/il/ComedyCentral.il.png" group-title="家庭娱乐",Comedy Central
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5ca671f215a62078d2ec0abf/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=465&deviceId=5ca671f215a62078d2ec0abf&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=&deviceLon=&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false
 
-#EXTINF:-1 tvg-id="" tvg-name="Galaxy Premium SD" tvg-logo="https://i.imgur.com/oPnzAPC.png" group-title="家庭娱乐",Galaxy tv
+#EXTINF:-1 tvg-id="" tvg-name="GALAXYPremium" tvg-logo="https://i.imgur.com/oPnzAPC.png" group-title="家庭娱乐",GalaxyTV
 https://content.uplynk.com/channel/f467430e4a8e49a59ff3183cf51092b2.m3u8
 
 #EXTINF:-1 tvg-ID="KBSWorld" tvg-logo="https://static.epg.best/us/KBSWorld.us.png" group-title="韩国",KBS World
@@ -415,15 +415,15 @@ https://liveanevia.mncnow.id/live/eds/tvNMovies/sa_dash_vmx/tvNMovies.mpd
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=YWY0OTBlZjEtODAyNC0zZTA0LWFhYzMtY2ZmMGE4NjVjZjU1
 https://liveanevia.mncnow.id/live/eds/SetOne/sa_dash_vmx/SetOne.mpd
 
-#EXTINF:-1 tvg-ID="394" tvg-logo="https://www.ohk-tv.com/img/logo.png" group-title="韩国", Oh!K HD
+#EXTINF:-1 tvg-ID="OhK" tvg-logo="https://www.ohk-tv.com/img/logo.png" group-title="韩国", Oh!K HD
 #http://50.7.161.82:8278/streams/d/Ohk/playlist.m3u8|https://github.com/azrinahmademuri
 
-#EXTINF:-1 tvg-ID="394" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/266_144.png" group-title="韩国",K-Plus HD http://foctv.xyz:25510/live/@alaqib/C9vOtBPfQ2/140.m3u8|https://github.com/azrinahmademuri
+#EXTINF:-1 tvg-ID="K-Plus" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/266_144.png" group-title="韩国",K-Plus HD http://foctv.xyz:25510/live/@alaqib/C9vOtBPfQ2/140.m3u8|https://github.com/azrinahmademuri
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MzRjOGRhNmItM2ZmNi0zMGIwLWI1NTEtM2ViNjlhZmM2NWU0 
-#EXTINF:-1 tvg-ID="395" tvg-logo="https://raw.githubusercontent.com/angahjee1994/logo/master/tvn.png" group-title="韩国", tvN HD https://liveanevia.mncnow.id/live/eds/tvN/sa_dash_vmx/tvN.mpd|https://github.com/azrinahmademuri
+#EXTINF:-1 tvg-ID="tvN" tvg-logo="https://raw.githubusercontent.com/angahjee1994/logo/master/tvn.png" group-title="韩国", tvN HD https://liveanevia.mncnow.id/live/eds/tvN/sa_dash_vmx/tvN.mpd|https://github.com/azrinahmademuri
 
-#EXTINF:-1 tvg-ID="395" tvg-logo="https://raw.githubusercontent.com/angahjee1994/logo/master/tvn.png" group-title="韩国", tvN HD (Backup) http://foctv.xyz:25510/live/@alaqib/C9vOtBPfQ2/135.m3u8|https://github.com/azrinahmademuri
+#EXTINF:-1 tvg-ID="tvN" tvg-logo="https://raw.githubusercontent.com/angahjee1994/logo/master/tvn.png" group-title="韩国", tvN HD (Backup) http://foctv.xyz:25510/live/@alaqib/C9vOtBPfQ2/135.m3u8|https://github.com/azrinahmademuri
 
 #EXTINF:-1 tvg-id="YTN.KR" tvg-logo="https://static.epg.best/kr/YTN.kr.png" group-title="韩国",YTN DMB
 http://slive.ytn.co.kr/ytn/_definst_/ytn_stream_20190306/playlist.m3u8
@@ -434,10 +434,10 @@ http://slive.ytn.co.kr/ytn/_definst_/ytn_stream_20190306/playlist.m3u8
 #EXTINF:-1 tvg-id="AlJazeeraEnglish" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/374_144.png" group-title="新闻",Al Jazeera(中东)
 https://live-hls-web-aje.getaj.net/AJE/01.m3u8
 
-#EXTINF:-1 tvg-ID="Ari.KR" logo="https://static.epg.best/kr/ArirangTV.kr.png" group-title="新闻",Arirang(韩国)
+#EXTINF:-1 tvg-ID="ArirangTV" logo="https://static.epg.best/kr/ArirangTV.kr.png" group-title="新闻",Arirang(韩国)
 http://amdlive-ch01.ctnd.com.edgesuite.net/arirang_1ch/smil:arirang_1ch.smil/playlist.m3u8
 
-#EXTINF:-1 tvg-ID="512" tvg-logo="http://static.epg.best/gb/BBCWorldNews.uk.png" group-title="新闻",BBC World News(英国)
+#EXTINF:-1 tvg-ID="BBCWorldNews" tvg-logo="http://static.epg.best/gb/BBCWorldNews.uk.png" group-title="新闻",BBC World News(英国)
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=YWY0OTBlZjEtODAyNC0zZTA0LWFhYzMtY2ZmMGE4NjVjZjU1
 https://liveanevia.mncnow.id/live/eds/BBCWorldNews/sa_dash_vmx/BBCWorldNews.mpd
@@ -451,10 +451,10 @@ https://cbsn-us-cedexis.cbsnstream.cbsnews.com/out/v1/55a8648e8f134e82a470f83d56
 #EXTINF:-1 tvg-id="CGTN" tvg-logo="http://static.epg.best/au/CGTN.au.png" group-title="新闻",CGTN(中国)
 https://live.cgtn.com/1000/prog_index.m3u8
 
-#EXTINF:-1 tvg-id="CGD.News" tvg-logo="http://static.epg.best/au/CGTNDocu.au.png" group-title="新闻",CGTN Documentary(中国)
+#EXTINF:-1 tvg-id="CGTNDocumentary" tvg-logo="http://static.epg.best/au/CGTNDocu.au.png" group-title="新闻",CGTN Documentary(中国)
 https://livedoc.cgtn.com/1000d/prog_index.m3u8
 
-#EXTINF:-1 tvg-id="511" tvg-logo="http://static.epg.best/gb/CNN.uk.png" group-title="新闻",CNN (美国)
+#EXTINF:-1 tvg-id="CNN" tvg-logo="http://static.epg.best/gb/CNN.uk.png" group-title="新闻",CNN (美国)
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=YWY0OTBlZjEtODAyNC0zZTA0LWFhYzMtY2ZmMGE4NjVjZjU1
 https://liveanevia.mncnow.id/live/eds/CNNInternational/sa_dash_vmx/CNNInternational.mpd
@@ -465,10 +465,10 @@ https://liveanevia.mncnow.id/live/eds/CNNInternational/sa_dash_vmx/CNNInternatio
 #EXTINF:-1 tvg-id="NHKWorldPremium" tvg-logo="https://static.epg.best/jp/NHKWorld.jp.png" group-title="新闻",NHK World(日本)
 https://nhkworld.webcdn.stream.ne.jp/www11/nhkworld-tv/global/2003458/live.m3u8
 
-#EXTINF:-1 tvg-id="514" tvg-ID="Sky.News" tvg-logo="http://static.epg.best/uk/SkyNews.uk.png" group-title="新闻",Sky News(英国)
+#EXTINF:-1 tvg-id="SkyNews" tvg-ID="Sky.News" tvg-logo="http://static.epg.best/uk/SkyNews.uk.png" group-title="新闻",Sky News(英国)
 https://skynews2-plutolive-vo.akamaized.net/cdhlsskynewsamericas/1013/latest.m3u8
 
-#EXTINF:-1 tvg-name="France 24 English" tvg-logo="https://i.imgur.com/61MSiq9.png" group-title="新闻",France 24 English
+#EXTINF:-1 tvg-name="France24English" tvg-logo="https://i.imgur.com/61MSiq9.png" group-title="新闻",France 24 English
 https://static.france24.com/live/F24_EN_HI_HLS/live_web.m3u8
 
 #EXTINF:-1 tvg-id="MBC Drama" tvg-name="MBC Drama" tvg-language="Arabic" tvg-logo="https://i.imgur.com/F5ER0we.png" tvg-country="AE" tvg-url="https://raw.githubusercontent.com/Fazzani/grab/master/merge.zip" group-title="Movies",MBC Drama
@@ -485,7 +485,7 @@ http://117.169.120.140:8080/live/cctv-6/.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=YWY0OTBlZjEtODAyNC0zZTA0LWFhYzMtY2ZmMGE4NjVjZjU1
-#EXTINF:-1 tvg-id="Ani.Asia" tvg-logo="https://static.epg.best/kr/Animax.kr.png" group-title="少儿",Animax
+#EXTINF:-1 tvg-id="Animax" tvg-logo="https://static.epg.best/kr/Animax.kr.png" group-title="少儿",Animax
 https://liveanevia.mncnow.id/live/eds/Animax/sa_dash_vmx/Animax.mpd
 
 #EXTINF:-1 tvg-id="Aniplus" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/b8/Aniplus_Asia_Logo.png" group-title="少儿",Aniplus
@@ -500,7 +500,7 @@ http://iptv.tvmalaysia.cc:80/114048/114048/6697
 #EXTINF:-1 tvg-id="Toku.US" tvg-logo="https://i0.wp.com/tokusatsunetwork.com/wp-content/uploads/2020/03/tsu-e1584362198575.png" group-title="少儿",TokuSHOUTsu
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5c3f8f12a93c2d61b9990a4e/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=848&deviceId=5c3f8f12a93c2d61b9990a4e&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=&deviceLon=&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false
 
-#EXTINF:-1 tvg-id="Nickelodeon" tvg-logo="https://static.epg.best/au/Nickelodeon.au.png" group-title="少儿",Nick
+#EXTINF:-1 tvg-id="NickelodeonSouthEastAsia.us" tvg-logo="https://static.epg.best/au/Nickelodeon.au.png" group-title="少儿",Nick
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5ca673e0d0bd6c2689c94ce3/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=977&deviceId=5ca673e0d0bd6c2689c94ce3&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=&deviceLon=&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false
 
 #EXTINF:-1 tvg-id="NickJr" tvg-logo="http://static.epg.best/sa/NickJr.sa.png" group-title="少儿",Nick Jr
@@ -523,7 +523,7 @@ https://rtmlive06tv.secureswiftcontent.com/rtmchannel/06-manifest.mpd|https://gi
 #EXTINF:-1 tvg-id="AstroArena" tvg-chno="801" tvg-logo="http://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Neg/801.png" group-title="Sports",Astro Arena
 #http://50.7.161.82:8278/streams/d/arena_pye/playlist.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/VvfnNP7v/Unifi-TV-Logo.png" group-title="Sports",Unifi Sports 1
+#EXTINF:-1 tvg-id="701" tvg-logo="https://i.postimg.cc/VvfnNP7v/Unifi-TV-Logo.png" group-title="Sports",Unifi Sports 1
 https://unifi-live05.secureswiftcontent.com/UnifiHD/live11.mpd
 
 #EXTINF:-1 tvg-id="702" tvg-logo="https://i.postimg.cc/VvfnNP7v/Unifi-TV-Logo.png" group-title="Sports",Unifi Sports 2
@@ -891,7 +891,7 @@ https://liveanevia.mncnow.id/live/eds/CGTN_Doc/sa_dash_vmx/CGTN_Doc.mpd
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
 https://liveanevia.mncnow.id/live/eds/CrimeInvestigation/sa_dash_vmx/CrimeInvestigation.mpd
 
-#EXTINF:-1 tvg-id="DiscoveryAsia" group-title="Knowledge" tvg-logo="https://www.mncvision.id/userfiles/image/channel/discovery_channel.png",Discovery Channel Southeast Asia
+#EXTINF:-1 tvg-id="DiscoveryChannel" group-title="Knowledge" tvg-logo="https://www.mncvision.id/userfiles/image/channel/discovery_channel.png",Discovery Channel Southeast Asia
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
 https://liveanevia.mncnow.id/live/eds/Discovery/sa_dash_vmx/Discovery.mpd
