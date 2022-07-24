@@ -1,7 +1,6 @@
 #EXTM3U
 url-tvg="https://raw.githubusercontent.com/AqFad2811/epg/main/epg.xml" refresh="1440" max-conn="1" refresh="24"
-url-tvg="https://raw.githubusercontent.com/AqFad2811/myiptv/main/mytv.xml" refresh="1440" max-conn="1" refresh="24"
-url-tvg="https://raw.githubusercontent.com/AqFad2811/myiptv/main/singapore.xml" refresh="1440" max-conn="1" refresh="24"
+url-tvg="https://i.mjh.nz/PlutoTV/us.xml.gz" refresh="1440" max-conn="1" refresh="24"
 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/93.0.4577.63 Safari/537.36
 #EXTVLCOPT:http-referrer=https://rtmklik.rtm.gov.my/
