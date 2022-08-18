@@ -48,7 +48,7 @@ https://d25tgymtnqzu8s.cloudfront.net/smil:okey/chunklist_b4596000_slENG.m3u8|ht
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/93.0.4577.63 Safari/537.36
 #EXTVLCOPT:http-referrer=http://live.tvfix.org/play/jadenhk
 #EXTINF:-1 tvg-id="TVBJade" tvg-logo="https://poster.starhubgo.com/Linear_channels2/838_1920x1080_HTV.png" tvg-url="" group-title="Malaysia",TEST
-http://aliyun4a-live.bestvcdn.com.cn/live/program/Dbestvapp-mobile-v4.live.bestvcdn.com.cnD/_zphqzvzf_key2B78944F83371A9CA1C2FD7ECFD21B63F8FE2AA16AD8864673696E2DCAFD002B22CF7FB00CFB7BF01110DBDB7AD94DEC17F4D6527687AF4F05023C60733DE550170D0BA7E9AD4C3DD46A09EBA9E24D72D2CC1B721EEA12E2CD7931DE08AF7CE2D2A05040C5F01E7C465E41209DD01C2B_/live/jsqchd/4000000/d1.m3u8
+#http://aliyun4a-live.bestvcdn.com.cn/live/program/Dbestvapp-mobile-v4.live.bestvcdn.com.cnD/_zphqzvzf_key2B78944F83371A9CA1C2FD7ECFD21B63F8FE2AA16AD8864673696E2DCAFD002B22CF7FB00CFB7BF01110DBDB7AD94DEC17F4D6527687AF4F05023C60733DE550170D0BA7E9AD4C3DD46A09EBA9E24D72D2CC1B721EEA12E2CD7931DE08AF7CE2D2A05040C5F01E7C465E41209DD01C2B_/live/jsqchd/4000000/d1.m3u8
 
 #EXTINF:-1 tvg-id="TVBJade" tvg-logo="https://poster.starhubgo.com/Linear_channels2/838_1920x1080_HTV.png" tvg-url="" group-title="Malaysia",Astro 翡翠台海外版 (TVB Jade)
 #http://live.tvfix.org/hls/jadenhk.m3u8
@@ -108,7 +108,7 @@ http://aliyun4a-live.bestvcdn.com.cn/live/program/Dbestvapp-mobile-v4.live.bestv
 https://awanitv.akamaized.net/hls/live/2017836/LiveTV1/index.m3u8
 
 #EXTINF:-1 tvg-id="BernamaTV" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/502_300.png" group-title="Malaysia",Bernama
-http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/channel/UCcZg5r9hBqK_VPUT2I7eYVw/live
+http://free.fullspeed.tv/iptv-query?streaming-ip=https://youtu.be/cAnBc-_toYs
 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/93.0.4577.63 Safari/537.36
 #EXTVLCOPT:http-referrer=https://rtmklik.rtm.gov.my/
